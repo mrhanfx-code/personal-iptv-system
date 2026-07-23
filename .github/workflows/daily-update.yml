@@ -23,19 +23,11 @@ jobs:
         run: |
           pip install requests m3u8 tmdbv3api fuzzywuzzy Pillow
       
-      - name: Download source playlists
-        run: |
-          python scripts/download_playlists.py
-      
-      - name: Enrich with TMDB metadata
+      - name: Download, enrich, and export playlists
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
-          python scripts/enrich_playlists.py
-      
-      - name: Export to multiple formats
-        run: |
-          python scripts/export_playlists.py
+          python scripts/main.py
       
       - name: Commit and push changes
         run: |
@@ -54,4 +46,4 @@ jobs:
       
       - name: Cleanup old posters
         run: |
-          python scripts/cleanup_posters.py
+          python scripts/backup_cache.py
