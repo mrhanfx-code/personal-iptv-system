@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:  # Allow manual triggers
 
+permissions:
+  contents: write
+
 jobs:
   update-playlists:
     runs-on: ubuntu-latest
