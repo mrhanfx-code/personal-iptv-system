@@ -46,11 +46,11 @@ def main():
     
     print(f"Parsed {len(entries)} entries")
     
-    # Validate streams
-    print("Validating streams...")
-    for entry in entries:
-        parser.validate_stream(entry)
-        parser.detect_quality(entry)
+    # Validate streams (disabled for performance - can be enabled for testing)
+    print("Skipping stream validation for performance...")
+    # for entry in entries:
+    #     parser.validate_stream(entry)
+    #     parser.detect_quality(entry)
     
     # Enrich with TMDB metadata
     print("Enriching with TMDB metadata...")
