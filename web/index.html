@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal IPTV System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #1a1a2e;
+            color: #eee;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            background: #16213e;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            color: #0f3460;
+        }
+        
+        .status-dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .status-card {
+            background: #16213e;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .status-card h3 {
+            color: #e94560;
+            font-size: 0.9em;
+        }
+        
+        .status-card .value {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #0f3460;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            background: #16213e;
+            color: #eee;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        
+        .filter-btn:hover, .filter-btn.active {
+            background: #e94560;
+        }
+        
+        .search-box {
+            width: 100%;
+            max-width: 400px;
+            padding: 10px;
+            background: #16213e;
+            border: 1px solid #0f3460;
+            border-radius: 5px;
+            color: #eee;
+            margin-bottom: 20px;
+        }
+        
+        .playlist-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .playlist-item {
+            background: #16213e;
+            padding: 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .playlist-item:hover {
+            transform: translateY(-5px);
+        }
+        
+        .playlist-item img {
+            width: 100%;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        
+        .playlist-item h4 {
+            color: #0f3460;
+            margin-bottom: 5px;
+        }
+        
+        .playlist-item .meta {
+            font-size: 0.8em;
+            color: #888;
+        }
+        
+        .download-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        
+        .download-btn {
+            background: #e94560;
+            color: #eee;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+        
+        .nsfw-warning {
+            background: #e94560;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: none;
+        }
+        
+        .nsfw-warning.show {
+            display: block;
+        }
+        
+        .age-verify {
+            background: #16213e;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            display: none;
+        }
+        
+        .age-verify.show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Personal IPTV System</h1>
+            <p>Comprehensive playlist management with TMDB metadata</p>
+        </header>
+        
+        <div class="status-dashboard">
+            <div class="status-card">
+                <h3>Last Update</h3>
+                <div class="value" id="last-update">-</div>
+            </div>
+            <div class="status-card">
+                <h3>Total Streams</h3>
+                <div class="value" id="total-streams">-</div>
+            </div>
+            <div class="status-card">
+                <h3>Live TV</h3>
+                <div class="value" id="live-count">-</div>
+            </div>
+            <div class="status-card">
+                <h3>VOD</h3>
+                <div class="value" id="vod-count">-</div>
+            </div>
+        </div>
+        
+        <input type="text" class="search-box" placeholder="Search by title or genre..." id="search">
+        
+        <div class="filters">
+            <button class="filter-btn active" data-category="all">All</button>
+            <button class="filter-btn" data-category="Live TV">Live TV</button>
+            <button class="filter-btn" data-category="VOD">VOD</button>
+            <button class="filter-btn" data-category="NSFW">NSFW</button>
+        </div>
+        
+        <div class="nsfw-warning" id="nsfw-warning">
+            ⚠️ Adult Content - You must be 18+ to view this section
+        </div>
+        
+        <div class="age-verify" id="age-verify">
+            <h2>Age Verification Required</h2>
+            <p>This section contains adult content. You must be 18 years or older to continue.</p>
+            <label>
+                <input type="checkbox" id="age-confirm"> I am 18 years or older
+            </label>
+            <button class="download-btn" onclick="verifyAge()">Continue</button>
+        </div>
+        
+        <div class="playlist-grid" id="playlist-grid">
+            <!-- Playlist items will be loaded here -->
+        </div>
+        
+        <div class="download-buttons">
+            <a href="output/all.m3u" class="download-btn" download>Download M3U</a>
+            <a href="output/metadata.json" class="download-btn" download>Download JSON</a>
+            <a href="output/epg.xml" class="download-btn" download>Download EPG</a>
+        </div>
+    </div>
+    
+    <script>
+        // Check for NSFW preference
+        const nsfwAllowed = localStorage.getItem('nsfwAllowed') === 'true';
+        
+        // Filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const category = btn.dataset.category;
+                
+                if (category === 'NSFW' && !nsfwAllowed) {
+                    document.getElementById('nsfw-warning').classList.add('show');
+                    document.getElementById('age-verify').classList.add('show');
+                    return;
+                }
+                
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                filterPlaylist(category);
+            });
+        });
+        
+        // Search functionality
+        document.getElementById('search').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            filterPlaylist(query);
+        });
+        
+        function verifyAge() {
+            const confirmed = document.getElementById('age-confirm').checked;
+            if (confirmed) {
+                localStorage.setItem('nsfwAllowed', 'true');
+                document.getElementById('age-verify').classList.remove('show');
+                document.getElementById('nsfw-warning').classList.remove('show');
+                document.querySelector('[data-category="NSFW"]').click();
+            }
+        }
+        
+        function filterPlaylist(category) {
+            // Load and filter playlist data
+            // This would be implemented with actual playlist data
+            console.log('Filtering by:', category);
+        }
+        
+        // Load status on page load
+        fetch('output/metadata.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('last-update').textContent = data.generated_at.split('T')[0];
+                document.getElementById('total-streams').textContent = data.total_entries;
+                
+                // Count by category
+                const liveCount = data.entries.filter(e => e.group_title === 'Live TV').length;
+                const vodCount = data.entries.filter(e => e.group_title === 'VOD').length;
+                
+                document.getElementById('live-count').textContent = liveCount;
+                document.getElementById('vod-count').textContent = vodCount;
+                
+                // Render playlist grid
+                renderPlaylist(data.entries);
+            })
+            .catch(err => {
+                console.log('Error loading status:', err);
+            });
+        
+        function renderPlaylist(entries) {
+            const grid = document.getElementById('playlist-grid');
+            grid.innerHTML = '';
+            
+            entries.slice(0, 50).forEach(entry => {
+                const item = document.createElement('div');
+                item.className = 'playlist-item';
+                item.innerHTML = `
+                    <img src="${entry.tvg_logo || 'https://via.placeholder.com/200x300'}" alt="${entry.title}">
+                    <h4>${entry.title}</h4>
+                    <div class="meta">${entry.quality || 'SD'} | ${entry.group_title || 'Uncategorized'}</div>
+                `;
+                grid.appendChild(item);
+            });
+        }
+    </script>
+</body>
+</html>

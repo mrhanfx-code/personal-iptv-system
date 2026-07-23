@@ -1,0 +1,57 @@
+name: Daily IPTV Playlist Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Allow manual triggers
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hours
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests m3u8 tmdbv3api fuzzywuzzy Pillow
+      
+      - name: Download source playlists
+        run: |
+          python scripts/download_playlists.py
+      
+      - name: Enrich with TMDB metadata
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python scripts/enrich_playlists.py
+      
+      - name: Export to multiple formats
+        run: |
+          python scripts/export_playlists.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update playlists $(date +'%Y-%m-%d')"
+          git push
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: gh-pages
+      
+      - name: Cleanup old posters
+        run: |
+          python scripts/cleanup_posters.py

@@ -1,0 +1,38 @@
+{
+  "tmdb": {
+    "api_key": "YOUR_TMDB_API_KEY_HERE",
+    "confidence_threshold": 0.75,
+    "rate_limit": 1000,
+    "cache_enabled": true
+  },
+  "paths": {
+    "cache_dir": "cache",
+    "poster_dir": "cache/posters",
+    "metadata_db": "cache/metadata.db",
+    "output_dir": "output"
+  },
+  "poster": {
+    "max_size_kb": 200,
+    "format": "WebP",
+    "retention_days": 30
+  },
+  "quality": {
+    "min_resolution": "720p",
+    "preferred_qualities": ["4K", "1080p", "720p"]
+  },
+  "github_actions": {
+    "timeout_hours": 6,
+    "warning_hours": 5,
+    "max_retries": 3,
+    "retry_backoff": "exponential"
+  },
+  "backup": {
+    "enabled": true,
+    "schedule_hours": 168,
+    "external_storage": ""
+  },
+  "monitoring": {
+    "check_interval_hours": 6,
+    "auto_rotate_on_failure": true
+  }
+}

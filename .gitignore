@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Cache and temporary files
+cache/
+data/temp/
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (optional - uncomment if you want to ignore generated playlists)
+# output/*.m3u
+# output/*.json
+# output/*.xml
+
+# Backup files
+*.bak
+*.backup

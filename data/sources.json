@@ -1,0 +1,65 @@
+{
+  "live_tv": [
+    {
+      "name": "IPTV-org",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "category": "Live TV"
+    },
+    {
+      "name": "HerbertHe IPTV Sources",
+      "url": "https://raw.githubusercontent.com/HerbertHe/iptv-sources/master/iptv.m3u",
+      "category": "Live TV"
+    },
+    {
+      "name": "Free-TV IPTV",
+      "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/iptv.m3u",
+      "category": "Live TV"
+    }
+  ],
+  "vod": [
+    {
+      "name": "jromero88 IPTV",
+      "url": "https://raw.githubusercontent.com/jromero88/iptv/master/iptv.m3u",
+      "category": "VOD"
+    },
+    {
+      "name": "shihan84 Ip-tv Collection",
+      "url": "https://raw.githubusercontent.com/shihan84/Ip-tv-Collection/master/iptv.m3u",
+      "category": "VOD"
+    },
+    {
+      "name": "time2shine IPTV",
+      "url": "https://raw.githubusercontent.com/time2shine/IPTV/master/iptv.m3u",
+      "category": "VOD"
+    }
+  ],
+  "nsfw": [
+    {
+      "name": "iptvjs IPTV",
+      "url": "https://raw.githubusercontent.com/iptvjs/iptv/master/iptv.m3u",
+      "category": "NSFW"
+    },
+    {
+      "name": "Izanami1618 AdultChannels",
+      "url": "https://raw.githubusercontent.com/Izanami1618/AdultChannels/master/iptv.m3u",
+      "category": "NSFW"
+    },
+    {
+      "name": "dancingcock iTV",
+      "url": "https://raw.githubusercontent.com/dancingcock/iTV/master/iptv.m3u",
+      "category": "NSFW"
+    }
+  ],
+  "epg": [
+    {
+      "name": "EPGshare01",
+      "url": "https://epgshare01.online/epg.xml",
+      "category": "EPG"
+    },
+    {
+      "name": "Open-EPG",
+      "url": "https://open-epg.com/epg.xml",
+      "category": "EPG"
+    }
+  ]
+}
