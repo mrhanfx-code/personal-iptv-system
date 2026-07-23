@@ -21,8 +21,7 @@ class PlaylistExporter:
     def export_m3u(self, entries: List[PlaylistEntry], filename: str = None) -> str:
         """Export to M3U format"""
         if not filename:
-            timestamp = datetime.now().strftime('%Y%m%d')
-            filename = f'all-{timestamp}.m3u'
+            filename = 'all.m3u'
         
         filepath = os.path.join(self.output_dir, filename)
         
@@ -36,8 +35,7 @@ class PlaylistExporter:
     def export_json(self, entries: List[PlaylistEntry], filename: str = None) -> str:
         """Export to JSON format with full metadata"""
         if not filename:
-            timestamp = datetime.now().strftime('%Y%m%d')
-            filename = f'metadata-{timestamp}.json'
+            filename = 'metadata.json'
         
         filepath = os.path.join(self.output_dir, filename)
         
@@ -55,8 +53,7 @@ class PlaylistExporter:
     def export_xmltv(self, entries: List[PlaylistEntry], filename: str = None) -> str:
         """Export to XMLTV EPG format"""
         if not filename:
-            timestamp = datetime.now().strftime('%Y%m%d')
-            filename = f'epg-{timestamp}.xml'
+            filename = 'epg.xml'
         
         filepath = os.path.join(self.output_dir, filename)
         
@@ -90,8 +87,7 @@ class PlaylistExporter:
         # Export each category
         for category, cat_entries in categories.items():
             safe_name = category.lower().replace(' ', '-').replace('/', '-')
-            timestamp = datetime.now().strftime('%Y%m%d')
-            filename = f'{safe_name}-{timestamp}.m3u'
+            filename = f'{safe_name}.m3u'
             filepath = self.export_m3u(cat_entries, filename)
             category_files[category] = filepath
         
@@ -105,8 +101,7 @@ class PlaylistExporter:
         else:
             filtered = entries
         
-        timestamp = datetime.now().strftime('%Y%m%d')
-        filename = f'all-{timestamp}.m3u'
+        filename = 'all.m3u'
         
         filepath = os.path.join(self.output_dir, filename)
         
