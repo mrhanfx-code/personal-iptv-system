@@ -1629,7 +1629,7 @@
     <icon src="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" />
   </channel>
   <channel id="AhlulbaytTV.uk@SD">
-    <display-name>Ahlulbayt TV (1080p) [Not 24/7]</display-name>
+    <display-name>Ahlulbayt TV (1080p)</display-name>
     <icon src="https://i.imgur.com/lNGJGjy.png" />
   </channel>
   <channel id="AhoraTV.do@SD">
@@ -3300,6 +3300,10 @@
     <display-name>Arputhar Yesu TV (720p)</display-name>
     <icon src="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" />
   </channel>
+  <channel id="Arryadia.ma@SD">
+    <display-name>Arryadia</display-name>
+    <icon src="https://i.imgur.com/XjzK3gZ.png" />
+  </channel>
   <channel id="ART.gr@SD">
     <display-name>ART (1080p)</display-name>
     <icon src="https://i.imgur.com/mNeLu04.png" />
@@ -3351,6 +3355,10 @@
   <channel id="ArubaTV.aw@SD">
     <display-name>Aruba.TV (1080p)</display-name>
     <icon src="https://i.imgur.com/9fWY09U.png" />
+  </channel>
+  <channel id="ArubaTVPlus.aw@SD">
+    <display-name>ArubaTV +</display-name>
+    <icon src="https://i.imgur.com/9s6LZJZ.png" />
   </channel>
   <channel id="ArvanTV.ir@SD">
     <display-name>Arvan TV</display-name>
@@ -4709,7 +4717,7 @@
     <icon src="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png" />
   </channel>
   <channel id="beINSportsUSA.us@SD">
-    <display-name>beIN Sports USA (720p)</display-name>
+    <display-name>beIN Sports USA (1080p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" />
   </channel>
   <channel id="beINSPORTSXTRA.us@SD">
@@ -5904,6 +5912,10 @@
     <display-name>Buzzr (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png" />
   </channel>
+  <channel id="BVC.ar@SD">
+    <display-name>BVC</display-name>
+    <icon src="https://i.imgur.com/I06TSx0.png" />
+  </channel>
   <channel id="BX1.be@SD">
     <display-name>BX1 (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/0OkSa6c.png" />
@@ -6251,6 +6263,10 @@
   <channel id="Canal4Catalunya.es@SD">
     <display-name>Canal 4 Catalunya (1080p)</display-name>
     <icon src="https://i.imgur.com/tQh8C3s.png" />
+  </channel>
+  <channel id="Canal4Esquel.ar@SD">
+    <display-name>Canal 4 Esquel</display-name>
+    <icon src="https://i.imgur.com/6kbOr16.png" />
   </channel>
   <channel id="Canal4Jujuy.ar@SD">
     <display-name>Canal 4 Jujuy</display-name>
@@ -9316,7 +9332,7 @@
     <display-name>Corts Valencianes (480p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/bVkRBg5.png" />
   </channel>
-  <channel id="CosmosTv.ar@SD">
+  <channel id="CosmosTv.ar@HD">
     <display-name>Cosmos Tv</display-name>
     <icon src="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" />
   </channel>
@@ -9729,7 +9745,7 @@
     <icon src="https://i.imgur.com/loGNYCc.png" />
   </channel>
   <channel id="CW.us@East">
-    <display-name>CW (720p)</display-name>
+    <display-name>CW (1080p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" />
   </channel>
   <channel id="CWBTV.br@SD">
@@ -10169,7 +10185,7 @@
     <icon src="https://i.imgur.com/YV27Chs.png" />
   </channel>
   <channel id="DeenTV.uk@SD">
-    <display-name>Deen TV (576p) [Not 24/7]</display-name>
+    <display-name>Deen TV (576p)</display-name>
     <icon src="https://i.imgur.com/Zp62Nbd.png" />
   </channel>
   <channel id="DeepHouseDistrict.nl@SD">
@@ -14880,6 +14896,10 @@
     <display-name>HD365 TV</display-name>
     <icon src="https://i.imgur.com/2cLx4ja.png" />
   </channel>
+  <channel id="HeartRadioAruba.aw@SD">
+    <display-name>Heart Radio Aruba</display-name>
+    <icon src="https://i.imgur.com/MKZCskA.png" />
+  </channel>
   <channel id="Heartland.us@Eastern">
     <display-name>Heartland (720p)</display-name>
     <icon src="https://i.imgur.com/djCq2Z5.png" />
@@ -16317,7 +16337,7 @@
     <icon src="https://i.imgur.com/0jgzoSF.png" />
   </channel>
   <channel id="ItsSupernaturalNetwork.us@SD">
-    <display-name>It's Supernatural! Network (ISN Network) (1080p)</display-name>
+    <display-name>It's Supernatural! Network (1080p)</display-name>
     <icon src="https://i.imgur.com/JWrdL9a.png" />
   </channel>
   <channel id="IT3.ua@SD">
@@ -16887,6 +16907,10 @@
   <channel id="JRTVJarviradio.fi@SD">
     <display-name>JRTV Järviradio (720p)</display-name>
     <icon src="https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg" />
+  </channel>
+  <channel id="JTBSClassic.in@Main">
+    <display-name>JTBS Classic (480p)</display-name>
+    <icon src="https://jtbs-classic.web.app/logo.png" />
   </channel>
   <channel id="JTV.id@SD">
     <display-name>JTV (720p)</display-name>
@@ -19067,6 +19091,10 @@
   <channel id="LolweTV.ke@SD">
     <display-name>Lolwe TV (576p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/tjZ1cOP.png" />
+  </channel>
+  <channel id="LombardiaTV.it@SD">
+    <display-name>Lombardia TV</display-name>
+    <icon src="https://i.imgur.com/frVhm9q.png" />
   </channel>
   <channel id="TAPTVChannel23.us@SD">
     <display-name>Lompoc TAP TV Channel 23 (720p)</display-name>
@@ -22332,6 +22360,10 @@
     <display-name>NBC News NOW HD (720p)</display-name>
     <icon src="https://i.imgur.com/JZt2qh5.png" />
   </channel>
+  <channel id="NBCSportsBayArea.us@SD">
+    <display-name>NBC Sports Bay Area (1080p) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/MTgUVKx.png" />
+  </channel>
   <channel id="NBCSportsChicago.us@SD">
     <display-name>NBC Sports Chicago (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/500px-NBC_Sports_Chicago_Logo.svg.png" />
@@ -22339,6 +22371,10 @@
   <channel id="NBCSportsNOW.us@SD">
     <display-name>NBC Sports NOW (1080p)</display-name>
     <icon src="https://i.imgur.com/EzNf2Yx.png" />
+  </channel>
+  <channel id="NBCSportsPhiladelphia.us@SD">
+    <display-name>NBC Sports Philadelphia (1080p) [Geo-blocked]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png" />
   </channel>
   <channel id="NBCTV.pg@SD">
     <display-name>NBC TV (1080p) [Not 24/7]</display-name>
@@ -22825,7 +22861,7 @@
     <icon src="https://i.imgur.com/mPGtwAP.png" />
   </channel>
   <channel id="NFLNetwork.us@SD">
-    <display-name>NFL Network (720p)</display-name>
+    <display-name>NFL Network (1080p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" />
   </channel>
   <channel id="NGFederal.ar@SD">
@@ -23995,6 +24031,10 @@
   <channel id="OmanTV.om@SD">
     <display-name>Oman TV (1080p)</display-name>
     <icon src="https://i.imgur.com/rBftT9x.png" />
+  </channel>
+  <channel id="Omega.is@SD">
+    <display-name>Omega (720p)</display-name>
+    <icon src="https://i.imgur.com/doybFbZ.png" />
   </channel>
   <channel id="RadioOmegaTV.hn@SD">
     <display-name>Omega TV (720p) [Not 24/7]</display-name>
@@ -33732,6 +33772,10 @@
     <display-name>Tajikistan (1080p)</display-name>
     <icon src="https://i.imgur.com/sEXCFNk.png" />
   </channel>
+  <channel id="TakbeerTV.uk@SD">
+    <display-name>Takbeer TV (720p)</display-name>
+    <icon src="https://i.imgur.com/Cvnps2J.jpg" />
+  </channel>
   <channel id="TakeshisCastle.de@DACH">
     <display-name>Takeshi's Castle</display-name>
     <icon src="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" />
@@ -34617,7 +34661,7 @@
     <icon src="https://i.imgur.com/4nspLHb.png" />
   </channel>
   <channel id="Telemundo.us@East">
-    <display-name>Telemundo (720p)</display-name>
+    <display-name>Telemundo (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" />
   </channel>
   <channel id="TelemundoAlDia.us@HD">
@@ -34641,7 +34685,7 @@
     <icon src="https://i.imgur.com/9bPcYIN.png" />
   </channel>
   <channel id="Telemundo.us@West">
-    <display-name>Telemundo West (720p)</display-name>
+    <display-name>Telemundo West (1080p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" />
   </channel>
   <channel id="TeleMusikSenegal.sn@SD">
@@ -41529,7 +41573,7 @@
     <icon src="https://i.imgur.com/QVWBNGM.png" />
   </channel>
   <channel id="YazdTV.ir@SD">
-    <display-name>Yazd</display-name>
+    <display-name>Yazd TV</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" />
   </channel>
   <channel id="YemenShababChannel.ye@SD">

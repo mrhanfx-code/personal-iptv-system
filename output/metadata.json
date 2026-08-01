@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T03:31:23.215106",
-  "total_entries": 12634,
+  "generated_at": "2026-08-01T03:30:08.954659",
+  "total_entries": 12645,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -5607,8 +5607,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8",
-      "title": "Ahlulbayt TV (1080p) [Not 24/7]",
+      "url": "https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8",
+      "title": "Ahlulbayt TV (1080p)",
       "duration": -1,
       "tvg_id": "AhlulbaytTV.uk@SD",
       "tvg_name": null,
@@ -11127,6 +11127,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
+      "title": "Arryadia",
+      "duration": -1,
+      "tvg_id": "Arryadia.ma@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/XjzK3gZ.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://rumble.com/live-hls-dvr/78ixwi/playlist.m3u8",
       "title": "ART (1080p)",
       "duration": -1,
@@ -11301,6 +11313,18 @@
       "tvg_id": "ArubaTV.aw@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/9fWY09U.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+      "title": "ArubaTV +",
+      "duration": -1,
+      "tvg_id": "ArubaTVPlus.aw@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/9s6LZJZ.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -15903,8 +15927,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
-      "title": "beIN Sports USA (720p)",
+      "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
+      "title": "beIN Sports USA (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "beINSportsUSA.us@SD",
       "tvg_name": null,
@@ -20175,6 +20199,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8",
+      "title": "BVC",
+      "duration": -1,
+      "tvg_id": "BVC.ar@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/I06TSx0.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
       "title": "BX1 (720p) [Not 24/7]",
       "duration": -1,
@@ -21297,6 +21333,18 @@
       "tvg_id": "Canal4Catalunya.es@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/tQh8C3s.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
+      "title": "Canal 4 Esquel",
+      "duration": -1,
+      "tvg_id": "Canal4Esquel.ar@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/6kbOr16.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -31683,10 +31731,10 @@
       "geo_blocked": false
     },
     {
-      "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
+      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
       "title": "Cosmos Tv",
       "duration": -1,
-      "tvg_id": "CosmosTv.ar@SD",
+      "tvg_id": "CosmosTv.ar@HD",
       "tvg_name": null,
       "tvg_logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
       "group_title": "Live TV",
@@ -33315,8 +33363,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://gpuserver3.tier1streams.com/CW/index.m3u8",
-      "title": "CW (720p)",
+      "url": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8",
+      "title": "CW (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "CW.us@East",
       "tvg_name": null,
@@ -34875,8 +34923,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8",
-      "title": "Deen TV (576p) [Not 24/7]",
+      "url": "https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8",
+      "title": "Deen TV (576p)",
       "duration": -1,
       "tvg_id": "DeenTV.uk@SD",
       "tvg_name": null,
@@ -51819,6 +51867,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+      "title": "Heart Radio Aruba",
+      "duration": -1,
+      "tvg_id": "HeartRadioAruba.aw@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/MKZCskA.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8",
       "title": "HeartFelt TV (1080p)",
       "duration": -1,
@@ -57231,8 +57291,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8",
-      "title": "It's Supernatural! Network (ISN Network) (1080p)",
+      "url": "https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8",
+      "title": "It's Supernatural! Network (1080p)",
       "duration": -1,
       "tvg_id": "ItsSupernaturalNetwork.us@SD",
       "tvg_name": null,
@@ -59109,6 +59169,18 @@
       "tvg_id": "JRTVJarviradio.fi@SD",
       "tvg_name": null,
       "tvg_logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "title": "JTBS Classic (480p)",
+      "duration": -1,
+      "tvg_id": "JTBSClassic.in@Main",
+      "tvg_name": null,
+      "tvg_logo": "https://jtbs-classic.web.app/logo.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -66645,6 +66717,18 @@
       "tvg_id": "LolweTV.ke@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/tjZ1cOP.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8",
+      "title": "Lombardia TV",
+      "duration": -1,
+      "tvg_id": "LombardiaTV.it@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/frVhm9q.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -77991,6 +78075,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
+      "title": "NBC Sports Bay Area (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "NBCSportsBayArea.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/MTgUVKx.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://206.212.244.63/6141/index.m3u8",
       "title": "NBC Sports Chicago (720p)",
       "duration": -1,
@@ -78009,6 +78105,18 @@
       "tvg_id": "NBCSportsNOW.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/EzNf2Yx.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
+      "title": "NBC Sports Philadelphia (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "NBCSportsPhiladelphia.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -79599,8 +79707,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
-      "title": "NFL Network (720p)",
+      "url": "https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8",
+      "title": "NFL Network (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "NFLNetwork.us@SD",
       "tvg_name": null,
@@ -83361,6 +83469,18 @@
       "tvg_id": "OmanTV.om@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/rBftT9x.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
+      "title": "Omega (720p)",
+      "duration": -1,
+      "tvg_id": "Omega.is@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/doybFbZ.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -116343,6 +116463,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8",
+      "title": "Takbeer TV (720p)",
+      "duration": -1,
+      "tvg_id": "TakbeerTV.uk@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/Cvnps2J.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8",
       "title": "Takeshi's Castle",
       "duration": -1,
@@ -119223,8 +119355,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
-      "title": "Telemundo (720p)",
+      "url": "http://45.190.13.8/TelemundoHD/index.m3u8",
+      "title": "Telemundo (1080p)",
       "duration": -1,
       "tvg_id": "Telemundo.us@East",
       "tvg_name": null,
@@ -119355,8 +119487,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
-      "title": "Telemundo West (720p)",
+      "url": "https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8",
+      "title": "Telemundo West (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "Telemundo.us@West",
       "tvg_name": null,
@@ -143223,8 +143355,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
-      "title": "Yazd",
+      "url": "http://89.45.60.82/0.ts",
+      "title": "Yazd TV",
       "duration": -1,
       "tvg_id": "YazdTV.ir@SD",
       "tvg_name": null,
