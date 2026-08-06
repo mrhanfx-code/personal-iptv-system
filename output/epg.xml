@@ -3280,6 +3280,10 @@
     <display-name>Armenia Premium (720p)</display-name>
     <icon src="" />
   </channel>
+  <channel id="ArmeniaTV.am@SD">
+    <display-name>Armenia TV (720p)</display-name>
+    <icon src="https://i.imgur.com/UnoI5uM.png" />
+  </channel>
   <channel id="ArmeniaTVSatellite.am">
     <display-name>Armenia TV Satellite (576p)</display-name>
     <icon src="https://i.imgur.com/UnoI5uM.png" />
@@ -5172,10 +5176,6 @@
     <display-name>Biosfera TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/khytcgd.png" />
   </channel>
-  <channel id="BioskopTelkomVision.id@HD">
-    <display-name>Bioskop TelkomVision (576p)</display-name>
-    <icon src="https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png" />
-  </channel>
   <channel id="BirTV.tr@SD">
     <display-name>Bir TV (720p)</display-name>
     <icon src="https://birtv.tv/assets/upload/637f83951df60.png" />
@@ -5294,7 +5294,7 @@
   </channel>
   <channel id="BloombergTVMongolia.mn@SD">
     <display-name>Bloomberg TV Mongolia HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/OuogLHx.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/44.png" />
   </channel>
   <channel id="BloombergTV.us@LiveEvent">
     <display-name>Bloomberg TV US Live Event (720p)</display-name>
@@ -5942,7 +5942,7 @@
   </channel>
   <channel id="C1.mn@SD">
     <display-name>C1 (1080p)</display-name>
-    <icon src="https://i.imgur.com/v1mHG5x.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/11.png" />
   </channel>
   <channel id="C9N.py@SD">
     <display-name>C9N (1080p)</display-name>
@@ -7918,7 +7918,7 @@
   </channel>
   <channel id="CentralTV.mn@SD">
     <display-name>Central TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/E9wAUrT.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/7.png" />
   </channel>
   <channel id="CerritosTV3.us@SD">
     <display-name>Cerritos TV3 (360p)</display-name>
@@ -11284,10 +11284,6 @@
     <display-name>E40 (1080p)</display-name>
     <icon src="https://i.imgur.com/0RypDUY.png" />
   </channel>
-  <channel id="EInternational.id@America">
-    <display-name>E International (576p)</display-name>
-    <icon src="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" />
-  </channel>
   <channel id="EInternational.id@Asia">
     <display-name>E International Asia (576p)</display-name>
     <icon src="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" />
@@ -11382,7 +11378,7 @@
   </channel>
   <channel id="EagleNews.mn@SD">
     <display-name>Eagle News HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/2oqXpve.jpg" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/13.png" />
   </channel>
   <channel id="EawazTV.ca@SD">
     <display-name>Eawaz TV (720p) [Not 24/7]</display-name>
@@ -11534,7 +11530,7 @@
   </channel>
   <channel id="EdutainmentTV.mn@SD">
     <display-name>Education (1080p)</display-name>
-    <icon src="https://i.imgur.com/0m8t3vh.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/8.png" />
   </channel>
   <channel id="Eduvision.co@SD">
     <display-name>Eduvision (1080p)</display-name>
@@ -14466,6 +14462,10 @@
   </channel>
   <channel id="GreenGoldTV.np@SD">
     <display-name>Green Gold TV</display-name>
+    <icon src="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" />
+  </channel>
+  <channel id="GreenGoldTV.np@HD">
+    <display-name>Green Gold TV HD</display-name>
     <icon src="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" />
   </channel>
   <channel id="GreenTV.bd@SD">
@@ -19662,7 +19662,7 @@
   </channel>
   <channel id="MalchinTV.mn@SD">
     <display-name>Malchin TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/vCdEBZo.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/12.png" />
   </channel>
   <channel id="MaldivesTV.mv@SD">
     <display-name>Maldives TV (720p)</display-name>
@@ -20866,7 +20866,7 @@
   </channel>
   <channel id="TV25.mn@SD">
     <display-name>MN25 (1080p)</display-name>
-    <icon src="https://i.imgur.com/F3MMJMd.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/5.png" />
   </channel>
   <channel id="MNPlus.mn@SD">
     <display-name>MN+</display-name>
@@ -20890,15 +20890,15 @@
   </channel>
   <channel id="MNBWorld.mn@SD">
     <display-name>MNB World (1080p)</display-name>
-    <icon src="https://i.imgur.com/PHlj84Q.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/22.png" />
   </channel>
   <channel id="MNBMongoliinMedee.mn@SD">
     <display-name>MNB Монголын Мэдээ (1080p)</display-name>
-    <icon src="https://i.imgur.com/KUvJzUD.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/21.png" />
   </channel>
   <channel id="MongolianNewsChannel.mn@SD">
     <display-name>MNC (1080p)</display-name>
-    <icon src="https://i.imgur.com/gMVqbwU.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/25.png" />
   </channel>
   <channel id="MNCTV.id@SD">
     <display-name>MNCTV (720p)</display-name>
@@ -28681,7 +28681,7 @@
     <icon src="https://i.imgur.com/FMX4QCM.png" />
   </channel>
   <channel id="RCNNovelas.co@SD">
-    <display-name>RCN Novelas (720p)</display-name>
+    <display-name>RCN Novelas (1080p)</display-name>
     <icon src="https://i.imgur.com/9wxdWNQ.png" />
   </channel>
   <channel id="RCTI.id@HD">
@@ -32122,7 +32122,7 @@
   </channel>
   <channel id="SonyMax1.in@SD">
     <display-name>Sony Max 1 (720p)</display-name>
-    <icon src="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png" />
+    <icon src="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="SonyMax2.in@SD">
     <display-name>Sony Max 2 (576p)</display-name>
@@ -32790,7 +32790,7 @@
   </channel>
   <channel id="StarTV.mn@SD">
     <display-name>Star TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/R6hxJgl.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/15.png" />
   </channel>
   <channel id="StarTV.tr@SD">
     <display-name>Star TV (720p)</display-name>
@@ -33234,7 +33234,7 @@
   </channel>
   <channel id="SuldTV.mn@SD">
     <display-name>Suld TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/CnLxehv.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/20.png" />
   </channel>
   <channel id="SultraTV.id@SD">
     <display-name>Sultra TV (720p) [Not 24/7]</display-name>
@@ -34429,7 +34429,7 @@
     <icon src="https://i.imgur.com/g61TdZ3.png" />
   </channel>
   <channel id="Telecentro.ve@SD">
-    <display-name>Telecentro (720p)</display-name>
+    <display-name>Telecentro (480p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/QtRNfaj.png" />
   </channel>
   <channel id="TeleChiara.it@SD">
@@ -35134,7 +35134,7 @@
   </channel>
   <channel id="TenGerTV.mn@SD">
     <display-name>TenGer TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/MmPvkcO.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/17.png" />
   </channel>
   <channel id="TennisChannel.us@SD">
     <display-name>Tennis Channel (1080p)</display-name>
@@ -35770,7 +35770,7 @@
   </channel>
   <channel id="TMTV.mn@SD">
     <display-name>TM TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/Bza9r7U.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/19.png" />
   </channel>
   <channel id="TMTV.us@SD">
     <display-name>TM TV (720p)</display-name>
@@ -36718,7 +36718,7 @@
   </channel>
   <channel id="TV5.mn@SD">
     <display-name>TV5 HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/asGQfGN.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/6.png" />
   </channel>
   <channel id="TV5Kannada.in@SD">
     <display-name>TV5 Kannada (576p)</display-name>
@@ -36830,7 +36830,7 @@
   </channel>
   <channel id="TV8.mn@SD">
     <display-name>TV8 HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/EguOdxW.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/18.png" />
   </channel>
   <channel id="TV9.my@SD">
     <display-name>TV9</display-name>
@@ -36850,7 +36850,7 @@
   </channel>
   <channel id="TV9.mn@SD">
     <display-name>TV9 HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/QFteAgd.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/9.png" />
   </channel>
   <channel id="TV9Kannada.in@SD">
     <display-name>TV9 Kannada (720p) [Not 24/7]</display-name>
@@ -41016,6 +41016,10 @@
     <display-name>WGAL-DT3 (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/KQSKIdZ.jpeg" />
   </channel>
+  <channel id="WGBODT661.us@HD">
+    <display-name>WGBO-DT 66.1 (2160p)</display-name>
+    <icon src="https://i.imgur.com/5RIEi99.png" />
+  </channel>
   <channel id="WGGSTV161.us@HD">
     <display-name>WGGS-DT1 (720p)</display-name>
     <icon src="https://i.imgur.com/Btw83JA.png" />
@@ -42646,7 +42650,7 @@
   </channel>
   <channel id="UlziiTV.mn@SD">
     <display-name>Өлзий ТВ (1080p)</display-name>
-    <icon src="https://i.imgur.com/p7tsUTI.png" />
+    <icon src="https://www.mongolsat.mn/assets/img/channel/28.png" />
   </channel>
   <channel id="PervyygorodskoyOdessa.ua@SD">
     <display-name>Первый городской (Одесса) (1080p) [Not 24/7]</display-name>
