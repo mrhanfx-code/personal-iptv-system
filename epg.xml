@@ -3844,6 +3844,10 @@
     <display-name>BabyFirst (720p)</display-name>
     <icon src="https://i.imgur.com/WxLHBwu.png" />
   </channel>
+  <channel id="BabyFirst.us@Spanish">
+    <display-name>BabyFirst Spanish (720p)</display-name>
+    <icon src="https://i.imgur.com/WxLHBwu.png" />
+  </channel>
   <channel id="BabyTV.uk@LatinAmerica">
     <display-name>BabyTV Latin America (720p)</display-name>
     <icon src="https://i.imgur.com/4BDJ5FT.png" />
@@ -4447,6 +4451,26 @@
   <channel id="Becker.de@DACH">
     <display-name>Becker</display-name>
     <icon src="https://images.pluto.tv/channels/630348a54c48ce00077eb6c7/colorLogoPNG.png" />
+  </channel>
+  <channel id="beINBoxOffice1.tr@SD">
+    <display-name>beIN Box Office 1</display-name>
+    <icon src="https://i.imgur.com/MGrJFVN.png" />
+  </channel>
+  <channel id="beINBoxOffice2.tr@SD">
+    <display-name>beIN Box Office 2</display-name>
+    <icon src="https://i.imgur.com/Kg7oOcO.png" />
+  </channel>
+  <channel id="beINBoxOffice3.tr@SD">
+    <display-name>beIN Box Office 3</display-name>
+    <icon src="https://i.imgur.com/5NZur1S.png" />
+  </channel>
+  <channel id="beINMoviesStars.tr@SD">
+    <display-name>beIN Movies Stars</display-name>
+    <icon src="https://i.imgur.com/eryPkrT.png" />
+  </channel>
+  <channel id="beINMoviesTurk.tr@SD">
+    <display-name>beIN Movies Turk</display-name>
+    <icon src="https://i.imgur.com/nw8Sa2z.png" />
   </channel>
   <channel id="beINSportsUSA.us@SD">
     <display-name>beIN Sports USA (1080p) [Geo-blocked]</display-name>
@@ -10001,7 +10025,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
   </channel>
   <channel id="DisneyChannel.us@East">
-    <display-name>Disney Channel (720p)</display-name>
+    <display-name>Disney Channel (720p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" />
   </channel>
   <channel id="DisneyChannelLatinAmerica.ar@Panregional">
@@ -10951,6 +10975,10 @@
   <channel id="ElNuevoDiarioTV.do@SD">
     <display-name>El Nuevo Diario TV (480p)</display-name>
     <icon src="https://i.imgur.com/yjuTl6N.png" />
+  </channel>
+  <channel id="ElPinguinoTV.cl@SD">
+    <display-name>El Pinguino TV (720p)</display-name>
+    <icon src="https://i.imgur.com/ikEs9b8.png" />
   </channel>
   <channel id="ElPitucoTV.do@HD">
     <display-name>El Pituco TV (720p)</display-name>
@@ -12751,6 +12779,10 @@
   <channel id="FujairahTV.ae@SD">
     <display-name>Fujairah TV (720p)</display-name>
     <icon src="https://i.imgur.com/D2tOhbE.png" />
+  </channel>
+  <channel id="FujianComprehensiveChannel.cn@SD">
+    <display-name>Fujian Comprehensive Channel</display-name>
+    <icon src="https://i.imgur.com/rePTGa6.png" />
   </channel>
   <channel id="FunRoads.us@SD">
     <display-name>Fun Roads (720p)</display-name>
@@ -29608,9 +29640,17 @@
     <display-name>SIC Alta Definição (1080p)</display-name>
     <icon src="https://i.imgur.com/VdPwyQv.png" />
   </channel>
+  <channel id="SICMulher.pt@SD">
+    <display-name>SIC Mulher</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" />
+  </channel>
   <channel id="SICNoticias.pt@SD">
     <display-name>SIC Notícias (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/Gi6Q26M.png" />
+  </channel>
+  <channel id="SICRadical.pt@SD">
+    <display-name>SIC Radical</display-name>
+    <icon src="https://i.imgur.com/6g0obyk.png" />
   </channel>
   <channel id="SICReplay.pt@SD">
     <display-name>SIC Replay (1080p)</display-name>
@@ -32593,7 +32633,7 @@
     <icon src="https://i.imgur.com/9bPcYIN.png" />
   </channel>
   <channel id="Telemundo.us@West">
-    <display-name>Telemundo West (720p)</display-name>
+    <display-name>Telemundo West (2160p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" />
   </channel>
   <channel id="TeleMusikSenegal.sn@SD">
@@ -34195,6 +34235,10 @@
   <channel id="TRTMuzik.tr@SD">
     <display-name>TRT Müzik (720p)</display-name>
     <icon src="https://i.imgur.com/JgUzRH8.png" />
+  </channel>
+  <channel id="TRTSpor.tr@SD">
+    <display-name>TRT Spor (720p)</display-name>
+    <icon src="https://i.imgur.com/6tv0zxh.png" />
   </channel>
   <channel id="TRTSporYildiz.tr@SD">
     <display-name>TRT Spor Yildiz (1440p) [Geo-blocked]</display-name>
@@ -37696,6 +37740,10 @@
     <display-name>Viasat History [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/wRP9XA7.png" />
   </channel>
+  <channel id="ViasatHistory.tr@SD">
+    <display-name>Viasat History (720p)</display-name>
+    <icon src="https://i.imgur.com/wRP9XA7.png" />
+  </channel>
   <channel id="ViasatNature.bg@SD">
     <display-name>Viasat Nature (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" />
@@ -38701,7 +38749,7 @@
     <icon src="" />
   </channel>
   <channel id="WLTVDT231.us@HD">
-    <display-name>WLTV-DT1 [Geo-blocked]</display-name>
+    <display-name>WLTV-DT 23.1 (720p)</display-name>
     <icon src="https://i.imgur.com/Sr3EoK5.png" />
   </channel>
   <channel id="WMBCTV631.us@HD">
