@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T02:24:05.272345",
-  "total_entries": 11913,
+  "generated_at": "2026-08-15T01:36:18.419273",
+  "total_entries": 11919,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -12927,6 +12927,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
+      "title": "BabyFirst Spanish (720p)",
+      "duration": -1,
+      "tvg_id": "BabyFirst.us@Spanish",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/WxLHBwu.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://138.121.15.230:9002/BABY-TV/index.m3u8",
       "title": "BabyTV Latin America (720p)",
       "duration": -1,
@@ -15021,6 +15033,66 @@
       "tvg_id": "",
       "tvg_name": null,
       "tvg_logo": "",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
+      "title": "beIN Box Office 1",
+      "duration": -1,
+      "tvg_id": "beINBoxOffice1.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/MGrJFVN.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
+      "title": "beIN Box Office 2",
+      "duration": -1,
+      "tvg_id": "beINBoxOffice2.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/Kg7oOcO.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
+      "title": "beIN Box Office 3",
+      "duration": -1,
+      "tvg_id": "beINBoxOffice3.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/5NZur1S.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
+      "title": "beIN Movies Stars",
+      "duration": -1,
+      "tvg_id": "beINMoviesStars.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/eryPkrT.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
+      "title": "beIN Movies Turk",
+      "duration": -1,
+      "tvg_id": "beINMoviesTurk.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/nw8Sa2z.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -34407,8 +34479,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
-      "title": "Disney Channel (720p)",
+      "url": "http://212.5.144.156/disney/index.m3u8",
+      "title": "Disney Channel (720p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "DisneyChannel.us@East",
       "tvg_name": null,
@@ -37833,6 +37905,18 @@
       "tvg_id": "ElNuevoDiarioTV.do@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/yjuTl6N.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+      "title": "El Pinguino TV (720p)",
+      "duration": -1,
+      "tvg_id": "ElPinguinoTV.cl@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/ikEs9b8.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -44205,6 +44289,18 @@
       "tvg_id": "FujairahTV.ae@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/D2tOhbE.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88",
+      "title": "Fujian Comprehensive Channel",
+      "duration": -1,
+      "tvg_id": "FujianComprehensiveChannel.cn@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/rePTGa6.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -102003,12 +102099,36 @@
       "geo_blocked": false
     },
     {
+      "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8",
+      "title": "SIC Mulher",
+      "duration": -1,
+      "tvg_id": "SICMulher.pt@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://sicnot.live.impresa.pt/sicnot.m3u8",
       "title": "SIC Notícias (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "SICNoticias.pt@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/Gi6Q26M.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8",
+      "title": "SIC Radical",
+      "duration": -1,
+      "tvg_id": "SICRadical.pt@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/6g0obyk.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -112395,8 +112515,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
-      "title": "Telemundo West (720p)",
+      "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
+      "title": "Telemundo West (2160p)",
       "duration": -1,
       "tvg_id": "Telemundo.us@West",
       "tvg_name": null,
@@ -116235,7 +116355,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+      "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
       "title": "TN8 (1080p)",
       "duration": -1,
       "tvg_id": "TN8.ni@SD",
@@ -118305,6 +118425,18 @@
       "tvg_id": "TRTMuzik.tr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/JgUzRH8.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+      "title": "TRT Spor (720p)",
+      "duration": -1,
+      "tvg_id": "TRTSpor.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/6tv0zxh.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -129663,6 +129795,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8",
+      "title": "Viasat History (720p)",
+      "duration": -1,
+      "tvg_id": "ViasatHistory.tr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/wRP9XA7.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://shift03.isp.bg/ViasatNature_HD/index.m3u8",
       "title": "Viasat Nature (1080p)",
       "duration": -1,
@@ -130407,7 +130551,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://45.171.108.253:8888/VIVA/index.m3u8",
+      "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
       "title": "Viva Nicaragua Canal 13 (720p)",
       "duration": -1,
       "tvg_id": "VivaNicaraguaCanal13.ni@SD",
@@ -133491,8 +133635,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
-      "title": "WLTV-DT1 [Geo-blocked]",
+      "url": "http://168.228.44.241:9997/play/a09d/index.m3u8",
+      "title": "WLTV-DT 23.1 (720p)",
       "duration": -1,
       "tvg_id": "WLTVDT231.us@HD",
       "tvg_name": null,
@@ -140547,18 +140691,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://121.19.134.246:808/hls/23/index.m3u8",
-      "title": "少儿科教",
-      "duration": -1,
-      "tvg_id": "",
-      "tvg_name": null,
-      "tvg_logo": "",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://livealone302.iqilu.com/iqilu/typd.m3u8",
       "title": "山东体育 (1080p) [Geo-blocked]",
       "duration": -1,
@@ -141417,66 +141549,6 @@
       "tvg_id": "JiangxiTV.cn@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/RrLthH3.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://121.19.134.246:808/hls/24/index.m3u8",
-      "title": "河北公共",
-      "duration": -1,
-      "tvg_id": "",
-      "tvg_name": null,
-      "tvg_logo": "",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://121.19.134.246:808/hls/25/index.m3u8",
-      "title": "河北农民",
-      "duration": -1,
-      "tvg_id": "",
-      "tvg_name": null,
-      "tvg_logo": "",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://121.19.134.246:808/hls/22/index.m3u8",
-      "title": "河北影视",
-      "duration": -1,
-      "tvg_id": "",
-      "tvg_name": null,
-      "tvg_logo": "",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://121.19.134.246:808/hls/20/index.m3u8",
-      "title": "河北经济",
-      "duration": -1,
-      "tvg_id": "",
-      "tvg_name": null,
-      "tvg_logo": "",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://121.19.134.246:808/hls/21/index.m3u8",
-      "title": "河北都市",
-      "duration": -1,
-      "tvg_id": "",
-      "tvg_name": null,
-      "tvg_logo": "",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
