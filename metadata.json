@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T01:37:54.590619",
-  "total_entries": 12000,
+  "generated_at": "2026-08-26T01:42:37.569255",
+  "total_entries": 12014,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -9291,12 +9291,12 @@
       "geo_blocked": false
     },
     {
-      "url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
-      "title": "Antena International (720P)",
+      "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
+      "title": "Antena Seis TV (720p) [Geo-blocked]",
       "duration": -1,
-      "tvg_id": "AntenaInternational.ro@SD",
+      "tvg_id": "AntenaSeisTV.cr@SD",
       "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+      "tvg_logo": "https://i.imgur.com/9Nh2mo9.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -9304,23 +9304,11 @@
     },
     {
       "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
-      "title": "Antena Monden (720p)",
+      "title": "Antena Stars (720p)",
       "duration": -1,
-      "tvg_id": "AntenaMonden.ro@SD",
+      "tvg_id": "AntenaStars.ro@SD",
       "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://video1.azulstream.com:8081/antenaseistv/index.m3u8",
-      "title": "Antena Seis TV (720p) [Geo-blocked]",
-      "duration": -1,
-      "tvg_id": "AntenaSeisTV.cr@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/9Nh2mo9.png",
+      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -10365,6 +10353,18 @@
       "tvg_id": "ArgentinisimaSatelital.ar@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/xFgJawa.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+      "title": "Arges TV (720p)",
+      "duration": -1,
+      "tvg_id": "ArgesTV.ro@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/qufz6nk.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -14013,6 +14013,18 @@
       "tvg_id": "BBCEarth.uk@Turkiye",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/nGSsUd4.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
+      "title": "BBC First Romania",
+      "duration": -1,
+      "tvg_id": "BBCFirst.uk@Romania",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/UBoBYUI.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -17805,6 +17817,18 @@
       "tvg_id": "",
       "tvg_name": null,
       "tvg_logo": "",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+      "title": "Bollywood Classic Romania",
+      "duration": -1,
+      "tvg_id": "BollywoodClassic.ro@Romania",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/ugPo6ca.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -40575,6 +40599,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+      "title": "Eurosport 4K Czechia",
+      "duration": -1,
+      "tvg_id": "Eurosport4KCzechia.cz@UHD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/0o3zjC7.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
       "title": "EUTV (720p)",
       "duration": -1,
@@ -42507,6 +42543,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8",
+      "title": "FILMBOX+ Comedy Romania",
+      "duration": -1,
+      "tvg_id": "FILMBOXPlusComedy.pl@Romania",
+      "tvg_name": null,
+      "tvg_logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8",
       "title": "FILMBOX+ Emotion Adria",
       "duration": -1,
@@ -42579,8 +42627,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
-      "title": "FILMBOX+ Festival HD",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
+      "title": "FILMBOX+ Festival HD (1080p)",
       "duration": -1,
       "tvg_id": "FILMBOXPlusFestival.pl@HD",
       "tvg_name": null,
@@ -42627,8 +42675,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8",
-      "title": "FILMBOX+ Hits Romania",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8",
+      "title": "FILMBOX+ Hits Romania (576p)",
       "duration": -1,
       "tvg_id": "FILMBOXPlusHits.pl@Romania",
       "tvg_name": null,
@@ -42675,6 +42723,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
+      "title": "FILMBOX+ Love & Crime Romania",
+      "duration": -1,
+      "tvg_id": "FILMBOXPlusLoveCrime.pl@Romania",
+      "tvg_name": null,
+      "tvg_logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://213.91.179.28:8000/play/a06i",
       "title": "FILMBOX+ One Bulgaria",
       "duration": -1,
@@ -42711,8 +42771,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
-      "title": "FILMBOX+ One Romania",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
+      "title": "FILMBOX+ One Romania (576p)",
       "duration": -1,
       "tvg_id": "FILMBOXPlusOne.pl@Romania",
       "tvg_name": null,
@@ -48051,6 +48111,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8",
+      "title": "Greater Love TV (720p)",
+      "duration": -1,
+      "tvg_id": "GreaterLoveTV.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/WE0cRXR.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8",
       "title": "Green Gold TV",
       "duration": -1,
@@ -49755,8 +49827,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
-      "title": "Hello Taste (720p)",
+      "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
+      "title": "Hello Taste",
       "duration": -1,
       "tvg_id": "HelloTaste.ro@SD",
       "tvg_name": null,
@@ -51141,6 +51213,42 @@
       "tvg_id": "HorseTV.it@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/nK4UUX4.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8",
+      "title": "Hosanna TV",
+      "duration": -1,
+      "tvg_id": "HosannaTV.in@Tamil",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/VYorU1L.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
+      "title": "Hosanna TV Global",
+      "duration": -1,
+      "tvg_id": "HosannaTV.in@Global",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/VYorU1L.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8",
+      "title": "Hosanna TV Hindi",
+      "duration": -1,
+      "tvg_id": "HosannaTV.in@Hindi",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/VYorU1L.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -55950,9 +56058,9 @@
       "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8",
       "title": "Joel Osteen Network (1080p)",
       "duration": -1,
-      "tvg_id": "",
+      "tvg_id": "JoelOsteenNetwork.us@HD",
       "tvg_name": null,
-      "tvg_logo": "",
+      "tvg_logo": "https://www.tablotv.com/wp-content/uploads/2025/05/Osteen_black.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -87999,6 +88107,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
+      "title": "Prima Krimi",
+      "duration": -1,
+      "tvg_id": "PrimaKrimi.cz@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.15.19/live/prima_krimi_avc_25p/playlist.m3u8",
       "title": "Prima Krimi SK",
       "duration": -1,
@@ -88029,6 +88149,18 @@
       "tvg_id": "PrimaloveSK.sk@SD",
       "tvg_name": null,
       "tvg_logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
+      "title": "Prima Max",
+      "duration": -1,
+      "tvg_id": "PrimaMax.cz@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/ePrdyLi.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -110199,8 +110331,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
-      "title": "Swerve Sports (1080p)",
+      "url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
+      "title": "Swerve Sports (720p)",
       "duration": -1,
       "tvg_id": "SwerveSports.us@SD",
       "tvg_name": null,
@@ -130971,6 +131103,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+      "title": "Video Mix TV",
+      "duration": -1,
+      "tvg_id": "VideoMixTV.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/nyLrIPP.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8",
       "title": "Video Rola (1080p)",
       "duration": -1,
@@ -131259,8 +131403,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
-      "title": "Village TV (576p)",
+      "url": "https://live.villagetv.net/villagetv/hd/index.m3u8",
+      "title": "Village TV (1080p)",
       "duration": -1,
       "tvg_id": "VillageTV.in@SD",
       "tvg_name": null,
@@ -136233,6 +136377,30 @@
       "tvg_id": "YesNetwork.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
+      "title": "YET Max (720p)",
+      "duration": -1,
+      "tvg_id": "YETMax.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
+      "title": "YET TV (720p)",
+      "duration": -1,
+      "tvg_id": "YETTV.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://yettelevision.com/assets/images/logo/channel_1.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
