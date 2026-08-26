@@ -2716,17 +2716,13 @@
     <display-name>Antena 21 (480p) [Not 24/7] [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/QE0XWLh.png" />
   </channel>
-  <channel id="AntenaInternational.ro@SD">
-    <display-name>Antena International (720P)</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512" />
-  </channel>
-  <channel id="AntenaMonden.ro@SD">
-    <display-name>Antena Monden (720p)</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" />
-  </channel>
   <channel id="AntenaSeisTV.cr@SD">
     <display-name>Antena Seis TV (720p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/9Nh2mo9.png" />
+  </channel>
+  <channel id="AntenaStars.ro@SD">
+    <display-name>Antena Stars (720p)</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" />
   </channel>
   <channel id="AntenaSUR.pe@SD">
     <display-name>Antena SUR (720p)</display-name>
@@ -3063,6 +3059,10 @@
   <channel id="ArgentinisimaSatelital.ar@SD">
     <display-name>Argentinísima Satelital (540p)</display-name>
     <icon src="https://i.imgur.com/xFgJawa.png" />
+  </channel>
+  <channel id="ArgesTV.ro@SD">
+    <display-name>Arges TV (720p)</display-name>
+    <icon src="https://i.imgur.com/qufz6nk.png" />
   </channel>
   <channel id="ArgusNews.in@SD">
     <display-name>Argus News (576p)</display-name>
@@ -4164,6 +4164,10 @@
     <display-name>BBC Earth Turkiye</display-name>
     <icon src="https://i.imgur.com/nGSsUd4.png" />
   </channel>
+  <channel id="BBCFirst.uk@Romania">
+    <display-name>BBC First Romania</display-name>
+    <icon src="https://i.imgur.com/UBoBYUI.png" />
+  </channel>
   <channel id="BBCFirst.uk@Turkiye">
     <display-name>BBC First Turkiye</display-name>
     <icon src="https://i.imgur.com/UBoBYUI.png" />
@@ -5239,6 +5243,10 @@
   <channel id="BolivisionSantaCruz.bo@SD">
     <display-name>Bolivision Santa Cruz (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" />
+  </channel>
+  <channel id="BollywoodClassic.ro@Romania">
+    <display-name>Bollywood Classic Romania</display-name>
+    <icon src="https://i.imgur.com/ugPo6ca.png" />
   </channel>
   <channel id="BollywoodHD.ro@SD">
     <display-name>Bollywood HD (1080p)</display-name>
@@ -11764,6 +11772,10 @@
     <display-name>Europa Plus TV (1080p)</display-name>
     <icon src="https://i.imgur.com/GLc4qrc.png" />
   </channel>
+  <channel id="Eurosport4KCzechia.cz@UHD">
+    <display-name>Eurosport 4K Czechia</display-name>
+    <icon src="https://i.imgur.com/0o3zjC7.png" />
+  </channel>
   <channel id="EUTV.br@SD">
     <display-name>EUTV (720p)</display-name>
     <icon src="https://i.imgur.com/8PxpamC.png" />
@@ -12332,6 +12344,10 @@
     <display-name>FILMBOX+ Comedy Magyar (576p)</display-name>
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" />
   </channel>
+  <channel id="FILMBOXPlusComedy.pl@Romania">
+    <display-name>FILMBOX+ Comedy Romania</display-name>
+    <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" />
+  </channel>
   <channel id="FILMBOXPlusEmotion.pl@Adria">
     <display-name>FILMBOX+ Emotion Adria</display-name>
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" />
@@ -12357,7 +12373,7 @@
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" />
   </channel>
   <channel id="FILMBOXPlusFestival.pl@HD">
-    <display-name>FILMBOX+ Festival HD</display-name>
+    <display-name>FILMBOX+ Festival HD (1080p)</display-name>
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" />
   </channel>
   <channel id="FILMBOXPlusHits.pl@Adria">
@@ -12373,7 +12389,7 @@
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" />
   </channel>
   <channel id="FILMBOXPlusHits.pl@Romania">
-    <display-name>FILMBOX+ Hits Romania</display-name>
+    <display-name>FILMBOX+ Hits Romania (576p)</display-name>
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" />
   </channel>
   <channel id="FILMBOXPlusLoveCrime.pl@Czechia">
@@ -12386,6 +12402,10 @@
   </channel>
   <channel id="FILMBOXPlusLoveCrime.pl@Bulgaria">
     <display-name>FILMBOX+ Love & Crime Bulgaria</display-name>
+    <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" />
+  </channel>
+  <channel id="FILMBOXPlusLoveCrime.pl@Romania">
+    <display-name>FILMBOX+ Love & Crime Romania</display-name>
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" />
   </channel>
   <channel id="FILMBOXPlusOne.pl@Bulgaria">
@@ -12401,7 +12421,7 @@
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" />
   </channel>
   <channel id="FILMBOXPlusOne.pl@Romania">
-    <display-name>FILMBOX+ One Romania</display-name>
+    <display-name>FILMBOX+ One Romania (576p)</display-name>
     <icon src="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" />
   </channel>
   <channel id="FILMBOXPlusOne.pl@UkraineBaltics">
@@ -13772,6 +13792,10 @@
     <display-name>GREAT! romance (1080p)</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" />
   </channel>
+  <channel id="GreaterLoveTV.us@SD">
+    <display-name>Greater Love TV (720p)</display-name>
+    <icon src="https://i.imgur.com/WE0cRXR.png" />
+  </channel>
   <channel id="GreenTV.bd@SD">
     <display-name>Green TV (1080p)</display-name>
     <icon src="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" />
@@ -14253,7 +14277,7 @@
     <icon src="https://i.imgur.com/NE7ddhC.png" />
   </channel>
   <channel id="HelloTaste.ro@SD">
-    <display-name>Hello Taste (720p)</display-name>
+    <display-name>Hello Taste</display-name>
     <icon src="https://i.imgur.com/TdKO0er.png" />
   </channel>
   <channel id="HermanasMirabalTV.do@SD">
@@ -14603,6 +14627,18 @@
   <channel id="HorseTV.it@SD">
     <display-name>Horse TV (720p)</display-name>
     <icon src="https://i.imgur.com/nK4UUX4.png" />
+  </channel>
+  <channel id="HosannaTV.in@Tamil">
+    <display-name>Hosanna TV</display-name>
+    <icon src="https://i.imgur.com/VYorU1L.png" />
+  </channel>
+  <channel id="HosannaTV.in@Global">
+    <display-name>Hosanna TV Global</display-name>
+    <icon src="https://i.imgur.com/VYorU1L.png" />
+  </channel>
+  <channel id="HosannaTV.in@Hindi">
+    <display-name>Hosanna TV Hindi</display-name>
+    <icon src="https://i.imgur.com/VYorU1L.png" />
   </channel>
   <channel id="HosannaVision.pa@SD">
     <display-name>Hosanna Vision (720p) [Not 24/7]</display-name>
@@ -15963,6 +15999,10 @@
   <channel id="JoeFM.be@SD">
     <display-name>Joe FM (720p) [Not 24/7]</display-name>
     <icon src="https://i.ibb.co/k9KJWzN/320px-Joe-radio-logo-2016-svg.png" />
+  </channel>
+  <channel id="JoelOsteenNetwork.us@HD">
+    <display-name>Joel Osteen Network (1080p)</display-name>
+    <icon src="https://www.tablotv.com/wp-content/uploads/2025/05/Osteen_black.png" />
   </channel>
   <channel id="JOEXDTV.jp@SD">
     <display-name>JOEX-DTV (540p)</display-name>
@@ -25532,6 +25572,10 @@
     <display-name>Prima Cool SK (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" />
   </channel>
+  <channel id="PrimaKrimi.cz@SD">
+    <display-name>Prima Krimi</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" />
+  </channel>
   <channel id="PrimaKrimiSK.sk@HD">
     <display-name>Prima Krimi SK</display-name>
     <icon src="https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png" />
@@ -25543,6 +25587,10 @@
   <channel id="PrimaloveSK.sk@SD">
     <display-name>Prima love SK (1080p)</display-name>
     <icon src="https://www.jojgroup.sk/wp-content/uploads/PRIMA-LOVE-1.png" />
+  </channel>
+  <channel id="PrimaMax.cz@SD">
+    <display-name>Prima Max</display-name>
+    <icon src="https://i.imgur.com/ePrdyLi.png" />
   </channel>
   <channel id="PrimaShow.cz@SD">
     <display-name>Prima Show (1080p)</display-name>
@@ -31977,7 +32025,7 @@
     <icon src="https://i.imgur.com/eFZh7aG.png" />
   </channel>
   <channel id="SwerveSports.us@SD">
-    <display-name>Swerve Sports (1080p)</display-name>
+    <display-name>Swerve Sports (720p)</display-name>
     <icon src="https://i.imgur.com/GT0Yi2T.png" />
   </channel>
   <channel id="SWR3VisualRadio.de@SD">
@@ -38136,6 +38184,10 @@
     <display-name>Vida Nueva TV</display-name>
     <icon src="https://i.imgur.com/lxv1lre.png" />
   </channel>
+  <channel id="VideoMixTV.us@SD">
+    <display-name>Video Mix TV</display-name>
+    <icon src="https://i.imgur.com/nyLrIPP.png" />
+  </channel>
   <channel id="VideoRola.it@SD">
     <display-name>Video Rola (1080p)</display-name>
     <icon src="https://i.imgur.com/9w54eVy.png" />
@@ -38229,7 +38281,7 @@
     <icon src="https://i.imgur.com/jTD9nLE.png" />
   </channel>
   <channel id="VillageTV.in@SD">
-    <display-name>Village TV (576p)</display-name>
+    <display-name>Village TV (1080p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" />
   </channel>
   <channel id="VinhLongTV1.vn@HD">
@@ -39527,6 +39579,14 @@
   <channel id="YesNetwork.us@SD">
     <display-name>Yes Network (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" />
+  </channel>
+  <channel id="YETMax.in@HD">
+    <display-name>YET Max (720p)</display-name>
+    <icon src="https://yettelevision.com/assets/images/logo/channel_11847.png" />
+  </channel>
+  <channel id="YETTV.in@HD">
+    <display-name>YET TV (720p)</display-name>
+    <icon src="https://yettelevision.com/assets/images/logo/channel_1.png" />
   </channel>
   <channel id="YleTV1.fi@SD">
     <display-name>YLE TV 1 (1080p) [Not 24/7]</display-name>
