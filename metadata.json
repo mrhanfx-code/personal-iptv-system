@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:42:37.569255",
-  "total_entries": 12014,
+  "generated_at": "2026-08-27T08:38:09.371474",
+  "total_entries": 12022,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -11047,6 +11047,18 @@
       "title": "Asianet (576p)",
       "duration": -1,
       "tvg_id": "Asianet.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/Wv7MOzg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8",
+      "title": "Asianet HD (720p)",
+      "duration": -1,
+      "tvg_id": "Asianet.in@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/Wv7MOzg.png",
       "group_title": "Live TV",
@@ -24723,7 +24735,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8",
+      "url": "https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8",
       "title": "CBS Sports Golazo Network (720p)",
       "duration": -1,
       "tvg_id": "CBSSportsGolazoNetwork.us@SD",
@@ -68355,6 +68367,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3MHONESHRADDHA/index.m3u8",
+      "title": "MH One Shraddha (576p)",
+      "duration": -1,
+      "tvg_id": "MHOneShraddha.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/Lrm8qTO.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8",
       "title": "MHZ",
       "duration": -1,
@@ -99975,12 +99999,12 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn-2.pishow.tv/live/269/master.m3u8",
-      "title": "Samachar Plus",
+      "url": "https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8",
+      "title": "Samachar Plus 24x7 (576p)",
       "duration": -1,
-      "tvg_id": "SamacharPlus.in@SD",
+      "tvg_id": "SamacharPlus24x7.in@SD",
       "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/n7FhveH.png",
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -100287,7 +100311,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn-3.pishow.tv/live/1135/master.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8",
       "title": "Sankara TV (576p)",
       "duration": -1,
       "tvg_id": "SankaraTV.in@SD",
@@ -102675,6 +102699,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8",
+      "title": "Sharnam TV (576p)",
+      "duration": -1,
+      "tvg_id": "SharnamTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://papaji.freetvindia.com/media/channels/SarnamTV.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
       "title": "Sharq Radio TV (1080p)",
       "duration": -1,
@@ -102795,7 +102831,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.213.31.109:90/ShemarooUmang/playlist.m3u8",
+      "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
       "title": "Shemaroo Umang (720p)",
       "duration": -1,
       "tvg_id": "ShemarooUmang.in@SD",
@@ -104781,6 +104817,18 @@
       "tvg_id": "SohailTV.ca@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.ibb.co/dtzjKfT/Sohail-TV.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8",
+      "title": "Soham TV (576p)",
+      "duration": -1,
+      "tvg_id": "SohamTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/cpedJ0L.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -106911,6 +106959,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+      "title": "Star Jalsha HD (720p)",
+      "duration": -1,
+      "tvg_id": "StarJalsha.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/IlufzR5.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
       "title": "Star Kentrikis Elladas (1080p)",
       "duration": -1,
@@ -106935,8 +106995,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8",
-      "title": "Star Maa HD (1080p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
+      "title": "Star Maa HD (720p)",
       "duration": -1,
       "tvg_id": "StarMaa.in@HD",
       "tvg_name": null,
@@ -106947,8 +107007,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8",
-      "title": "Star Maa Movies HD (1080p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
+      "title": "Star Maa Movies HD (720p)",
       "duration": -1,
       "tvg_id": "StarMaaMovies.in@HD",
       "tvg_name": null,
@@ -107007,8 +107067,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starpravah_live_https/index.m3u8",
-      "title": "Star Pravah HD (1080p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
+      "title": "Star Pravah HD (720p)",
       "duration": -1,
       "tvg_id": "StarPravah.in@HD",
       "tvg_name": null,
@@ -109731,6 +109791,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8",
+      "title": "Suvarna News (576p)",
+      "duration": -1,
+      "tvg_id": "SuvarnaNews.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/0H1HObK.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
       "title": "Suwannabhumi Channel (720p)",
       "duration": -1,
@@ -110949,6 +111021,18 @@
       "tvg_id": "TamilJanam.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://mumt04.tangotv.in/m18aqlK4TAMILANTELEVISION/index.m3u8",
+      "title": "Tamilan TV (576p)",
+      "duration": -1,
+      "tvg_id": "TamilanTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -130095,8 +130179,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
-      "title": "Vedic (480p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8",
+      "title": "Vedic (576p)",
       "duration": -1,
       "tvg_id": "Vedic.in@SD",
       "tvg_name": null,
@@ -130179,7 +130263,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn-3.pishow.tv/live/461/master.m3u8",
+      "url": "https://mumt05.tangotv.in/87NeALx2VALICHAMPLUS/index.m3u8",
       "title": "Velicham TV (576p)",
       "duration": -1,
       "tvg_id": "VelichamTV.in@SD",
@@ -130191,7 +130275,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn-3.pishow.tv/live/1271/master.m3u8",
+      "url": "https://mumt04.tangotv.in/m18aqlK4VENDHARTV/index.m3u8",
       "title": "Vendhar TV (576p)",
       "duration": -1,
       "tvg_id": "VendharTV.in@SD",
@@ -134583,7 +134667,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn-4.pishow.tv/live/1531/master.m3u8",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "title": "Win TV (576p)",
       "duration": -1,
       "tvg_id": "WinTV.in@SD",
@@ -135175,6 +135259,18 @@
       "title": "WOW Kidz (720p)",
       "duration": -1,
       "tvg_id": "WOWKidz.in@Hindi",
+      "tvg_name": null,
+      "tvg_logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "title": "WOW Kidz Tamil (720p)",
+      "duration": -1,
+      "tvg_id": "WOWKidz.in@Tamil",
       "tvg_name": null,
       "tvg_logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
       "group_title": "Live TV",

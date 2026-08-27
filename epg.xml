@@ -3284,6 +3284,10 @@
     <display-name>Asianet (576p)</display-name>
     <icon src="https://i.imgur.com/Wv7MOzg.png" />
   </channel>
+  <channel id="Asianet.in@HD">
+    <display-name>Asianet HD (720p)</display-name>
+    <icon src="https://i.imgur.com/Wv7MOzg.png" />
+  </channel>
   <channel id="AsianetMiddleEast.in@SD">
     <display-name>Asianet Middle East (576p)</display-name>
     <icon src="https://i.imgur.com/du9iZ0s.png" />
@@ -19572,6 +19576,10 @@
     <display-name>Mh 1 News (360p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" />
   </channel>
+  <channel id="MHOneShraddha.in@SD">
+    <display-name>MH One Shraddha (576p)</display-name>
+    <icon src="https://i.imgur.com/Lrm8qTO.png" />
+  </channel>
   <channel id="MHZ.ca@SD">
     <display-name>MHZ</display-name>
     <icon src="https://i.imgur.com/a5fw83n.jpg" />
@@ -29056,9 +29064,9 @@
     <display-name>Samaa TV (576p)</display-name>
     <icon src="https://i.imgur.com/r3U4A1P.png" />
   </channel>
-  <channel id="SamacharPlus.in@SD">
-    <display-name>Samachar Plus</display-name>
-    <icon src="https://i.imgur.com/n7FhveH.png" />
+  <channel id="SamacharPlus24x7.in@SD">
+    <display-name>Samachar Plus 24x7 (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Samachar_Plus.png" />
   </channel>
   <channel id="SamarraTV.iq@SD">
     <display-name>Samarra TV</display-name>
@@ -29872,6 +29880,10 @@
     <display-name>Sharjah TV (1080p)</display-name>
     <icon src="https://i.imgur.com/Oz2bPOt.png" />
   </channel>
+  <channel id="SharnamTV.in@SD">
+    <display-name>Sharnam TV (576p)</display-name>
+    <icon src="https://papaji.freetvindia.com/media/channels/SarnamTV.png" />
+  </channel>
   <channel id="SharqRadioTV.af@SD">
     <display-name>Sharq Radio TV (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sharq_TV_Logo_2020.jpg/960px-Sharq_TV_Logo_2020.jpg" />
@@ -30447,6 +30459,10 @@
   <channel id="SohailTV.ca@SD">
     <display-name>Sohail TV (1080p)</display-name>
     <icon src="https://i.ibb.co/dtzjKfT/Sohail-TV.png" />
+  </channel>
+  <channel id="SohamTV.in@SD">
+    <display-name>Soham TV (576p)</display-name>
+    <icon src="https://i.imgur.com/cpedJ0L.png" />
   </channel>
   <channel id="SOL2.nl@SD">
     <display-name>SOL 2 (1080p)</display-name>
@@ -31080,6 +31096,10 @@
     <display-name>STAR International (720p)</display-name>
     <icon src="https://i.imgur.com/6NUpxhr.png" />
   </channel>
+  <channel id="StarJalsha.in@HD">
+    <display-name>Star Jalsha HD (720p)</display-name>
+    <icon src="https://i.imgur.com/IlufzR5.png" />
+  </channel>
   <channel id="StarKentrikisElladas.gr@SD">
     <display-name>Star Kentrikis Elladas (1080p)</display-name>
     <icon src="https://i.imgur.com/ZBt6beo.png" />
@@ -31089,11 +31109,11 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" />
   </channel>
   <channel id="StarMaa.in@HD">
-    <display-name>Star Maa HD (1080p)</display-name>
+    <display-name>Star Maa HD (720p)</display-name>
     <icon src="https://i.imgur.com/5c9PVS0.png" />
   </channel>
   <channel id="StarMaaMovies.in@HD">
-    <display-name>Star Maa Movies HD (1080p)</display-name>
+    <display-name>Star Maa Movies HD (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="StarMovies.pt@SD">
@@ -31113,7 +31133,7 @@
     <icon src="https://i.imgur.com/01yz22a.png" />
   </channel>
   <channel id="StarPravah.in@HD">
-    <display-name>Star Pravah HD (1080p)</display-name>
+    <display-name>Star Pravah HD (720p)</display-name>
     <icon src="https://i.imgur.com/ZT0u7AK.png" />
   </channel>
   <channel id="StarSports1.in@SD">
@@ -31832,6 +31852,10 @@
     <display-name>Sutel TV [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/hk3lhuF.png" />
   </channel>
+  <channel id="SuvarnaNews.in@SD">
+    <display-name>Suvarna News (576p)</display-name>
+    <icon src="https://i.imgur.com/0H1HObK.png" />
+  </channel>
   <channel id="SuwannabhumiChannel.th@SD">
     <display-name>Suwannabhumi Channel (720p)</display-name>
     <icon src="https://i.imgur.com/6AGKP0A.png" />
@@ -32223,6 +32247,10 @@
   <channel id="TamilJanam.in@SD">
     <display-name>Tamil Janam (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Janam_Tamil.png" />
+  </channel>
+  <channel id="TamilanTV.in@SD">
+    <display-name>Tamilan TV (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png" />
   </channel>
   <channel id="TamilVisionTV.ca@SD">
     <display-name>TamilVision-TV (1080p)</display-name>
@@ -37925,7 +37953,7 @@
     <icon src="https://i.imgur.com/7LnH6yu.png" />
   </channel>
   <channel id="Vedic.in@SD">
-    <display-name>Vedic (480p)</display-name>
+    <display-name>Vedic (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="VegaTeve.do@SD">
@@ -39254,6 +39282,10 @@
   </channel>
   <channel id="WOWKidz.in@Hindi">
     <display-name>WOW Kidz (720p)</display-name>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" />
+  </channel>
+  <channel id="WOWKidz.in@Tamil">
+    <display-name>WOW Kidz Tamil (720p)</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" />
   </channel>
   <channel id="WOWTV.sv@SD">
