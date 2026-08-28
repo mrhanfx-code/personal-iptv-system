@@ -776,6 +776,10 @@
     <display-name>Aaj Entertainment (1080p)</display-name>
     <icon src="https://i.imgur.com/WK5Cqap.png" />
   </channel>
+  <channel id="AajKiKhabar.in@SD">
+    <display-name>Aaj Ki Khabar (1080p)</display-name>
+    <icon src="https://m.media-amazon.com/images/I/71q8sOMPwHL.png" />
+  </channel>
   <channel id="AajNews.pk@SD">
     <display-name>Aaj News (576p)</display-name>
     <icon src="https://i.imgur.com/VNGnHYz.png" />
@@ -1170,6 +1174,10 @@
   </channel>
   <channel id="ACCNetwork.us@SD">
     <display-name>ACC Network (720p)</display-name>
+    <icon src="https://i.imgur.com/TpCkbkT.png" />
+  </channel>
+  <channel id="ACCNetwork.us@HD">
+    <display-name>ACC Network HD (720p)</display-name>
     <icon src="https://i.imgur.com/TpCkbkT.png" />
   </channel>
   <channel id="ACCDigitalNetwork.us@SD">
@@ -3404,6 +3412,10 @@
     <display-name>Atlanta Channel (720p)</display-name>
     <icon src="https://i.imgur.com/MOGQAns.png" />
   </channel>
+  <channel id="WATCDT572.us@HD">
+    <display-name>Atlanta's 57 WATC TOO 57.2 (720p)</display-name>
+    <icon src="https://i.imgur.com/RAfuLul.png" />
+  </channel>
   <channel id="AtlantisRadioTV.pe@SD">
     <display-name>Atlantis Radio TV (720p)</display-name>
     <icon src="https://i.imgur.com/1eB9roP.png" />
@@ -5461,7 +5473,7 @@
     <icon src="https://i.imgur.com/PJdzoLN.png" />
   </channel>
   <channel id="BRKNews.in@SD">
-    <display-name>BRK News (576p)</display-name>
+    <display-name>BRK News (720p)</display-name>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png" />
   </channel>
   <channel id="BroadCity.se@DK">
@@ -7672,10 +7684,6 @@
     <display-name>Chandel TV (720p)</display-name>
     <icon src="https://i.imgur.com/jQO7dVE.png" />
   </channel>
-  <channel id="Channel5.uk@HD">
-    <display-name>Channel 5 HD (720p)</display-name>
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" />
-  </channel>
   <channel id="Channel5International.ru@SD">
     <display-name>Channel 5 International (576p)</display-name>
     <icon src="https://i.imgur.com/KPXMa3U.png" />
@@ -9009,7 +9017,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" />
   </channel>
   <channel id="CrimePlusInvestigationAsia.sg@SD">
-    <display-name>Crime + Investigation Asia HD (720p) [Geo-blocked]</display-name>
+    <display-name>Crime + Investigation Asia (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" />
   </channel>
   <channel id="CrimePlusInvestigationCEE.uk@SD">
@@ -9317,7 +9325,7 @@
     <icon src="https://i.imgur.com/KdJi9af.png" />
   </channel>
   <channel id="DaAi2.tw@SD">
-    <display-name>DaAi2 (大愛2) (720p)</display-name>
+    <display-name>DaAi 2 (1080p)</display-name>
     <icon src="https://i.imgur.com/KdJi9af.png" />
   </channel>
   <channel id="DAAITV.id@SD">
@@ -12756,10 +12764,6 @@
     <display-name>Fox Soul (1080p)</display-name>
     <icon src="https://i.imgur.com/YIamDGn.png" />
   </channel>
-  <channel id="FoxSports.ar@SD">
-    <display-name>Fox Sports (720p) [Not 24/7]</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" />
-  </channel>
   <channel id="FoxSports1.us@HD">
     <display-name>Fox Sports 1 (720p)</display-name>
     <icon src="https://i.imgur.com/O9BapV9.png" />
@@ -12806,6 +12810,10 @@
   </channel>
   <channel id="France24.fr@English">
     <display-name>France 24 English (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" />
+  </channel>
+  <channel id="France24.fr@EnglishHD">
+    <display-name>France 24 English HD (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" />
   </channel>
   <channel id="France24.fr@Spanish">
@@ -13315,6 +13323,10 @@
   <channel id="GenerationsTV.fr@SD">
     <display-name>Generations TV (576p)</display-name>
     <icon src="https://i.imgur.com/NgBrDMe.png" />
+  </channel>
+  <channel id="GenesisScienceNetwork.us@SD">
+    <display-name>Genesis Science Network (720p)</display-name>
+    <icon src="https://i.imgur.com/CFAn996.png" />
   </channel>
   <channel id="GTV.gt@SD">
     <display-name>Génesis TV (768p) [Not 24/7]</display-name>
@@ -14167,6 +14179,10 @@
   <channel id="HareKrsnaTV.in@SD">
     <display-name>Hare Krsna TV (1080p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" />
+  </channel>
+  <channel id="HarmonyGospelMusicTV.us@SD">
+    <display-name>Harmony Gospel Music TV (1080p)</display-name>
+    <icon src="https://i.imgur.com/iDiGBE3.png" />
   </channel>
   <channel id="HarPalGeo.pk@SD">
     <display-name>HarPal Geo (360p)</display-name>
@@ -15667,10 +15683,6 @@
   <channel id="ITV.ua@SD">
     <display-name>ITV (480p)</display-name>
     <icon src="https://i.imgur.com/NZdT9yJ.png" />
-  </channel>
-  <channel id="ITV1.uk@London">
-    <display-name>ITV1 (1080p)</display-name>
-    <icon src="https://i.imgur.com/xwPekCF.png" />
   </channel>
   <channel id="ITV2.uk@HD">
     <display-name>ITV2 HD (1080p)</display-name>
@@ -19964,6 +19976,10 @@
     <display-name>Momento24</display-name>
     <icon src="https://i.imgur.com/kLy6w9e.jpeg" />
   </channel>
+  <channel id="MOMOTV.tw@SD">
+    <display-name>MOMO TV (1080p)</display-name>
+    <icon src="https://m.momoshop.com.tw/img/message.png" />
+  </channel>
   <channel id="MonacoInfo.mc@SD">
     <display-name>Monaco Info (1080p)</display-name>
     <icon src="https://i.imgur.com/dIrKYH7.png" />
@@ -21769,7 +21785,7 @@
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" />
   </channel>
   <channel id="NHKWorldJapan.jp@HD">
-    <display-name>NHK World-Japan HD (1080p) [Geo-blocked]</display-name>
+    <display-name>NHK World-Japan HD (1080p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" />
   </channel>
   <channel id="NHLNetwork.us@SD">
@@ -21855,6 +21871,10 @@
   <channel id="NickelodeonClassics.de@DACH">
     <display-name>Nickelodeon Classics (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" />
+  </channel>
+  <channel id="Nickelodeon.us@EastHD">
+    <display-name>Nickelodeon East HD (720p)</display-name>
+    <icon src="https://i.imgur.com/E84jnP8.png" />
   </channel>
   <channel id="Nickelodeonenespanol.us@SD">
     <display-name>Nickelodeon en español</display-name>
@@ -23467,6 +23487,10 @@
   <channel id="ParadiseTV.it@SD">
     <display-name>Paradise TV [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/OKhpyWr.png" />
+  </channel>
+  <channel id="ParaguayTV.py@SD">
+    <display-name>Paraguay TV (1080p)</display-name>
+    <icon src="https://i.imgur.com/fkK7i8g.png" />
   </channel>
   <channel id="ParaisoTV.pr@SD">
     <display-name>Paraíso TV (720p)</display-name>
@@ -25243,6 +25267,10 @@
   <channel id="PMITV.pk@SD">
     <display-name>PMI TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/SfyCwXj.png" />
+  </channel>
+  <channel id="PocketFilms.in@SD">
+    <display-name>Pocket Films</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" />
   </channel>
   <channel id="pocketwatch.us@SD">
     <display-name>pocket.watch Game On (1080p)</display-name>
@@ -27163,6 +27191,10 @@
   <channel id="Rawhide.se@DK">
     <display-name>Rawhide</display-name>
     <icon src="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" />
+  </channel>
+  <channel id="RayTVHD.np@SD">
+    <display-name>Ray TV HD (576p)</display-name>
+    <icon src="https://i.imgur.com/QIkgiEn.png" />
   </channel>
   <channel id="RAZ1.ua@SD">
     <display-name>RAZ 1 (1080p)</display-name>
@@ -32625,7 +32657,7 @@
     <icon src="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" />
   </channel>
   <channel id="TelePosadas.ar@HD">
-    <display-name>Tele Posadas (720p)</display-name>
+    <display-name>Tele Posadas HD (720p)</display-name>
     <icon src="https://i.imgur.com/88MVgwX.png" />
   </channel>
   <channel id="TeleProyectoTV.do@HD">
@@ -33728,6 +33760,10 @@
     <display-name>The LEGO Channel (1080p)</display-name>
     <icon src="https://i.imgur.com/xePwW13.png" />
   </channel>
+  <channel id="TheLoop.us@SD">
+    <display-name>The Loop (1080p)</display-name>
+    <icon src="https://i.imgur.com/iyYLuJj.png" />
+  </channel>
   <channel id="TheLoveBoat.us@SD">
     <display-name>The Love Boat</display-name>
     <icon src="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png" />
@@ -33787,6 +33823,10 @@
   <channel id="ThePetCollective.us@Sweden">
     <display-name>The Pet Collective Sweden</display-name>
     <icon src="https://i.imgur.com/yH7n2dF.png" />
+  </channel>
+  <channel id="ThePointTelevsionNetwork.us@SD">
+    <display-name>The Point Televsion Network (1080p)</display-name>
+    <icon src="https://i.imgur.com/2LWc0OG.png" />
   </channel>
   <channel id="ThePriceIsRight.us@CA">
     <display-name>The Price is Right (720p)</display-name>
@@ -38763,14 +38803,6 @@
   <channel id="WatarTV.ps@SD">
     <display-name>Watar TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/jdr22Sk.jpeg" />
-  </channel>
-  <channel id="WATCDT573.us@SD">
-    <display-name>WATC The Loop (1080p)</display-name>
-    <icon src="https://i.imgur.com/4SmNFCX.png" />
-  </channel>
-  <channel id="WATCDT572.us@HD">
-    <display-name>WATC The POINT Network (1080p)</display-name>
-    <icon src="https://i.imgur.com/RAfuLul.png" />
   </channel>
   <channel id="WATCDT571.us@HD">
     <display-name>WATC TV57 (1080p)</display-name>
