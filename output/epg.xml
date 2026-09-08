@@ -264,6 +264,10 @@
     <display-name>7 Info</display-name>
     <icon src="https://i.imgur.com/jcl1nNR.png" />
   </channel>
+  <channel id="7News.pk@SD">
+    <display-name>7 News (720p)</display-name>
+    <icon src="https://i.imgur.com/PTl92P5.png" />
+  </channel>
   <channel id="7RadioVisione.it@HD">
     <display-name>7 RadioVisione (720p)</display-name>
     <icon src="https://radio7note.com/img/favicon/android-icon-192x192.png" />
@@ -299,6 +303,10 @@
   <channel id="8XM.pk@SD">
     <display-name>8XM (576p)</display-name>
     <icon src="https://i.imgur.com/KLrfKRn.png" />
+  </channel>
+  <channel id="8XM.pk@HD">
+    <display-name>8XM HD</display-name>
+    <icon src="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" />
   </channel>
   <channel id="9Gem.au@Sydney">
     <display-name>9Gem (720p) [Geo-blocked]</display-name>
@@ -456,6 +464,10 @@
     <display-name>24 News (576p)</display-name>
     <icon src="https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png" />
   </channel>
+  <channel id="24NewsHD.pk@SD">
+    <display-name>24 News HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png" />
+  </channel>
   <channel id="Channel24.ua@SD">
     <display-name>24 Канал (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png" />
@@ -586,7 +598,7 @@
   </channel>
   <channel id="92NewsHD.pk@SD">
     <display-name>92 News HD (720p)</display-name>
-    <icon src="https://i.imgur.com/gp1Ao4s.jpeg" />
+    <icon src="https://i.imgur.com/eqKrL9S.png" />
   </channel>
   <channel id="981PearlFM.sx@SD">
     <display-name>98.1 Pearl FM (720p)</display-name>
@@ -655,6 +667,10 @@
   <channel id="365daysTV.ru@SD">
     <display-name>365 days TV (576p)</display-name>
     <icon src="https://i.imgur.com/NfnAiTR.png" />
+  </channel>
+  <channel id="365News.pk@SD">
+    <display-name>365 News</display-name>
+    <icon src="https://i.imgur.com/8I6PWof.png" />
   </channel>
   <channel id="1001Noites.br@SD">
     <display-name>1001 Noites (720p) [Not 24/7]</display-name>
@@ -3312,6 +3328,10 @@
     <display-name>Asian Culture TV (1080p)</display-name>
     <icon src="https://i.imgur.com/o1icKZu.png" />
   </channel>
+  <channel id="AsianDrama.hk@SD">
+    <display-name>Asian Drama (1080p)</display-name>
+    <icon src="https://i.imgur.com/wqtN7mH.png" />
+  </channel>
   <channel id="AsianBox.mn@SD">
     <display-name>AsianBox (1080p)</display-name>
     <icon src="https://www.mongolsat.mn/assets/img/channel/910.png" />
@@ -3875,6 +3895,10 @@
   <channel id="AzzurraTV.it@SD">
     <display-name>Azzurra TV (576p)</display-name>
     <icon src="https://i.imgur.com/qWIZNEc.png" />
+  </channel>
+  <channel id="B1.ro@SD">
+    <display-name>B1</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/960px-B1_TV_logo.svg.png" />
   </channel>
   <channel id="B4UBhojpuri.in@SD">
     <display-name>B4U Bhojpuri (1080p)</display-name>
@@ -6996,6 +7020,10 @@
     <display-name>Capital 21 (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/8ign49i.png" />
   </channel>
+  <channel id="CapitalTV.pk@SD">
+    <display-name>Capital TV</display-name>
+    <icon src="https://i.imgur.com/UxAE5O4.png" />
+  </channel>
   <channel id="CapitalTVHD.np@SD">
     <display-name>Capital TV (1080p)</display-name>
     <icon src="https://i.imgur.com/hb4bq1t.png" />
@@ -8075,6 +8103,10 @@
   <channel id="CHTV.hn@SD">
     <display-name>CHTV (1080p)</display-name>
     <icon src="https://i.imgur.com/QLQgwc6.png" />
+  </channel>
+  <channel id="ChuxiongNewsChannel.cn@SD">
+    <display-name>Chuxiong News Channel [Not 24/7]</display-name>
+    <icon src="https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg" />
   </channel>
   <channel id="CibaenaTV.do@SD">
     <display-name>Cibaeña TV (720p)</display-name>
@@ -9535,10 +9567,6 @@
   <channel id="DaystarTV.us@SD">
     <display-name>Daystar TV (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" />
-  </channel>
-  <channel id="DAZN5.uk@Portugal">
-    <display-name>DAZN 5</display-name>
-    <icon src="https://i.imgur.com/HD2XaeS.png" />
   </channel>
   <channel id="DAZNCombat.uk@SD">
     <display-name>DAZN Combat (684p)</display-name>
@@ -11071,6 +11099,10 @@
   <channel id="EkoTV.ua@SD">
     <display-name>Eko TV (720p)</display-name>
     <icon src="https://i.imgur.com/WovATGb.png" />
+  </channel>
+  <channel id="Ekoturk.tr@SD">
+    <display-name>Ekoturk (720p)</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" />
   </channel>
   <channel id="EkranMovies.ir@SD">
     <display-name>Ekran Movies</display-name>
@@ -13780,6 +13812,10 @@
     <display-name>Golden Edge (1080p)</display-name>
     <icon src="https://i.imgur.com/SlSbcp3.png" />
   </channel>
+  <channel id="GoldenJade.hk@SD">
+    <display-name>Golden Jade (1080p)</display-name>
+    <icon src="https://i.imgur.com/lPYxsUr.png" />
+  </channel>
   <channel id="Goldmines.in@SD">
     <display-name>Goldmines (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" />
@@ -14314,15 +14350,15 @@
   </channel>
   <channel id="HBOHits.us@East">
     <display-name>HBO Hits (720p)</display-name>
-    <icon src="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" />
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" />
   </channel>
   <channel id="HBOHits.us@EastHD">
     <display-name>HBO Hits East HD (720p)</display-name>
-    <icon src="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" />
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" />
   </channel>
   <channel id="HBOMovies.us@East">
     <display-name>HBO Movies (720p)</display-name>
-    <icon src="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" />
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" />
   </channel>
   <channel id="HC2TV.bj@SD">
     <display-name>HC2 TV</display-name>
@@ -15859,6 +15895,10 @@
   <channel id="G10TV.us@SD">
     <display-name>Jacksonville Onslow Government Television (G10TV) (Jacksonville NC) (1080p)</display-name>
     <icon src="https://i.imgur.com/5VPgAxB.jpg" />
+  </channel>
+  <channel id="Jade.hk@SD">
+    <display-name>Jade (1080p)</display-name>
+    <icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" />
   </channel>
   <channel id="JAG.de@FR">
     <display-name>JAG</display-name>
@@ -18377,7 +18417,7 @@
     <icon src="https://i.imgur.com/Iru8tqj.png" />
   </channel>
   <channel id="LosSantosTV.cr@SD">
-    <display-name>Los Santos TV (720p)</display-name>
+    <display-name>Los Santos TV (1080i)</display-name>
     <icon src="https://i.imgur.com/5xw86wu.png" />
   </channel>
   <channel id="LotPlusTV.pe@SD">
@@ -19591,6 +19631,14 @@
   <channel id="MehranTV.pk@SD">
     <display-name>Mehran TV (576p)</display-name>
     <icon src="https://i.imgur.com/ma2bFXk.png" />
+  </channel>
+  <channel id="MeiAhMovieChannel.hk@SD">
+    <display-name>Mei Ah Movie Channel (1080p)</display-name>
+    <icon src="https://i.imgur.com/laGiFM1.png" />
+  </channel>
+  <channel id="MeiAlaiTV.in@SD">
+    <display-name>Mei Alai TV (576p)</display-name>
+    <icon src="https://www.meialai.in/assets/meialai-DBaBUZTH.png" />
   </channel>
   <channel id="MekameleenTV.tr@SD">
     <display-name>Mekameleen TV (1080p)</display-name>
@@ -21216,6 +21264,10 @@
     <display-name>Nation TV</display-name>
     <icon src="https://i.imgur.com/h3TY38F.png" />
   </channel>
+  <channel id="National24Plus.ro@SD">
+    <display-name>National 24 Plus</display-name>
+    <icon src="https://i.imgur.com/VxBdga3.png" />
+  </channel>
   <channel id="NationalAssemblyTV.kr@SD">
     <display-name>National Assembly TV (720p)</display-name>
     <icon src="https://i.imgur.com/UKdB8vD.png" />
@@ -21271,6 +21323,10 @@
   <channel id="NationalIranianCongressTV.us@SD">
     <display-name>National Iranian Congress TV</display-name>
     <icon src="https://iraniancongress.com/tv/logo.png" />
+  </channel>
+  <channel id="NationalTV.ro@SD">
+    <display-name>National TV</display-name>
+    <icon src="https://i.imgur.com/KHzUIwG.png" />
   </channel>
   <channel id="Nativa.pe@SD">
     <display-name>Nativa (720p)</display-name>
@@ -21534,7 +21590,7 @@
   </channel>
   <channel id="NDTV24x7.in@SD">
     <display-name>NDTV 24x7 (720p)</display-name>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png" />
+    <icon src="https://dtil.tmsimg.com/assets/s154895_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="NDTVGoodTimes.in@SD">
     <display-name>NDTV Good Times (1080p)</display-name>
@@ -22014,6 +22070,10 @@
   </channel>
   <channel id="Nickelodeon.bg@SD">
     <display-name>Nickelodeon</display-name>
+    <icon src="https://i.imgur.com/E84jnP8.png" />
+  </channel>
+  <channel id="Nickelodeon.br@SD">
+    <display-name>Nickelodeon (480p)</display-name>
     <icon src="https://i.imgur.com/E84jnP8.png" />
   </channel>
   <channel id="Nickelodeon.hr@SD">
@@ -29159,6 +29219,10 @@
   <channel id="S4C.uk@SD">
     <display-name>S4C (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/vrcbnBv.png" />
+  </channel>
+  <channel id="SFree.us@HD">
+    <display-name>S Free! (360p)</display-name>
+    <icon src="https://i.postimg.cc/DZ47qB39/In-Shot-20260816-210045369.png" />
   </channel>
   <channel id="SPremium.us@HD">
     <display-name>S Premium! (360p)</display-name>
@@ -40297,7 +40361,7 @@
     <icon src="https://i.imgur.com/OLuCox7.png" />
   </channel>
   <channel id="ZeeBangla.in@HD">
-    <display-name>Zee Bangla HD (1080p)</display-name>
+    <display-name>Zee Bangla HD (720p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png" />
   </channel>
   <channel id="ZeeBanglaSonar.in@SD">
