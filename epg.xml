@@ -273,7 +273,7 @@
     <icon src="https://radio7note.com/img/favicon/android-icon-192x192.png" />
   </channel>
   <channel id="7SMusic.in@SD">
-    <display-name>7S Music (576p)</display-name>
+    <display-name>7S Music (360p)</display-name>
     <icon src="https://i.imgur.com/zDiIhdN.png" />
   </channel>
   <channel id="Canal7TeleValencia.es@SD">
@@ -4815,6 +4815,10 @@
   <channel id="BETVisionaries.us@SD">
     <display-name>BET Visionaries</display-name>
     <icon src="https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png" />
+  </channel>
+  <channel id="BethelColombia.co@SD">
+    <display-name>Bethel Colombia (720p)</display-name>
+    <icon src="https://i.imgur.com/BYdMsLL.png" />
   </channel>
   <channel id="BethelTV.pe@SD">
     <display-name>Bethel TV (720p)</display-name>
@@ -11873,7 +11877,7 @@
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" />
   </channel>
   <channel id="EuronewsEnglish.fr@HD">
-    <display-name>Euronews English HD (720p)</display-name>
+    <display-name>Euronews English HD</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" />
   </channel>
   <channel id="EuronewsFrench.fr@SD">
@@ -12263,10 +12267,6 @@
   <channel id="FashionBox.nl@SD">
     <display-name>FashionBox</display-name>
     <icon src="https://i.imgur.com/Taqj4yi.png" />
-  </channel>
-  <channel id="FashionTV.br@SD">
-    <display-name>FashionTV (720p)</display-name>
-    <icon src="https://i.imgur.com/cZWKyuM.png" />
   </channel>
   <channel id="FashionTVEurope.fr@SD">
     <display-name>FashionTV Europe (1080p)</display-name>
@@ -18817,7 +18817,7 @@
     <icon src="https://i.imgur.com/tfJo0SO.png" />
   </channel>
   <channel id="MagnavisionTV.uk@SD">
-    <display-name>Magna Vision (1080p)</display-name>
+    <display-name>Magnavision TV (720p)</display-name>
     <icon src="https://i.imgur.com/mUHixbi.png" />
   </channel>
   <channel id="MagnificentMoviesNetwork.us@SD">
@@ -19804,9 +19804,25 @@
     <display-name>MGSTV (360p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/MYU7dsZ.png" />
   </channel>
+  <channel id="Mh1Music.in@SD">
+    <display-name>Mh 1 Music (720p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540" />
+  </channel>
   <channel id="Mh1News.in@SD">
-    <display-name>Mh 1 News (360p)</display-name>
+    <display-name>Mh 1 News (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143540_ld_h15_aa.png?lock=720x540" />
+  </channel>
+  <channel id="Mh1Prime.in@SD">
+    <display-name>Mh 1 Prime (576p)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="MHOneDilSe.in@SD">
+    <display-name>MH One Dil Se (576p)</display-name>
+    <icon src="https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png" />
+  </channel>
+  <channel id="MHOneMovies.in@SD">
+    <display-name>MH One Movies (576p)</display-name>
+    <icon src="" />
   </channel>
   <channel id="MHOneShraddha.in@SD">
     <display-name>MH One Shraddha (576p)</display-name>
@@ -23790,7 +23806,7 @@
   </channel>
   <channel id="ParaguayTV.py@SD">
     <display-name>Paraguay TV (1080p)</display-name>
-    <icon src="https://i.imgur.com/fkK7i8g.png" />
+    <icon src="https://i.imgur.com/TWnTZ3c.png" />
   </channel>
   <channel id="ParaisoTV.pr@SD">
     <display-name>Paraíso TV (720p)</display-name>
@@ -23878,7 +23894,7 @@
   </channel>
   <channel id="Pashto1.pk@SD">
     <display-name>Pashto 1 (1080p)</display-name>
-    <icon src="https://i.imgur.com/QB9xOSZ.png" />
+    <icon src="https://i.imgur.com/tUsLDRe.png" />
   </channel>
   <channel id="PasionesLatinAmerica.us@SD">
     <display-name>Pasiones Latin America (1080p)</display-name>
@@ -26980,6 +26996,10 @@
     <display-name>Radio Ritmo (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/qU3E0kX.png" />
   </channel>
+  <channel id="RadioRomania3Net.ro@SD">
+    <display-name>Radio Romania 3Net (480p)</display-name>
+    <icon src="https://www.radio3net.ro/img/logos/logo_3.png" />
+  </channel>
   <channel id="RadioRomaniaAntenaSatelor.ro@720p">
     <display-name>Radio Romania Antena Satelor (720p) [Not 24/7]</display-name>
     <icon src="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" />
@@ -27283,6 +27303,10 @@
   <channel id="RajDigitalPlus.in@SD">
     <display-name>Raj Digital Plus (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png" />
+  </channel>
+  <channel id="RajMusixMalayalam.in@SD">
+    <display-name>Raj Musix Malayalam (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png" />
   </channel>
   <channel id="RajMusixTamil.in@SD">
     <display-name>Raj Musix Tamil (1080p)</display-name>
@@ -27877,7 +27901,7 @@
     <icon src="https://i.imgur.com/kh3LGAP.png" />
   </channel>
   <channel id="RedeTV.br@SD">
-    <display-name>Rede TV! (1080p)</display-name>
+    <display-name>Rede TV! (720p)</display-name>
     <icon src="https://i.imgur.com/ZJgD38F.png" />
   </channel>
   <channel id="RedeTVMais.br@SD">
@@ -33241,7 +33265,7 @@
     <icon src="https://i.imgur.com/5byPkd7.png" />
   </channel>
   <channel id="Telecaribe.co@SD">
-    <display-name>Telecaribe (720p)</display-name>
+    <display-name>Telecaribe (1080p)</display-name>
     <icon src="https://i.imgur.com/E35cXHt.png" />
   </channel>
   <channel id="TelecaribePlus.co@SD">
@@ -33930,7 +33954,7 @@
   </channel>
   <channel id="TenSportsPakistan.pk@SD">
     <display-name>Ten Sports Pakistan</display-name>
-    <icon src="https://i.imgur.com/nnqpYNm.png" />
+    <icon src="https://i.imgur.com/7qS6TcE.png" />
   </channel>
   <channel id="TenarensesTV.do@SD">
     <display-name>Tenarenses TV (1080p) [Not 24/7]</display-name>
@@ -36108,10 +36132,6 @@
     <display-name>TV ERA [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/ds0uf7A.png" />
   </channel>
-  <channel id="TVEscola.br@SD">
-    <display-name>TV Escola (720p)</display-name>
-    <icon src="https://i.imgur.com/OF6aGQj.png" />
-  </channel>
   <channel id="TVEstrella.hn@SD">
     <display-name>TV Estrella (720p)</display-name>
     <icon src="https://i.imgur.com/QqSR7l7.png" />
@@ -36163,10 +36183,6 @@
   <channel id="TVGirona.es@SD">
     <display-name>TV Girona (1080p)</display-name>
     <icon src="https://i.imgur.com/yfiK1Vp.png" />
-  </channel>
-  <channel id="TVGloboRiodeJaneiro.br@SD">
-    <display-name>TV Globo Rio de Janeiro (720p)</display-name>
-    <icon src="" />
   </channel>
   <channel id="TVGloboSaoPaulo.br@SD">
     <display-name>TV Globo Sao Paulo (720p)</display-name>
@@ -37060,10 +37076,6 @@
     <display-name>TVCOM Maceió (480p)</display-name>
     <icon src="https://i.imgur.com/IE7IZzi.png" />
   </channel>
-  <channel id="TVECultura.br@SD">
-    <display-name>TVE Cultura (720p)</display-name>
-    <icon src="https://i.imgur.com/FpqoWcB.png" />
-  </channel>
   <channel id="TVEInternacionalAmerica.es@SD">
     <display-name>TVE Internacional America (1080p)</display-name>
     <icon src="https://i.ibb.co/RpKLCMvp/tve.png" />
@@ -37943,10 +37955,6 @@
   <channel id="UltraCasanareTV.co@SD">
     <display-name>Ultra Casanare TV (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/1voWgLI.png" />
-  </channel>
-  <channel id="UltraTV4K.pl@SD">
-    <display-name>Ultra TV 4K (720p)</display-name>
-    <icon src="https://i.imgur.com/sRtjNdd.png" />
   </channel>
   <channel id="UltraTVPuebla.mx@SD">
     <display-name>Ultra TV Puebla (720p) [Not 24/7]</display-name>
@@ -40444,10 +40452,6 @@
     <display-name>Zee 24 Taas (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG00230LKE.png?lock=720x540" />
   </channel>
-  <channel id="ZeeAction.in@SD">
-    <display-name>Zee Action (576p)</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" />
-  </channel>
   <channel id="ZeeAlwan.ae@SD">
     <display-name>Zee Alwan (576p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/OLuCox7.png" />
@@ -40488,10 +40492,6 @@
     <display-name>Zee Business (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" />
   </channel>
-  <channel id="ZeeCafe.in@HD">
-    <display-name>Zee Cafe HD (1080p)</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=720x540" />
-  </channel>
   <channel id="ZeeCineClassic.in@SD">
     <display-name>Zee Cine Classic (1080p)</display-name>
     <icon src="https://i.imgur.com/QCRhS1n.png" />
@@ -40502,10 +40502,6 @@
   </channel>
   <channel id="ZeeCinema.in@APAC">
     <display-name>Zee Cinema APAC (720p)</display-name>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" />
-  </channel>
-  <channel id="ZeeCinema.in@HD">
-    <display-name>Zee Cinema HD (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" />
   </channel>
   <channel id="ZeeCinema.in@ME">
@@ -40740,6 +40736,10 @@
     <display-name>Zoo Moo (Australia) (1080p)</display-name>
     <icon src="https://i.imgur.com/ciTJrnl.png" />
   </channel>
+  <channel id="Zoom.co@SD">
+    <display-name>Zoom (1080p)</display-name>
+    <icon src="https://i.imgur.com/euy5zp6.png" />
+  </channel>
   <channel id="Zoom.il@SD">
     <display-name>Zoom (576p)</display-name>
     <icon src="https://i.imgur.com/KnBzNtA.png" />
@@ -40747,10 +40747,6 @@
   <channel id="Zoom.in@SD">
     <display-name>Zoom (720p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" />
-  </channel>
-  <channel id="Zoom.ua@SD">
-    <display-name>Zoom (1080p)</display-name>
-    <icon src="https://i.imgur.com/EzIiXIT.png" />
   </channel>
   <channel id="Zoom.in@Global">
     <display-name>Zoom Global (720p)</display-name>
