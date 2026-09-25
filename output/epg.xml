@@ -248,6 +248,10 @@
     <display-name>5Sport (1080p)</display-name>
     <icon src="https://i.imgur.com/dRVsB89.png" />
   </channel>
+  <channel id="5Stars.il@SD">
+    <display-name>5Stars (1080p)</display-name>
+    <icon src="https://i.imgur.com/IQtAKIa.png" />
+  </channel>
   <channel id="5tv.ar@SD">
     <display-name>5tv</display-name>
     <icon src="https://i.imgur.com/mSn7ACs.png" />
@@ -3677,7 +3681,7 @@
     <icon src="https://i.imgur.com/FqkABWT.png" />
   </channel>
   <channel id="Avto24.ru@SD">
-    <display-name>Avto24 (576p)</display-name>
+    <display-name>Avto24 (1080i)</display-name>
     <icon src="https://i.imgur.com/GXSXmN2.png" />
   </channel>
   <channel id="AwaazIndiaTV.in@SD">
@@ -5963,6 +5967,10 @@
   <channel id="CableImagenArmstrong.ar@SD">
     <display-name>Cable Imagen Armstrong (540p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/U9NuJQC.png" />
+  </channel>
+  <channel id="Cablenoticias.co@SD">
+    <display-name>Cablenoticias (1080p)</display-name>
+    <icon src="https://i.imgur.com/FfhOGR9.png" />
   </channel>
   <channel id="CaboFrioTV.br@SD">
     <display-name>Cabo Frio TV (720p)</display-name>
@@ -10688,6 +10696,10 @@
     <display-name>Disney Channel (Czech Republic)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
   </channel>
+  <channel id="DisneyChannel.de@SD">
+    <display-name>Disney Channel (Germany)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
+  </channel>
   <channel id="DisneyChannel.hu@SD">
     <display-name>Disney Channel (Hungary)</display-name>
     <icon src="https://i.imgur.com/aOa73uT.png" />
@@ -11193,7 +11205,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" />
   </channel>
   <channel id="DSports.us@Panregional">
-    <display-name>DSports</display-name>
+    <display-name>DSports (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" />
   </channel>
   <channel id="DSTV.bg@SD">
@@ -14456,8 +14468,12 @@
     <display-name>Golden Jade (1080p)</display-name>
     <icon src="https://i.imgur.com/lPYxsUr.png" />
   </channel>
+  <channel id="GoldenPremier2.mx@SD">
+    <display-name>Golden Premier 2 (1080p)</display-name>
+    <icon src="https://i.imgur.com/GBlvQBI.png" />
+  </channel>
   <channel id="GoldenPremier.mx@SD">
-    <display-name>Golden Premier</display-name>
+    <display-name>Golden Premier (1080p)</display-name>
     <icon src="https://i.imgur.com/JMa7jws.png" />
   </channel>
   <channel id="Goldmines2.in@SD">
@@ -17431,6 +17447,10 @@
   <channel id="kabeleins.de@SD">
     <display-name>kabel eins</display-name>
     <icon src="https://i.imgur.com/6pulSHZ.png" />
+  </channel>
+  <channel id="kabeleinsDoku.de@SD">
+    <display-name>kabel eins Doku</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" />
   </channel>
   <channel id="Kadak.in@SD">
     <display-name>Kadak (1080p)</display-name>
@@ -26065,7 +26085,7 @@
     <icon src="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" />
   </channel>
   <channel id="PlimPlim.ar@SD">
-    <display-name>Plim Plim</display-name>
+    <display-name>Plim Plim (1080p)</display-name>
     <icon src="https://i.imgur.com/MYc8srh.png" />
   </channel>
   <channel id="PlousTV.ve@SD">
@@ -28239,6 +28259,10 @@
   <channel id="ProSieben.de@SD">
     <display-name>ProSieben (1080p)</display-name>
     <icon src="https://i.imgur.com/zZOk3nh.png" />
+  </channel>
+  <channel id="ProSiebenMaxx.de@SD">
+    <display-name>ProSieben Maxx</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png" />
   </channel>
   <channel id="Prosveshchenie.ru@SD">
     <display-name>Prosveshchenie (576p)</display-name>
@@ -33776,6 +33800,10 @@
     <display-name>Spacetoon Arabic (576p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" />
   </channel>
+  <channel id="SpacetoonTurkey.tr@SD">
+    <display-name>Spacetoon Turkey (720p) [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" />
+  </channel>
   <channel id="SparkTV.uk@SD">
     <display-name>Spark TV (1080p)</display-name>
     <icon src="https://i.imgur.com/svc98Kg.png" />
@@ -33880,12 +33908,20 @@
     <display-name>Sport 2 (Ukraine) (1080p)</display-name>
     <icon src="https://i.imgur.com/vk0j1mY.png" />
   </channel>
+  <channel id="Sport3.il@SD">
+    <display-name>Sport 3 (Israel) (1080p)</display-name>
+    <icon src="https://i.imgur.com/stSrBBh.png" />
+  </channel>
   <channel id="Sport3.ua@SD">
-    <display-name>Sport 3 (1080p)</display-name>
+    <display-name>Sport 3 (Ukraine) (1080p)</display-name>
     <icon src="https://i.imgur.com/qkvavfH.png" />
   </channel>
+  <channel id="Sport4.il@SD">
+    <display-name>Sport 4 (Israel) (1080p)</display-name>
+    <icon src="https://i.imgur.com/wFXzzYs.png" />
+  </channel>
   <channel id="Sport4.ua@SD">
-    <display-name>Sport 4 (576p)</display-name>
+    <display-name>Sport 4 (Ukraine) (576p)</display-name>
     <icon src="https://i.imgur.com/xW6oGIx.png" />
   </channel>
   <channel id="Sport5.ua@SD">
@@ -34289,7 +34325,7 @@
     <icon src="https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png" />
   </channel>
   <channel id="StartTriumf.ru@SD">
-    <display-name>Start Triumf</display-name>
+    <display-name>Start Triumf (1080p)</display-name>
     <icon src="https://i.imgur.com/L9jTieL.png" />
   </channel>
   <channel id="StartTV.gr@SD">
@@ -35899,6 +35935,10 @@
   <channel id="Telegranda.it@SD">
     <display-name>Telegranda (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/j3r0URO.png" />
+  </channel>
+  <channel id="TeleHit.mx@SD">
+    <display-name>TeleHit (576p)</display-name>
+    <icon src="https://i.imgur.com/NVxHxJn.png" />
   </channel>
   <channel id="TelehitMusica.mx@SD">
     <display-name>Telehit Musica (1080p)</display-name>
@@ -43273,7 +43313,7 @@
     <icon src="https://i.imgur.com/vtq1IWp.png" />
   </channel>
   <channel id="ZDFneo.de@SD">
-    <display-name>ZDFneo (720p) [Geo-blocked]</display-name>
+    <display-name>ZDFneo</display-name>
     <icon src="https://i.imgur.com/1JIIGgL.png" />
   </channel>
   <channel id="ZdorovoeTV.ru@SD">
