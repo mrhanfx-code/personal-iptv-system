@@ -3740,6 +3740,10 @@
     <display-name>AXN Adria</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
+  <channel id="AXNAsia.sg@Philippines">
+    <display-name>AXN Asia Philippines (576p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
+  </channel>
   <channel id="AXNAsia.sg@Taiwan">
     <display-name>AXN Asia Taiwan (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
@@ -3797,7 +3801,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
   <channel id="AXNLatinAmerica.us@South">
-    <display-name>AXN Latin America South</display-name>
+    <display-name>AXN Latin America South (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
   <channel id="AXNMovies.pt@SD">
@@ -4095,6 +4099,10 @@
   <channel id="BandSports.br@SD">
     <display-name>Band Sports (1080p)</display-name>
     <icon src="https://i.imgur.com/EuPvzJe.png" />
+  </channel>
+  <channel id="Bandamax.mx@SD">
+    <display-name>Bandamax (1080p)</display-name>
+    <icon src="https://i.imgur.com/4DfnOTA.png" />
   </channel>
   <channel id="BandNews.br@SD">
     <display-name>BandNews (1080p)</display-name>
@@ -8140,6 +8148,10 @@
     <display-name>Chaos City</display-name>
     <icon src="https://i.imgur.com/1UZNdRH.png" />
   </channel>
+  <channel id="ChaozhouPublicChannel.cn@SD">
+    <display-name>Chaozhou Public Channel</display-name>
+    <icon src="https://i.imgur.com/8YIrgB7.png" />
+  </channel>
   <channel id="ChappellesShow.se@SE">
     <display-name>Chappelle's Show</display-name>
     <icon src="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png" />
@@ -8531,6 +8543,10 @@
   <channel id="CinemaWorld.my@SD">
     <display-name>CinemaWorld (720p)</display-name>
     <icon src="https://i.imgur.com/D2qNVZ7.png" />
+  </channel>
+  <channel id="CinemaxAction.us@EastHD">
+    <display-name>Cinemax Action East HD (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png" />
   </channel>
   <channel id="CinemaxClassics.us@East">
     <display-name>Cinemax Classics (1080p)</display-name>
@@ -10714,7 +10730,7 @@
   </channel>
   <channel id="DisneyChannel.il@SD">
     <display-name>Disney Channel (Israel) (576p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png" />
   </channel>
   <channel id="DisneyChannel.nl@SD">
     <display-name>Disney Channel (Netherlands)</display-name>
@@ -13374,7 +13390,7 @@
   </channel>
   <channel id="FoodChannel.il@SD">
     <display-name>Food Channel (1080p)</display-name>
-    <icon src="https://i.imgur.com/mpXPmfw.png" />
+    <icon src="https://images.open-epg.com/x1723.png" />
   </channel>
   <channel id="FoodFood.in@SD">
     <display-name>Food Food (576p)</display-name>
@@ -15072,9 +15088,9 @@
     <display-name>HauntTV CA (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" />
   </channel>
-  <channel id="HBOHits.us@East">
-    <display-name>HBO Hits (720p)</display-name>
-    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" />
+  <channel id="HBODrama.us@East">
+    <display-name>HBO Drama (1080p)</display-name>
+    <icon src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png" />
   </channel>
   <channel id="HBOHits.us@EastHD">
     <display-name>HBO Hits East HD (720p)</display-name>
@@ -23536,6 +23552,10 @@
     <display-name>Nick Jr. (United States) (720p)</display-name>
     <icon src="https://i.imgur.com/KT4tdQs.png" />
   </channel>
+  <channel id="NickJr.us@EastHD">
+    <display-name>Nick Jr. (United States) East HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/KT4tdQs.png" />
+  </channel>
   <channel id="NickJrAsia.sg@SD">
     <display-name>Nick Jr. Asia (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" />
@@ -23681,7 +23701,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" />
   </channel>
   <channel id="Nicktoons.us@East">
-    <display-name>Nicktoons (United States) (720p)</display-name>
+    <display-name>Nicktoons (United States) (1080p)</display-name>
     <icon src="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" />
   </channel>
   <channel id="Nicktoons.us@CA">
@@ -24189,7 +24209,7 @@
     <icon src="https://i.imgur.com/AH50pGT.png" />
   </channel>
   <channel id="NTN24.co@SD">
-    <display-name>NTN24 (576p)</display-name>
+    <display-name>NTN24 (720p)</display-name>
     <icon src="https://i.imgur.com/UoKmSAP.png" />
   </channel>
   <channel id="NTN.it@SD">
@@ -27998,7 +28018,7 @@
   </channel>
   <channel id="PrattelTV.pe@SD">
     <display-name>Prattel TV (720p)</display-name>
-    <icon src="https://new.opencaster.com/uploads/logos/logo_244_1761928734.png" />
+    <icon src="https://pratteltv.lat/wp-content/uploads/2026/05/cropped-V2.jpg" />
   </channel>
   <channel id="PravasiChannel.in@SD">
     <display-name>Pravasi Channel (1080p)</display-name>
@@ -42683,6 +42703,10 @@
   <channel id="WinTV.in@SD">
     <display-name>Win TV (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" />
+  </channel>
+  <channel id="WinPlusFutbol.co@SD">
+    <display-name>Win+ Futbol (1080p)</display-name>
+    <icon src="https://i.imgur.com/0UN87vB.png" />
   </channel>
   <channel id="WindowTV.us@SD">
     <display-name>Window TV (720p)</display-name>
