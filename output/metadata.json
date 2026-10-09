@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T05:30:24.471990",
-  "total_entries": 11196,
+  "generated_at": "2026-10-09T05:33:58.917934",
+  "total_entries": 11209,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -4383,18 +4383,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
-      "title": "Adult Swim Latin America (1080p) [Geo-blocked]",
-      "duration": -1,
-      "tvg_id": "AdultSwimLatinAmerica.us@Panregional",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
       "title": "Adult Swim Latin America Brazil (720p)",
       "duration": -1,
@@ -6531,24 +6519,12 @@
       "geo_blocked": false
     },
     {
-      "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8",
+      "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8",
       "title": "Alhurra (720p)",
       "duration": -1,
       "tvg_id": "Alhurra.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/tiQp2sR.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master.m3u8",
-      "title": "Alhurra Iraq (720p)",
-      "duration": -1,
-      "tvg_id": "AlhurraIraq.us@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/fsgQDcN.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -7599,6 +7575,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
+      "title": "American Heroes Channel (720p)",
+      "duration": -1,
+      "tvg_id": "AmericanHeroesChannel.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
       "title": "American Horrors (480p)",
       "duration": -1,
@@ -8301,6 +8289,42 @@
       "tvg_id": "ANIMALKINGDOM.de@SD",
       "tvg_name": null,
       "tvg_logo": "",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+      "title": "Animal Planet (720p)",
+      "duration": -1,
+      "tvg_id": "AnimalPlanet.us@East",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
+      "title": "Animal Planet East HD (720p)",
+      "duration": -1,
+      "tvg_id": "AnimalPlanet.us@EastHD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8",
+      "title": "Animal Planet Latin America HD (720p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "AnimalPlanetLatinAmerica.us@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -9249,18 +9273,6 @@
       "tvg_id": "ArenaSport2.sk@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/Yq3Jf19.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://nl1.nghk.ai/SK2SRHD/index.m3u8",
-      "title": "Arena Sport 5 Premium",
-      "duration": -1,
-      "tvg_id": "ArenaSport5Premium.rs@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/d/de/Arena_Sport_5_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619135051",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -22527,6 +22539,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
+      "title": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "CartoonNetworkLatinAmerica.us@Brazil",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
       "title": "Cartoon Network Latin America North Atlantic (1080p)",
       "duration": -1,
@@ -22543,6 +22567,18 @@
       "title": "Cartoon Network Latin America South Atlantic (1080p)",
       "duration": -1,
       "tvg_id": "CartoonNetworkLatinAmerica.us@SouthAtlantic",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a00w",
+      "title": "Cartoon Network Latin America South Pacific (576p)",
+      "duration": -1,
+      "tvg_id": "CartoonNetworkLatinAmerica.us@SouthPacific",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "group_title": "Live TV",
@@ -24447,6 +24483,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://cdn.qd.je/163189/ch5",
+      "title": "Channel 5 (Singapore) (720p)",
+      "duration": -1,
+      "tvg_id": "Channel5.sg@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
       "title": "Channel 5 (Thailand) (1080p)",
       "duration": -1,
@@ -26259,18 +26307,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
-      "title": "CineMaraton (576i)",
-      "duration": -1,
-      "tvg_id": "CineMaraton.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/BY8UZa0.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
       "title": "Cinemaraton Plus (1080i)",
       "duration": -1,
@@ -27903,6 +27939,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
+      "title": "CNN Chile (1080p)",
+      "duration": -1,
+      "tvg_id": "CNNChile.cl@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/t4EXijz.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8",
       "title": "CNN Prima News (1080p)",
       "duration": -1,
@@ -28929,6 +28977,18 @@
       "tvg_id": "ControversiaTV.pe@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/X7cPyP2.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
+      "title": "Cooking Channel (720p)",
+      "duration": -1,
+      "tvg_id": "CookingChannel.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/960px-Cooking_Channel.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -32811,34 +32871,10 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/digilife/mono.m3u8",
-      "title": "Digi Life (576i)",
-      "duration": -1,
-      "tvg_id": "DigiLife.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/YhKpUkd.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8",
       "title": "Digi Sport 1",
       "duration": -1,
       "tvg_id": "DigiSport1.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/5zMxDYq.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://dokagents.site/live/digisport1/mono.m3u8",
-      "title": "Digi Sport 1 HD (576i)",
-      "duration": -1,
-      "tvg_id": "DigiSport1.ro@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/5zMxDYq.png",
       "group_title": "Live TV",
@@ -32853,42 +32889,6 @@
       "tvg_id": "DigiSport2.ro@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/KWDUi3v.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://dokagents.site/live/digisport3/mono.m3u8",
-      "title": "Digi Sport 3 (576i)",
-      "duration": -1,
-      "tvg_id": "DigiSport3.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/T1ci5UK.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://dokagents.site/live/digisport4/mono.m3u8",
-      "title": "Digi Sport 4 (576i)",
-      "duration": -1,
-      "tvg_id": "DigiSport4.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/Knj9I6f.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://dokagents.site/live/digiworld/mono.m3u8",
-      "title": "Digi World (576i)",
-      "duration": -1,
-      "tvg_id": "DigiWorld.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/pGICS9K.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -33087,12 +33087,48 @@
       "geo_blocked": false
     },
     {
+      "url": "http://212.5.144.156:8080/discovery/index.m3u8",
+      "title": "Discovery Channel (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "DiscoveryChannel.us@East",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
       "title": "Discovery Channel Latin America (1080p)",
       "duration": -1,
       "tvg_id": "DiscoveryChannelLatinAmerica.us@Panregional",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8",
+      "title": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "DiscoveryKidsLatinAmerica.us@Brazil",
+      "tvg_name": null,
+      "tvg_logo": "",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://38.134.250.110:8000/play/a003/index.m3u8",
+      "title": "Discovery Kids Latin America Colombia (1080p)",
+      "duration": -1,
+      "tvg_id": "DiscoveryKidsLatinAmerica.us@Colombia",
+      "tvg_name": null,
+      "tvg_logo": "",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -33117,6 +33153,18 @@
       "tvg_id": "DiscoveryTurbo.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8",
+      "title": "Discovery World Brazil (720p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "DiscoveryWorld.us@Brazil",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/yNFmUkE.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -37268,7 +37316,7 @@
       "duration": -1,
       "tvg_id": "EpicCrimes.in@SD",
       "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/EFDsCkH.png",
+      "tvg_logo": "https://i.imgur.com/a5kaqDc.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -40551,18 +40599,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/filmmania/mono.m3u8",
-      "title": "Film Mania (576p)",
-      "duration": -1,
-      "tvg_id": "FilmMania.hu@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/crhsomk.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8",
       "title": "Film Now",
       "duration": -1,
@@ -41463,6 +41499,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+      "title": "Food Network (720p)",
+      "duration": -1,
+      "tvg_id": "FoodNetwork.us@East",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://str2.iptvhd.ru:8080/Eda/index.m3u8",
       "title": "FoodTime (1080p)",
       "duration": -1,
@@ -42069,6 +42117,18 @@
       "tvg_id": "FoxSports1.us@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/O9BapV9.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
+      "title": "Fox Sports (1080p)",
+      "duration": -1,
+      "tvg_id": "FoxSports.ar@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -44859,6 +44919,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://57.128.231.171:8080/248/index.m3u8",
+      "title": "Golf Zone (1080p)",
+      "duration": -1,
+      "tvg_id": "GolfZone.pl@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/ZR8cRj8d/Golf-Zone.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8",
       "title": "Golkhane Tv",
       "duration": -1,
@@ -46575,6 +46647,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://15.204.246.24:8080/HBOHD/index.m3u8",
+      "title": "HBO Latin America (720p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "HBOLatinAmerica.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
       "title": "HBO Movies (720p)",
       "duration": -1,
@@ -47355,18 +47439,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/history/mono.m3u8",
-      "title": "History (Romania)",
-      "duration": -1,
-      "tvg_id": "History.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
       "title": "History (Slovenia) (1080p)",
       "duration": -1,
@@ -47793,6 +47865,18 @@
       "tvg_id": "HLKUDTV.kr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/jiFOYi5.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
+      "title": "HLN (720p)",
+      "duration": -1,
+      "tvg_id": "HLN.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -50751,18 +50835,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8",
-      "title": "InfoWars (1080p)",
-      "duration": -1,
-      "tvg_id": "InfoWars.us@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/a7h9epj.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8",
       "title": "Ingenio TV (720p) [Geo-blocked]",
       "duration": -1,
@@ -51141,6 +51213,18 @@
       "tvg_id": "InvestigationbyPlutoTV.de@FR",
       "tvg_name": null,
       "tvg_logo": "https://images.pluto.tv/channels/6683cd2fca74680008772545/colorLogoPNG_1747399523793.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://212.5.144.156:8080/id/index.m3u8",
+      "title": "Investigation Discovery (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "InvestigationDiscovery.us@East",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -52347,7 +52431,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8",
+      "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
       "title": "Jawhara TV (720p) [Not 24/7]",
       "duration": -1,
       "tvg_id": "JawharaTV.tn@SD",
@@ -61143,6 +61227,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8",
+      "title": "Magnolia Network (720p)",
+      "duration": -1,
+      "tvg_id": "MagnoliaNetwork.us@East",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/960px-Magnolia_Network.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.15.19/live/mozi/index.m3u8",
       "title": "Magyar Mozi TV",
       "duration": -1,
@@ -62787,8 +62883,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8",
-      "title": "MBC 1 USA",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8",
+      "title": "MBC 1 USA (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "MBC1USA.us@SD",
       "tvg_name": null,
@@ -62799,8 +62895,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8",
-      "title": "MBC 3 USA (1080p)",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+      "title": "MBC 3 USA (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "MBC3USA.us@SD",
       "tvg_name": null,
@@ -72687,6 +72783,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://zg9mhld.s.gy/HD-NICK-IT.ts",
+      "title": "Nickelodeon (Italy)",
+      "duration": -1,
+      "tvg_id": "Nickelodeon.it@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/E84jnP8.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8",
       "title": "Nickelodeon (Romania)",
       "duration": -1,
@@ -77757,6 +77865,18 @@
       "tvg_id": "OviedoTV.py@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/6OlfgSQ.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_OWN/index.m3u8",
+      "title": "OWN (720p)",
+      "duration": -1,
+      "tvg_id": "OWN.us@East",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -85599,7 +85719,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+      "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8",
       "title": "Pooya TV",
       "duration": -1,
       "tvg_id": "PooyaTV.ir@SD",
@@ -86271,18 +86391,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/primacomedy/mono.m3u8",
-      "title": "Prima Comedy (576p)",
-      "duration": -1,
-      "tvg_id": "PrimaComedy.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/tvfanon6528/images/c/c6/Prima_Comedy_%282022-.n.v.%29.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8",
       "title": "Prima Cool",
       "duration": -1,
@@ -86415,18 +86523,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/pr5/mono.m3u8",
-      "title": "Prima Sport 5 (480p)",
-      "duration": -1,
-      "tvg_id": "PrimaSport5.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8",
       "title": "Prima Star (1080p)",
       "duration": -1,
@@ -86445,18 +86541,6 @@
       "tvg_id": "PrimaTV.it@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/HE9c8Sk.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://dokagents.site/live/primatv/mono.m3u8",
-      "title": "Prima TV (Romania) (576p)",
-      "duration": -1,
-      "tvg_id": "PrimaTV.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/p2umWAT.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -86667,8 +86751,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/proarena/mono.m3u8",
-      "title": "Pro Arena HD (1080i)",
+      "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8",
+      "title": "Pro Arena HD",
       "duration": -1,
       "tvg_id": "ProArena.ro@HD",
       "tvg_name": null,
@@ -86727,18 +86811,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/protv/mono.m3u8",
-      "title": "PRO TV (576i)",
-      "duration": -1,
-      "tvg_id": "PROTV.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/zVk3WlT.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0",
       "title": "PRO TV HD (1080p)",
       "duration": -1,
@@ -86751,7 +86823,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://178.76.68.60:7441/15/mpegts",
+      "url": "http://178.76.68.60:7442/15/mpegts",
       "title": "PRO TV Chisinau (576p)",
       "duration": -1,
       "tvg_id": "PROTVChisinau.md@SD",
@@ -94095,18 +94167,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dokagents.site/live/romaniatv/mono.m3u8",
-      "title": "Romania TV (576i)",
-      "duration": -1,
-      "tvg_id": "RomaniaTV.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/ZIfEp5I.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8",
       "title": "Romantica TV (1080p)",
       "duration": -1,
@@ -95193,6 +95253,18 @@
       "tvg_id": "RTN.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/jjUzuLV.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8",
+      "title": "RTN Chicago (480p)",
+      "duration": -1,
+      "tvg_id": "RTNChicago.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/wwchqYk/889dc1-937ba3d8d4ed4331a668a1c544766318-mv2.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -103569,6 +103641,18 @@
       "tvg_id": "Soyuzny.ru@SD",
       "tvg_name": null,
       "tvg_logo": "https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+      "title": "Space (1080p)",
+      "duration": -1,
+      "tvg_id": "Space.ar@Panregional",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -112047,6 +112131,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://190.128.214.97:64333/play/a008/index.m3u8",
+      "title": "Television Publica (1080p)",
+      "duration": -1,
+      "tvg_id": "TelevisionPublica.ar@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/XGrkzN3.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8",
       "title": "Television Tarapoto (720p)",
       "duration": -1,
@@ -114651,6 +114747,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
+      "title": "TLC Latin America (1080p)",
+      "duration": -1,
+      "tvg_id": "TLCLatinAmerica.us@Panregional",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
       "title": "TLN KQSL (720p)",
       "duration": -1,
@@ -115063,6 +115171,30 @@
       "title": "TNT Latin America (1080p)",
       "duration": -1,
       "tvg_id": "TNTLatinAmerica.us@Center",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://15.204.246.24:8080/TNTHD/index.m3u8",
+      "title": "TNT Latin America Brazil (720p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "TNTLatinAmerica.us@Brazil",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://181.78.211.244:8005/play/a09g/index.m3u8",
+      "title": "TNT Latin America Colombia (1080p)",
+      "duration": -1,
+      "tvg_id": "TNTLatinAmerica.us@Colombia",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
       "group_title": "Live TV",
@@ -118251,7 +118383,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://178.76.68.60:7441/7/mpegts",
+      "url": "http://178.76.68.60:7442/7/mpegts",
       "title": "TV8 (Moldova)",
       "duration": -1,
       "tvg_id": "TV8.md@SD",
@@ -126327,6 +126459,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://38.134.250.110:8000/play/a006/index.m3u8",
+      "title": "Universal TV Latin America Colombia (1080p)",
+      "duration": -1,
+      "tvg_id": "UniversalTVLatinAmerica.us@Colombia",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8",
       "title": "Universitaria TV (720p)",
       "duration": -1,
@@ -130329,6 +130473,18 @@
       "tvg_id": "Wapp.cl@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/Bv1yJ1d.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
+      "title": "Warner Channel Colombia (1080p)",
+      "duration": -1,
+      "tvg_id": "WarnerChannel.us@Colombia",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
