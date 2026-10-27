@@ -7661,8 +7661,12 @@
     <icon src="https://i.imgur.com/Vcd40AL.png" />
   </channel>
   <channel id="CartoonClassics.pl@FAST">
-    <display-name>Cartoon Classics</display-name>
+    <display-name>Cartoon Classics (Poland)</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" />
+  </channel>
+  <channel id="CartoonClassics.ru@SD">
+    <display-name>Cartoon Classics (Russia)</display-name>
+    <icon src="https://sales.planbkino.tv//b/c/471.png" />
   </channel>
   <channel id="CartoonNetwork.in@SD">
     <display-name>Cartoon Network (India) (720p)</display-name>
@@ -8093,7 +8097,7 @@
     <icon src="https://i.imgur.com/fxusYlX.png" />
   </channel>
   <channel id="CCTV5Plus.cn@SD">
-    <display-name>CCTV-5+</display-name>
+    <display-name>CCTV-5+ (1080p)</display-name>
     <icon src="https://i.imgur.com/OK8mdJV.png" />
   </channel>
   <channel id="CCTV6.cn@SD">
@@ -33575,10 +33579,6 @@
   <channel id="SCTV4.vn@SD">
     <display-name>SCTV4 (720p)</display-name>
     <icon src="https://i.imgur.com/qkZhzQq.png" />
-  </channel>
-  <channel id="SCTV4K.vn@UHD">
-    <display-name>SCTV4K (2160p)</display-name>
-    <icon src="https://i.imgur.com/eQVMAur.png" />
   </channel>
   <channel id="SCTV6.vn@SD">
     <display-name>SCTV6 (720p)</display-name>
