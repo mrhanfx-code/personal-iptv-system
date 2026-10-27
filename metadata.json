@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:10:42.014377",
+  "generated_at": "2026-10-27T04:30:10.294234",
   "total_entries": 11340,
   "entries": [
     {
@@ -22984,11 +22984,23 @@
     },
     {
       "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
-      "title": "Cartoon Classics",
+      "title": "Cartoon Classics (Poland)",
       "duration": -1,
       "tvg_id": "CartoonClassics.pl@FAST",
       "tvg_name": null,
       "tvg_logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://88.218.242.237:8001/Cartoon_Classics",
+      "title": "Cartoon Classics (Russia)",
+      "duration": -1,
+      "tvg_id": "CartoonClassics.ru@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://sales.planbkino.tv//b/c/471.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -24279,8 +24291,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
-      "title": "CCTV-5+",
+      "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
+      "title": "CCTV-5+ (1080p)",
       "duration": -1,
       "tvg_id": "CCTV5Plus.cn@SD",
       "tvg_name": null,
@@ -100725,18 +100737,6 @@
       "tvg_id": "SCTV4.vn@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/qkZhzQq.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
-      "title": "SCTV4K (2160p)",
-      "duration": -1,
-      "tvg_id": "SCTV4K.vn@UHD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/eQVMAur.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
