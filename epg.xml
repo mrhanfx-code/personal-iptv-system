@@ -740,6 +740,26 @@
     <display-name>90210</display-name>
     <icon src="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" />
   </channel>
+  <channel id="black.ru@SD">
+    <display-name>.black (576p)</display-name>
+    <icon src="https://i.imgur.com/Q4A6ci4.png" />
+  </channel>
+  <channel id="red.ru@SD">
+    <display-name>.red (576p)</display-name>
+    <icon src="https://i.imgur.com/GET9Qut.png" />
+  </channel>
+  <channel id="red.ru@HD">
+    <display-name>.red HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/GET9Qut.png" />
+  </channel>
+  <channel id="scifi.ru@SD">
+    <display-name>.sci-fi (576p)</display-name>
+    <icon src="https://i.imgur.com/nSSUHcg.png" />
+  </channel>
+  <channel id="24.sk@SD">
+    <display-name>:24 (1080p)</display-name>
+    <icon src="https://i.imgur.com/tTCuczU.png" />
+  </channel>
   <channel id="OPA.cr@SD">
     <display-name>¡OPA! (720p)</display-name>
     <icon src="https://i.imgur.com/300c1ZH.png" />
@@ -763,26 +783,6 @@
   <channel id="PlusTV.by@SD">
     <display-name>+TV (576p) [Geo-blocked]</display-name>
     <icon src="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" />
-  </channel>
-  <channel id="black.ru@SD">
-    <display-name>.black (576p)</display-name>
-    <icon src="https://i.imgur.com/Q4A6ci4.png" />
-  </channel>
-  <channel id="red.ru@SD">
-    <display-name>.red (576p)</display-name>
-    <icon src="https://i.imgur.com/GET9Qut.png" />
-  </channel>
-  <channel id="red.ru@HD">
-    <display-name>.red HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/GET9Qut.png" />
-  </channel>
-  <channel id="scifi.ru@SD">
-    <display-name>.sci-fi (576p)</display-name>
-    <icon src="https://i.imgur.com/nSSUHcg.png" />
-  </channel>
-  <channel id="24.sk@SD">
-    <display-name>:24 (1080p)</display-name>
-    <icon src="https://i.imgur.com/tTCuczU.png" />
   </channel>
   <channel id="A1.ru@SD">
     <display-name>A1 (576p)</display-name>
@@ -1243,6 +1243,10 @@
   <channel id="ABPNews.in@SD">
     <display-name>ABP News (1080p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" />
+  </channel>
+  <channel id="ABPSanjha.in@SD">
+    <display-name>ABP Sanjha (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png" />
   </channel>
   <channel id="AbsoluteRealitybyWETV.us@SD">
     <display-name>Absolute Reality by WE TV</display-name>
@@ -2856,6 +2860,14 @@
     <display-name>Anjan TV (720p)</display-name>
     <icon src="https://i.imgur.com/sh0yFSf.png" />
   </channel>
+  <channel id="AnmolCinema2.in@SD">
+    <display-name>Anmol Cinema 2 (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" />
+  </channel>
+  <channel id="AnmolCinema.in@SD">
+    <display-name>Anmol Cinema (576p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" />
+  </channel>
   <channel id="AnmolTV.in@SD">
     <display-name>Anmol TV (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540" />
@@ -2892,6 +2904,10 @@
     <display-name>Antena 3 CNN (1080p)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" />
   </channel>
+  <channel id="Antena3Constanta.ro@SD">
+    <display-name>Antena 3 Constanta (576p)</display-name>
+    <icon src="https://antena3constanta.ro/wp-content/uploads/2025/08/ant3-logonn.jpg" />
+  </channel>
   <channel id="Antena3Internacional.es@SD">
     <display-name>Antena 3 Internacional (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" />
@@ -2927,10 +2943,6 @@
   <channel id="AntenaSeisTV.cr@SD">
     <display-name>Antena Seis TV (720p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/9Nh2mo9.png" />
-  </channel>
-  <channel id="AntenaStars.ro@SD">
-    <display-name>Antena Stars</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300" />
   </channel>
   <channel id="AntenaSUR.pe@SD">
     <display-name>Antena SUR (720p)</display-name>
@@ -3441,7 +3453,7 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png" />
   </channel>
   <channel id="AsianetSuvarnaNews.in@SD">
-    <display-name>Asianet Suvarna News (1080p) [Not 24/7]</display-name>
+    <display-name>Asianet Suvarna News (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="AsilTV.ir@SD">
@@ -3559,10 +3571,6 @@
   <channel id="Atlas.us@SD">
     <display-name>Atlas (480p)</display-name>
     <icon src="https://whiplash.cc/assets/img/channels/atlas.png" />
-  </channel>
-  <channel id="ATMRozrywkaREWORK.pl@HD">
-    <display-name>ATM Rozrywka REWORK (720p)</display-name>
-    <icon src="https://i.ibb.co/B5BfmQNs/ATM.jpg" />
   </channel>
   <channel id="ATNBangla.bd@SD">
     <display-name>ATN Bangla (720p)</display-name>
@@ -4940,6 +4948,10 @@
     <display-name>Belle Amie (540p)</display-name>
     <icon src="https://i.imgur.com/tOlN5Rz.png" />
   </channel>
+  <channel id="BelsatTV.pl@SD">
+    <display-name>Belsat TV</display-name>
+    <icon src="https://i.imgur.com/qJyjSR6.png" />
+  </channel>
   <channel id="BemMaisTV.br@HD">
     <display-name>Bem Mais TV (1080p)</display-name>
     <icon src="https://bemmaistv.com.br/wp-content/uploads/2025/08/0LASAmOtt4-150x150.jpg" />
@@ -5311,6 +5323,10 @@
   <channel id="Bigudi.ua@SD">
     <display-name>Bigudi (576p)</display-name>
     <icon src="https://i.imgur.com/dy9ZKG1.png" />
+  </channel>
+  <channel id="BihorTV.ro@SD">
+    <display-name>Bihor TV (576p)</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Bihortvlogo.png/revision/latest/scale-to-width-down/1000?cb=20241223065621" />
   </channel>
   <channel id="BilimIlim.kg@SD">
     <display-name>Bilim Ilim (480p) [Not 24/7]</display-name>
@@ -7162,7 +7178,7 @@
   </channel>
   <channel id="CanalPro.py@SD">
     <display-name>Canal Pro</display-name>
-    <icon src="https://i.imgur.com/ah8n7jL.png" />
+    <icon src="https://i.imgur.com/h7qelDq.png" />
   </channel>
   <channel id="CanalProvincial.ar@SD">
     <display-name>Canal Provincial (360p)</display-name>
@@ -10641,15 +10657,15 @@
     <icon src="https://i.imgur.com/65Xk6oI.png" />
   </channel>
   <channel id="DDArunPrabha.in@SD">
-    <display-name>DD Arun Prabha (360p)</display-name>
+    <display-name>DD Arun Prabha (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDAssam.in@SD">
-    <display-name>DD Assam (504p)</display-name>
+    <display-name>DD Assam (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDBangla.in@SD">
-    <display-name>DD Bangla (504p)</display-name>
+    <display-name>DD Bangla (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDBharati.in@SD">
@@ -10669,19 +10685,19 @@
     <icon src="https://i.imgur.com/zBg6Iuv.png" />
   </channel>
   <channel id="DDGirnar.in@SD">
-    <display-name>DD Girnar (504p)</display-name>
+    <display-name>DD Girnar (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDGoa.in@SD">
-    <display-name>DD Goa (504p)</display-name>
+    <display-name>DD Goa (576p)</display-name>
     <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" />
   </channel>
   <channel id="DDHaryana.in@SD">
-    <display-name>DD Haryana (504p)</display-name>
+    <display-name>DD Haryana (576p)</display-name>
     <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png" />
   </channel>
   <channel id="DDHimachalPradesh.in@SD">
-    <display-name>DD Himachal Pradesh (504p)</display-name>
+    <display-name>DD Himachal Pradesh (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540" />
   </channel>
   <channel id="DDIndia.in@SD">
@@ -10689,11 +10705,11 @@
     <icon src="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDJharkhand.in@SD">
-    <display-name>DD Jharkhand (504p)</display-name>
+    <display-name>DD Jharkhand (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142787_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDKashir.in@SD">
-    <display-name>DD Kashir (504p)</display-name>
+    <display-name>DD Kashir (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KASHIR/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDKisan.in@SD">
@@ -10705,11 +10721,11 @@
     <icon src="https://dtil.tmsimg.com/assets/s142790_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDMalayalam.in@SD">
-    <display-name>DD Malayalam (504p)</display-name>
+    <display-name>DD Malayalam (576p)</display-name>
     <icon src="https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png" />
   </channel>
   <channel id="DDManipur.in@SD">
-    <display-name>DD Manipur (504p)</display-name>
+    <display-name>DD Manipur (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_IMPHAL/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDMeghalaya.in@SD">
@@ -10717,11 +10733,11 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SHILLONG/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDMizoram.in@SD">
-    <display-name>DD Mizoram (504p)</display-name>
+    <display-name>DD Mizoram (576p)</display-name>
     <icon src="https://i.imgur.com/I5zT1DG.png" />
   </channel>
   <channel id="DDNagaland.in@SD">
-    <display-name>DD Nagaland (504p)</display-name>
+    <display-name>DD Nagaland (576p)</display-name>
     <icon src="https://i.imgur.com/HUL4aF6.png" />
   </channel>
   <channel id="DDNational.in@SD">
@@ -10745,7 +10761,7 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDPunjabi.in@SD">
-    <display-name>DD Punjabi (504p)</display-name>
+    <display-name>DD Punjabi (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="DDRajasthan.in@SD">
@@ -10753,7 +10769,7 @@
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_RAJASTHAN/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDSahyadri.in@SD">
-    <display-name>DD Sahyadri (504p)</display-name>
+    <display-name>DD Sahyadri (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAHYADRI/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDSaptagiri.in@SD">
@@ -10768,12 +10784,16 @@
     <display-name>DD Sports HD (1080p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" />
   </channel>
+  <channel id="DDTamil.in@SD">
+    <display-name>DD Tamil (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" />
+  </channel>
   <channel id="DDTamil.in@HD">
     <display-name>DD Tamil HD (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDTripura.in@SD">
-    <display-name>DD Tripura (504p)</display-name>
+    <display-name>DD Tripura (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TRIPURA/images/LOGO_HD/image.png" />
   </channel>
   <channel id="DDUrdu.in@SD">
@@ -11048,6 +11068,10 @@
     <display-name>Detvora+ (1080p)</display-name>
     <icon src="https://interra-cdn-europe1.b-cdn.net/logo-detvora.png" />
   </channel>
+  <channel id="DGRadio.au@HD">
+    <display-name>DG:Radio (1080p)</display-name>
+    <icon src="https://cdn.dg.church/media/objects/tile-dgradio.jpg" />
+  </channel>
   <channel id="DGTV.au@HD">
     <display-name>DG:TV (1080p)</display-name>
     <icon src="https://dg.church/tile-dgtv.jpg" />
@@ -11163,10 +11187,6 @@
   <channel id="Digi24.ro@SD">
     <display-name>Digi 24 (720p)</display-name>
     <icon src="https://i.imgur.com/qmRnD0M.png" />
-  </channel>
-  <channel id="DigiSport2.ro@HD">
-    <display-name>Digi Sport 2 HD (1080i)</display-name>
-    <icon src="https://i.imgur.com/KWDUi3v.png" />
   </channel>
   <channel id="Digital15.do@SD">
     <display-name>Digital 15 (1080p)</display-name>
@@ -11490,11 +11510,11 @@
   </channel>
   <channel id="DivyaDarshanTV.np@SD">
     <display-name>Divya Darshan TV (720p)</display-name>
-    <icon src="https://i.imgur.com/EwDQ12F.png" />
+    <icon src="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" />
   </channel>
   <channel id="DivyaDarshanTV.np@HD">
     <display-name>Divya Darshan TV HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/EwDQ12F.png" />
+    <icon src="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" />
   </channel>
   <channel id="DivyavaniTV.in@SD">
     <display-name>Divyavani TV (576p)</display-name>
@@ -13085,12 +13105,8 @@
     <icon src="https://i.imgur.com/bsAbcmC.png" />
   </channel>
   <channel id="ESTV.hu@SD">
-    <display-name>ESTV (Hungary) (420p)</display-name>
+    <display-name>ESTV (420p)</display-name>
     <icon src="https://i.imgur.com/OCZ8CfK.png" />
-  </channel>
-  <channel id="ESTV.us@SD">
-    <display-name>ESTV (United States) (720p)</display-name>
-    <icon src="https://i.imgur.com/qHNV0f5.png" />
   </channel>
   <channel id="ETNow.in@SD">
     <display-name>ET Now (720p) [Geo-blocked]</display-name>
@@ -13155,10 +13171,6 @@
   <channel id="ETVAndhraPradesh.in@SD">
     <display-name>ETV Andhra Pradesh (1080p)</display-name>
     <icon src="https://i.imgur.com/pFNCRnf.png" />
-  </channel>
-  <channel id="ETVBalBharat.in@SD">
-    <display-name>ETV Bal Bharat (576p)</display-name>
-    <icon src="https://i.imgur.com/zsTxPV9.png" />
   </channel>
   <channel id="ETVBeats.in@HD">
     <display-name>ETV Beats (1080p)</display-name>
@@ -13736,8 +13748,12 @@
     <display-name>FashionBox</display-name>
     <icon src="https://i.imgur.com/Taqj4yi.png" />
   </channel>
+  <channel id="FashionTV.in@SD">
+    <display-name>FashionTV (India) (576p)</display-name>
+    <icon src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png" />
+  </channel>
   <channel id="FashionTV.ru@SD">
-    <display-name>FashionTV (1080p)</display-name>
+    <display-name>FashionTV (Russia) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" />
   </channel>
   <channel id="FashionTVEurope.fr@SD">
@@ -13978,10 +13994,6 @@
   </channel>
   <channel id="FilmNow.ro@SD">
     <display-name>Film Now</display-name>
-    <icon src="https://i.imgur.com/sSoRvGz.png" />
-  </channel>
-  <channel id="FilmNow.ro@HD">
-    <display-name>Film Now HD (1080i)</display-name>
     <icon src="https://i.imgur.com/sSoRvGz.png" />
   </channel>
   <channel id="FilmPlus.cz@SD">
@@ -15768,6 +15780,10 @@
     <display-name>Gujarat First (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" />
   </channel>
+  <channel id="GulistanNews.in@SD">
+    <display-name>Gulistan News (576p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540" />
+  </channel>
   <channel id="Gulli.fr@SD">
     <display-name>Gulli</display-name>
     <icon src="https://i.imgur.com/kqYssbW.png" />
@@ -16029,16 +16045,24 @@
     <icon src="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" />
   </channel>
   <channel id="HBO2.cz@SD">
-    <display-name>HBO 2</display-name>
+    <display-name>HBO 2 (Czech Republic)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" />
+  </channel>
+  <channel id="HBO2.pl@SD">
+    <display-name>HBO 2 (Poland) (1080p)</display-name>
+    <icon src="https://i.imgur.com/2e3muOJ.png" />
   </channel>
   <channel id="HBO2LatinAmerica.us@HD">
     <display-name>HBO 2 Latin America HD (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" />
   </channel>
   <channel id="HBO3.cz@SD">
-    <display-name>HBO 3</display-name>
+    <display-name>HBO 3 (Czech Republic)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" />
+  </channel>
+  <channel id="HBO3.pl@SD">
+    <display-name>HBO 3 (Poland) (1080p)</display-name>
+    <icon src="https://i.imgur.com/3QIHh2V.png" />
   </channel>
   <channel id="HBO.cz@SD">
     <display-name>HBO (Czech Republic)</display-name>
@@ -16081,7 +16105,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" />
   </channel>
   <channel id="HBOPlusLatinAmerica.us@SD">
-    <display-name>HBO+ Latin America (720p) [Geo-blocked]</display-name>
+    <display-name>HBO+ Latin America (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" />
   </channel>
   <channel id="HBTV.us@SD">
@@ -16868,6 +16892,10 @@
     <display-name>HTV4 (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/HTV4_logo.webp/960px-HTV4_logo.webp.png" />
   </channel>
+  <channel id="HTV5.vn@HD">
+    <display-name>HTV5 (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png" />
+  </channel>
   <channel id="HTV7.vn@SD">
     <display-name>HTV7 (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" />
@@ -16898,7 +16926,7 @@
   </channel>
   <channel id="HTVCMovies.vn@SD">
     <display-name>HTVC Movies (720p)</display-name>
-    <icon src="" />
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" />
   </channel>
   <channel id="HTVCWomen.vn@SD">
     <display-name>HTVC Women (720p)</display-name>
@@ -16983,6 +17011,10 @@
   <channel id="HuzurTV.ru@SD">
     <display-name>Huzur TV (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/Abg1fct.png" />
+  </channel>
+  <channel id="HyaTV.eg@SD">
+    <display-name>Hya TV (1080p)</display-name>
+    <icon src="https://i.imgur.com/XjBIi0e.png" />
   </channel>
   <channel id="HyderTV.ca@SD">
     <display-name>Hyder TV (720p)</display-name>
@@ -17440,9 +17472,29 @@
     <display-name>India News (576p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143190_ld_h15_aa.png?lock=720x540" />
   </channel>
+  <channel id="IndiaNewsGujarati.in@SD">
+    <display-name>India News Gujarati (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png" />
+  </channel>
+  <channel id="IndiaNewsHaryana.in@SD">
+    <display-name>India News Haryana (576p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s143192_ld_h15_aa.png?lock=720x540" />
+  </channel>
+  <channel id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD">
+    <display-name>India News Madhya Pradesh/Chhattisgarh (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" />
+  </channel>
   <channel id="IndiaNewsPunjabHimachal.in@SD">
     <display-name>India News Punjab/Himachal (576p)</display-name>
     <icon src="https://i.imgur.com/Mu1MPvt.png" />
+  </channel>
+  <channel id="IndiaNewsRajasthan.in@SD">
+    <display-name>India News Rajasthan (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" />
+  </channel>
+  <channel id="IndiaNewsUttarPradesh.in@SD">
+    <display-name>India News Uttar Pradesh (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png" />
   </channel>
   <channel id="IndiaTalkies.in@SD">
     <display-name>India Talkies (360p)</display-name>
@@ -17525,7 +17577,7 @@
     <icon src="https://i.imgur.com/Fw2Hkk4.png" />
   </channel>
   <channel id="INH24x7.in@SD">
-    <display-name>INH 24x7 (396p)</display-name>
+    <display-name>INH 24x7 (576p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" />
   </channel>
   <channel id="InkMaster.us@SD">
@@ -18805,7 +18857,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" />
   </channel>
   <channel id="KapitalTV.ro@SD">
-    <display-name>Kapital TV (1080p)</display-name>
+    <display-name>Kapital TV (576i)</display-name>
     <icon src="https://i.imgur.com/Q1PYwkZ.png" />
   </channel>
   <channel id="KapitanFantastika.ru@SD">
@@ -19835,6 +19887,10 @@
   <channel id="LaTR3Marsala.it@SD">
     <display-name>La TR3 Marsala (720p)</display-name>
     <icon src="https://i.imgur.com/R4sqZQu.png" />
+  </channel>
+  <channel id="LaUne.be@SD">
+    <display-name>La Une (1080p)</display-name>
+    <icon src="https://i.imgur.com/jMwZp7z.png" />
   </channel>
   <channel id="LaUrbanTV.es@SD">
     <display-name>La Urban TV (1080p) [Not 24/7]</display-name>
@@ -20997,7 +21053,7 @@
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" />
   </channel>
   <channel id="MahaPunjabi.in@SD">
-    <display-name>Maha Punjabi</display-name>
+    <display-name>Maha Punjabi (576p)</display-name>
     <icon src="https://i.imgur.com/AWUcSb8.png" />
   </channel>
   <channel id="MahaaBhakti.in@SD">
@@ -21023,6 +21079,10 @@
   <channel id="Mahalla.uz@SD">
     <display-name>Mahalla (576p)</display-name>
     <icon src="https://i.imgur.com/GtABiJI.png" />
+  </channel>
+  <channel id="MahdawiounTV.iq@HD">
+    <display-name>MahdawiounTV (1080p) [Geo-blocked]</display-name>
+    <icon src="https://mahdawioun.tv/wp-content/uploads/2024/03/New-Logo-Color.png" />
   </channel>
   <channel id="MahimaiTV.in@SD">
     <display-name>Mahimai TV (576p)</display-name>
@@ -21880,6 +21940,10 @@
     <display-name>Megogo Music</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png" />
   </channel>
+  <channel id="MEGOGOSport.ua@SD">
+    <display-name>MEGOGO Sport (1080p)</display-name>
+    <icon src="https://i.imgur.com/5JmT4mW.png" />
+  </channel>
   <channel id="MehranTV.pk@SD">
     <display-name>Mehran TV (576p)</display-name>
     <icon src="https://i.imgur.com/ma2bFXk.png" />
@@ -22061,7 +22125,7 @@
     <icon src="" />
   </channel>
   <channel id="MHOne.in@SD">
-    <display-name>MH One (360p)</display-name>
+    <display-name>MH One (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" />
   </channel>
   <channel id="MHOneDilSe.in@SD">
@@ -23670,7 +23734,7 @@
   </channel>
   <channel id="Nanduti.py@SD">
     <display-name>Nanduti (1080p)</display-name>
-    <icon src="https://i.imgur.com/vnIkhRO.png" />
+    <icon src="https://i.imgur.com/AsuVsLa.png" />
   </channel>
   <channel id="Nano.ru@SD">
     <display-name>Nano (576p)</display-name>
@@ -23976,6 +24040,10 @@
     <display-name>Navoiy MTRK (576i)</display-name>
     <icon src="https://i.imgur.com/qa4VlYh.png" />
   </channel>
+  <channel id="NaxatraNews.in@SD">
+    <display-name>Naxatra News (576p)</display-name>
+    <icon src="https://i.imgur.com/IGduUk4.png" />
+  </channel>
   <channel id="NaxatraNewsHindi.in@SD">
     <display-name>Naxatra News Hindi (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png" />
@@ -24058,6 +24126,10 @@
   </channel>
   <channel id="NBC.us@WJAR">
     <display-name>NBC WJAR (1080p)</display-name>
+    <icon src="https://i.imgur.com/nxY84W5.png" />
+  </channel>
+  <channel id="NBC.us@WKYC">
+    <display-name>NBC WKYC (1080p)</display-name>
     <icon src="https://i.imgur.com/nxY84W5.png" />
   </channel>
   <channel id="NBC.us@WLIO">
@@ -24196,6 +24268,10 @@
     <display-name>NCM Main Channel</display-name>
     <icon src="https://i.imgur.com/3YPvfPn.png" />
   </channel>
+  <channel id="NCN.ro@SD">
+    <display-name>NCN (576p)</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/c/c3/NCN.svg/revision/latest/scale-to-width-down/1000?cb=20191223182658" />
+  </channel>
   <channel id="NCTV79.us@SD">
     <display-name>NCTV79 (1080p)</display-name>
     <icon src="https://i.imgur.com/64sZVF9.jpg" />
@@ -24306,7 +24382,7 @@
   </channel>
   <channel id="Nepal1.in@SD">
     <display-name>Nepal 1 (576p)</display-name>
-    <icon src="https://i.imgur.com/Xr4FjC8.png" />
+    <icon src="https://i.ibb.co/bMZpdbYJ/Nepal-1.png" />
   </channel>
   <channel id="NesihaTV.et@SD">
     <display-name>Nesiha TV (720p)</display-name>
@@ -26132,6 +26208,10 @@
     <display-name>ON Cine</display-name>
     <icon src="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" />
   </channel>
+  <channel id="ONEChannel.vn@HD">
+    <display-name>ON E Channel (1080p)</display-name>
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab5%20-%20ON%20E%20Channel.png" />
+  </channel>
   <channel id="ONFM.pt@SD">
     <display-name>ON FM (720p)</display-name>
     <icon src="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" />
@@ -26963,6 +27043,10 @@
   <channel id="PBS.us@WNJT">
     <display-name>PBS WNJT (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/8c8isLj.png" />
+  </channel>
+  <channel id="PBSAmerica.uk@SD">
+    <display-name>PBS America (576p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/PBS_America_2022.svg/960px-PBS_America_2022.svg.png" />
   </channel>
   <channel id="PBSAntiquesRoadshow.us@SD">
     <display-name>PBS Antiques Roadshow (1080p)</display-name>
@@ -29498,7 +29582,7 @@
   </channel>
   <channel id="PROFI24TV.ro@SD">
     <display-name>PROFI 24 TV</display-name>
-    <icon src="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" />
+    <icon src="" />
   </channel>
   <channel id="Prokino.ua@SD">
     <display-name>Prokino (360p)</display-name>
@@ -31082,11 +31166,11 @@
   </channel>
   <channel id="RayTVHD.np@HD">
     <display-name>Ray TV HD</display-name>
-    <icon src="https://i.imgur.com/QIkgiEn.png" />
+    <icon src="https://i.ibb.co/HpXHd5bQ/Ray-TV-HD.png" />
   </channel>
   <channel id="RayTVHD.np@SD">
     <display-name>Ray TV HD SD (576p)</display-name>
-    <icon src="https://i.imgur.com/QIkgiEn.png" />
+    <icon src="https://i.ibb.co/HpXHd5bQ/Ray-TV-HD.png" />
   </channel>
   <channel id="RAZ1.ua@SD">
     <display-name>RAZ 1 (1080p)</display-name>
@@ -31142,7 +31226,7 @@
   </channel>
   <channel id="RCCTV.py@SD">
     <display-name>RCC TV (1080p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/qdjBnRl.png" />
+    <icon src="https://i.imgur.com/sd9iOIh.png" />
   </channel>
   <channel id="RCGTV2.mx@SD">
     <display-name>RCG TV 2 (360p) [Not 24/7]</display-name>
@@ -32148,6 +32232,10 @@
     <display-name>RTA (1080p)</display-name>
     <icon src="https://i.imgur.com/pJU2KPh.png" />
   </channel>
+  <channel id="RTAEducation.af@SD">
+    <display-name>RTA Education (1080p)</display-name>
+    <icon src="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png" />
+  </channel>
   <channel id="RTB3.bf@SD">
     <display-name>RTB 3</display-name>
     <icon src="https://i.imgur.com/OFZm8ic.png" />
@@ -32932,17 +33020,9 @@
     <display-name>S4C (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/vrcbnBv.png" />
   </channel>
-  <channel id="SCorbyTV.us@HD">
-    <display-name>S Corby TV (480p)</display-name>
-    <icon src="https://i.postimg.cc/432q9g12/In-Shot-20260908-063951605.png" />
-  </channel>
   <channel id="SMetroTV.us@HD">
     <display-name>S Metro TV (360p)</display-name>
     <icon src="https://i.postimg.cc/1z72qQKC/In-Shot-20260908-064106298.png" />
-  </channel>
-  <channel id="SPlayEvent.us@HD">
-    <display-name>S Play Event (1080p)</display-name>
-    <icon src="https://i.postimg.cc/5y6t70Mz/In-Shot-20260908-113231556.png" />
   </channel>
   <channel id="SSport2.tr@SD">
     <display-name>S Sport 2</display-name>
@@ -32983,6 +33063,10 @@
   <channel id="SABC2.za@SD">
     <display-name>SABC 2 [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/rj6i9sn.png" />
+  </channel>
+  <channel id="SABC3.za@SD">
+    <display-name>SABC 3 (576i) [Geo-blocked]</display-name>
+    <icon src="https://i.imgur.com/eEhLk1D.png" />
   </channel>
   <channel id="SABCLehae.za@SD">
     <display-name>SABC Lehae [Geo-blocked]</display-name>
@@ -35968,6 +36052,10 @@
     <display-name>STV (Indonesia) (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/EIrXgT8.png" />
   </channel>
+  <channel id="STVHaryanaNews.in@SD">
+    <display-name>STV Haryana News (576p)</display-name>
+    <icon src="https://i.imgur.com/TJRZo9e.png" />
+  </channel>
   <channel id="STVETelebasica.hn@SD">
     <display-name>STVE Telebasica (1080p)</display-name>
     <icon src="https://i.imgur.com/nUsq67m.png" />
@@ -37824,6 +37912,10 @@
     <display-name>Television Caribbean (1080p)</display-name>
     <icon src="https://i.imgur.com/Ogw0COv.png" />
   </channel>
+  <channel id="TelevisionCaribe.us@HD">
+    <display-name>Television Caribe (1080p)</display-name>
+    <icon src="https://televisioncaribe.com/logo.png" />
+  </channel>
   <channel id="TelevisionComayaguaCanal40.hn@SD">
     <display-name>Television Comayagua Canal 40 (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/uDLhsDM.png" />
@@ -39060,6 +39152,10 @@
     <display-name>Top Gear (720p)</display-name>
     <icon src="https://i.imgur.com/S6Su6QH.png" />
   </channel>
+  <channel id="TopLatinoTV.pe@SD">
+    <display-name>Top Latino TV</display-name>
+    <icon src="https://i.imgur.com/VRl8nPZ.png" />
+  </channel>
   <channel id="TopMoviesPolska.pl@SD">
     <display-name>Top Movies Polska (1080p)</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" />
@@ -40145,8 +40241,12 @@
     <icon src="https://i.imgur.com/stzE1Ij.png" />
   </channel>
   <channel id="TV100.gr@SD">
-    <display-name>TV 100 (720p)</display-name>
+    <display-name>TV 100 (Greece) (720p)</display-name>
     <icon src="https://i.imgur.com/OBH2DfE.png" />
+  </channel>
+  <channel id="TV100.in@SD">
+    <display-name>TV 100 (India) (576p)</display-name>
+    <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/TV_100.png" />
   </channel>
   <channel id="TV264.tr@SD">
     <display-name>TV 264 (1080p)</display-name>
@@ -44060,10 +44160,6 @@
     <display-name>Wap TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/Djng8pI.png" />
   </channel>
-  <channel id="WAPATV41.pr@HD">
-    <display-name>WAPA-TV 4.1 (1080p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/kqq7tD9.png" />
-  </channel>
   <channel id="Wapp.cl@SD">
     <display-name>Wapp (720p)</display-name>
     <icon src="https://i.imgur.com/Bv1yJ1d.png" />
@@ -44852,14 +44948,6 @@
     <display-name>Yes Network (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" />
   </channel>
-  <channel id="YETMax.in@HD">
-    <display-name>YET Max (720p)</display-name>
-    <icon src="https://yettelevision.com/assets/images/logo/channel_11847.png" />
-  </channel>
-  <channel id="YETTV.in@HD">
-    <display-name>YET TV (720p)</display-name>
-    <icon src="https://yettelevision.com/assets/images/logo/channel_1.png" />
-  </channel>
   <channel id="YleTeemaFem.fi@SD">
     <display-name>Yle Teema & Fem (1080p) [Not 24/7]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" />
@@ -45083,6 +45171,10 @@
   <channel id="Zee24Taas.in@SD">
     <display-name>Zee 24 Taas (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG00230LKE.png?lock=720x540" />
+  </channel>
+  <channel id="ZeeAction.in@SD">
+    <display-name>Zee Action (576p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" />
   </channel>
   <channel id="ZeeBangla.in@SD">
     <display-name>Zee Bangla (576p)</display-name>
