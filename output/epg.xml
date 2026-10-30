@@ -729,7 +729,7 @@
     <icon src="https://i.imgur.com/JQZkxeA.png" />
   </channel>
   <channel id="1001Noites.br@SD">
-    <display-name>1001 Noites (720p) [Not 24/7]</display-name>
+    <display-name>1001 Noites (480p)</display-name>
     <icon src="https://i.imgur.com/dWA9y2J.png" />
   </channel>
   <channel id="2900Happiness.se@DK">
@@ -739,26 +739,6 @@
   <channel id="90210.de@DACH">
     <display-name>90210</display-name>
     <icon src="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" />
-  </channel>
-  <channel id="black.ru@SD">
-    <display-name>.black (576p)</display-name>
-    <icon src="https://i.imgur.com/Q4A6ci4.png" />
-  </channel>
-  <channel id="red.ru@SD">
-    <display-name>.red (576p)</display-name>
-    <icon src="https://i.imgur.com/GET9Qut.png" />
-  </channel>
-  <channel id="red.ru@HD">
-    <display-name>.red HD (1080p)</display-name>
-    <icon src="https://i.imgur.com/GET9Qut.png" />
-  </channel>
-  <channel id="scifi.ru@SD">
-    <display-name>.sci-fi (576p)</display-name>
-    <icon src="https://i.imgur.com/nSSUHcg.png" />
-  </channel>
-  <channel id="24.sk@SD">
-    <display-name>:24 (1080p)</display-name>
-    <icon src="https://i.imgur.com/tTCuczU.png" />
   </channel>
   <channel id="OPA.cr@SD">
     <display-name>¡OPA! (720p)</display-name>
@@ -783,6 +763,26 @@
   <channel id="PlusTV.by@SD">
     <display-name>+TV (576p) [Geo-blocked]</display-name>
     <icon src="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" />
+  </channel>
+  <channel id="black.ru@SD">
+    <display-name>.black (576p)</display-name>
+    <icon src="https://i.imgur.com/Q4A6ci4.png" />
+  </channel>
+  <channel id="red.ru@SD">
+    <display-name>.red (576p)</display-name>
+    <icon src="https://i.imgur.com/GET9Qut.png" />
+  </channel>
+  <channel id="red.ru@HD">
+    <display-name>.red HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/GET9Qut.png" />
+  </channel>
+  <channel id="scifi.ru@SD">
+    <display-name>.sci-fi (576p)</display-name>
+    <icon src="https://i.imgur.com/nSSUHcg.png" />
+  </channel>
+  <channel id="24.sk@SD">
+    <display-name>:24 (1080p)</display-name>
+    <icon src="https://i.imgur.com/tTCuczU.png" />
   </channel>
   <channel id="A1.ru@SD">
     <display-name>A1 (576p)</display-name>
@@ -2348,10 +2348,6 @@
     <display-name>Althania (1080p)</display-name>
     <icon src="https://www.althania.tv/themes/custom/althania/assets/images/stv-logo.svg" />
   </channel>
-  <channel id="Althingi.is@SD">
-    <display-name>Althingi (1080p) [Not 24/7]</display-name>
-    <icon src="https://i.imgur.com/tKNPdea.png" />
-  </channel>
   <channel id="AltoAdigeTV.it@SD">
     <display-name>AltoAdige TV (720p)</display-name>
     <icon src="https://i.imgur.com/yt7JJrn.png" />
@@ -2859,14 +2855,6 @@
   <channel id="AnjanTV.in@SD">
     <display-name>Anjan TV (720p)</display-name>
     <icon src="https://i.imgur.com/sh0yFSf.png" />
-  </channel>
-  <channel id="AnmolCinema2.in@SD">
-    <display-name>Anmol Cinema 2 (576p)</display-name>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" />
-  </channel>
-  <channel id="AnmolCinema.in@SD">
-    <display-name>Anmol Cinema (576p)</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" />
   </channel>
   <channel id="AnmolTV.in@SD">
     <display-name>Anmol TV (720p)</display-name>
@@ -5977,8 +5965,12 @@
     <icon src="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" />
   </channel>
   <channel id="BTLTV.ke@SD">
-    <display-name>BTL TV (720p) [Not 24/7]</display-name>
+    <display-name>BTL TV (Kenya) (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/4r09woD.jpg" />
+  </channel>
+  <channel id="BTLTV.nl@SD">
+    <display-name>BTL TV (Netherlands) (720p)</display-name>
+    <icon src="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" />
   </channel>
   <channel id="BTMTV.ug@SD">
     <display-name>BTM TV (480p) [Not 24/7]</display-name>
@@ -16044,6 +16036,10 @@
     <display-name>HauntTV CA (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" />
   </channel>
+  <channel id="HBCUGOSports.us@SD">
+    <display-name>HBCU-GO Sports (720p)</display-name>
+    <icon src="https://i.imgur.com/TY6sx5W.png" />
+  </channel>
   <channel id="HBO2.cz@SD">
     <display-name>HBO 2 (Czech Republic)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" />
@@ -16631,6 +16627,10 @@
   <channel id="HolyQuranRadioNablus.ps@SD">
     <display-name>Holy Quran Radio Nablus (720p)</display-name>
     <icon src="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" />
+  </channel>
+  <channel id="Home4K.ru@SD">
+    <display-name>Home 4K</display-name>
+    <icon src="https://i.imgur.com/3UXk7JR.png" />
   </channel>
   <channel id="HomeShopping.kr@SD">
     <display-name>Home & Shopping (720p)</display-name>
@@ -18347,6 +18347,10 @@
   <channel id="JinTV.nl@SD">
     <display-name>Jin TV</display-name>
     <icon src="https://i.imgur.com/37ajg2j.png" />
+  </channel>
+  <channel id="JingmenComprehensiveNewsChannel.cn@SD">
+    <display-name>Jingmen Comprehensive News Channel</display-name>
+    <icon src="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" />
   </channel>
   <channel id="JinvaniChannel.in@SD">
     <display-name>Jinvani Channel (720p)</display-name>
@@ -22075,10 +22079,6 @@
   <channel id="MetropolitanadelCuzco.pe@SD">
     <display-name>Metropolitana del Cuzco</display-name>
     <icon src="https://i.imgur.com/0B04qgM.png" />
-  </channel>
-  <channel id="MeTV.us@SD">
-    <display-name>MeTV (720p)</display-name>
-    <icon src="https://play-lh.googleusercontent.com/PO0C2_-FdOtMVn1rw_Q0_iystfcf6Ab8h1Q37P8fEgSLuAkQJBCI9kax_FIkUgXppgs4" />
   </channel>
   <channel id="meWATCHLIVE1.sg@SD">
     <display-name>meWATCH LIVE 1 (1080p)</display-name>
@@ -26108,10 +26108,6 @@
     <display-name>Oman TV Mubashir (1080p)</display-name>
     <icon src="https://i.imgur.com/UkQTR5b.png" />
   </channel>
-  <channel id="Omega.is@SD">
-    <display-name>Omega (720p)</display-name>
-    <icon src="https://i.imgur.com/doybFbZ.png" />
-  </channel>
   <channel id="OmegaChannel.cy@SD">
     <display-name>Omega Channel (576i)</display-name>
     <icon src="https://i.ibb.co/QrSzNn6/31087.png" />
@@ -29582,7 +29578,7 @@
   </channel>
   <channel id="PROFI24TV.ro@SD">
     <display-name>PROFI 24 TV</display-name>
-    <icon src="" />
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/0/0f/Profi_24_TV.png/revision/latest?cb=20251020190432" />
   </channel>
   <channel id="Prokino.ua@SD">
     <display-name>Prokino (360p)</display-name>
@@ -30548,6 +30544,10 @@
     <display-name>Radio Romania 3Net (480p)</display-name>
     <icon src="https://www.radio3net.ro/img/logos/logo_3.png" />
   </channel>
+  <channel id="RadioRomaniaAntenaSatelor.ro@720p">
+    <display-name>Radio Romania Antena Satelor (720p) [Not 24/7]</display-name>
+    <icon src="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" />
+  </channel>
   <channel id="RadioRomaniaIasi.ro@SD">
     <display-name>Radio Romania Iasi (576i) [Not 24/7]</display-name>
     <icon src="https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg" />
@@ -30691,6 +30691,10 @@
   <channel id="RadioTVNeuquen.ar@SD">
     <display-name>Radio TV Neuquen (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/HXBLozl.png" />
+  </channel>
+  <channel id="RadioTVSerieA.it@SD">
+    <display-name>Radio TV Serie A</display-name>
+    <icon src="https://www.legaseriea.it/assets/radiotv-logo.svg" />
   </channel>
   <channel id="RadioUC.cl@SD">
     <display-name>Radio UC (720p)</display-name>
@@ -33020,10 +33024,6 @@
     <display-name>S4C (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/vrcbnBv.png" />
   </channel>
-  <channel id="SMetroTV.us@HD">
-    <display-name>S Metro TV (360p)</display-name>
-    <icon src="https://i.postimg.cc/1z72qQKC/In-Shot-20260908-064106298.png" />
-  </channel>
   <channel id="SSport2.tr@SD">
     <display-name>S Sport 2</display-name>
     <icon src="https://i.imgur.com/2jIItAy.png" />
@@ -34833,7 +34833,11 @@
     <icon src="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" />
   </channel>
   <channel id="SonyMovies.br@SD">
-    <display-name>Sony Movies (720p)</display-name>
+    <display-name>Sony Movies (Brazil) (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" />
+  </channel>
+  <channel id="SonyMovies.us@SD">
+    <display-name>Sony Movies (United States) (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" />
   </channel>
   <channel id="SonyMoviesLatinAmerica.us@SD">
@@ -38764,6 +38768,10 @@
     <display-name>Tiny Pop +1 (576p)</display-name>
     <icon src="https://i.imgur.com/zCTf71x.png" />
   </channel>
+  <channel id="Tipik.be@SD">
+    <display-name>Tipik (1080p)</display-name>
+    <icon src="https://i.imgur.com/LKLjnrp.png" />
+  </channel>
   <channel id="TirolTV.at@SD">
     <display-name>Tirol TV (720p) [Not 24/7]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TIROL_TV_Logo_2019.png/960px-TIROL_TV_Logo_2019.png" />
@@ -39795,6 +39803,10 @@
   <channel id="TTV.tw@SD">
     <display-name>TTV (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/TTV_2nd_logo.svg/960px-TTV_2nd_logo.svg.png" />
+  </channel>
+  <channel id="TTVNews.tw@SD">
+    <display-name>TTV News</display-name>
+    <icon src="https://i.imgur.com/AfkK0gv.png" />
   </channel>
   <channel id="TuTV.ve@SD">
     <display-name>Tu TV (720p)</display-name>
