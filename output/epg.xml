@@ -2888,6 +2888,10 @@
     <display-name>Antena 1 (Romania)</display-name>
     <icon src="https://i.imgur.com/EPmwuuv.png" />
   </channel>
+  <channel id="Antena1.ro@HD">
+    <display-name>Antena 1 (Romania) HD (1440p)</display-name>
+    <icon src="https://i.imgur.com/EPmwuuv.png" />
+  </channel>
   <channel id="Antena3.es@National">
     <display-name>Antena 3</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" />
@@ -4855,6 +4859,10 @@
   <channel id="BeijingSatelliteTV.cn@HD">
     <display-name>Beijing Satellite TV HD (1080p)</display-name>
     <icon src="https://i.imgur.com/vsktAez.png" />
+  </channel>
+  <channel id="beINSportsUSA.us@SD">
+    <display-name>beIN Sports USA (576p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" />
   </channel>
   <channel id="beINSPORTSXTRA.us@SD">
     <display-name>beIN SPORTS XTRA (1080p)</display-name>
@@ -25112,6 +25120,10 @@
     <display-name>Ninja Kidz TV (720p)</display-name>
     <icon src="https://i.imgur.com/7EngqUi.png" />
   </channel>
+  <channel id="NipponTV.jp@JOAXDTV">
+    <display-name>Nippon TV</display-name>
+    <icon src="https://i.imgur.com/IxD8V5X.png" />
+  </channel>
   <channel id="NireekshanaTV.in@SD">
     <display-name>Nireekshana TV (576p)</display-name>
     <icon src="https://i.imgur.com/nGJv6QR.png" />
@@ -36846,7 +36858,7 @@
   </channel>
   <channel id="TayNinhTV.vn@SD">
     <display-name>Tay Ninh TV (720p)</display-name>
-    <icon src="https://tayninhtv.vn/static/images/logo.png" />
+    <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png" />
   </channel>
   <channel id="TayariWestTV.ug@SD">
     <display-name>Tayari West TV (1080p)</display-name>
@@ -41467,6 +41479,10 @@
   <channel id="TVTodayJanakpur.np@SD">
     <display-name>TV Today Janakpur</display-name>
     <icon src="https://i.imgur.com/5fZF69m.png" />
+  </channel>
+  <channel id="TVTokyo.jp@JOTXDTV">
+    <display-name>TV Tokyo</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png" />
   </channel>
   <channel id="TVTorun.pl@SD">
     <display-name>TV Torun (1080p) [Not 24/7]</display-name>
