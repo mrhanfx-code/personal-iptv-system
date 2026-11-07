@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T05:57:23.778392",
-  "total_entries": 11404,
+  "generated_at": "2026-11-07T05:28:49.972594",
+  "total_entries": 11439,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -2223,72 +2223,12 @@
       "geo_blocked": false
     },
     {
-      "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-      "title": "¡OPA! (720p)",
-      "duration": -1,
-      "tvg_id": "OPA.cr@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/300c1ZH.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://stream.mcquack.net/285/index.m3u8",
-      "title": "¡Viva Latino! (1080p)",
-      "duration": -1,
-      "tvg_id": "VivaLatino.ua@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/KRakHAq.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
-      "title": "&TV (720p)",
-      "duration": -1,
-      "tvg_id": "AndTV.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+      "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
       "title": "&TV International (1080p)",
       "duration": -1,
       "tvg_id": "AndTV.in@International",
       "tvg_name": null,
       "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
-      "title": "+MaisUm (720p)",
-      "duration": -1,
-      "tvg_id": "PlusMaisUm.br@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8",
-      "title": "+TV (576p) [Geo-blocked]",
-      "duration": -1,
-      "tvg_id": "PlusTV.by@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -2349,6 +2289,66 @@
       "tvg_id": "24.sk@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/tTCuczU.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+      "title": "¡OPA! (720p)",
+      "duration": -1,
+      "tvg_id": "OPA.cr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/300c1ZH.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://stream.mcquack.net/285/index.m3u8",
+      "title": "¡Viva Latino! (1080p)",
+      "duration": -1,
+      "tvg_id": "VivaLatino.ua@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/KRakHAq.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
+      "title": "&pictures HD (1080p)",
+      "duration": -1,
+      "tvg_id": "Andpictures.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+      "title": "+MaisUm (720p)",
+      "duration": -1,
+      "tvg_id": "PlusMaisUm.br@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8",
+      "title": "+TV (576p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "PlusTV.by@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -2763,6 +2763,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8",
+      "title": "Aastha UK (576p)",
+      "duration": -1,
+      "tvg_id": "Aastha.in@UK",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/IqgrV92.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://103.175.73.12:8080/live/339/master.m3u8",
       "title": "Aastha Bhajan (576p)",
       "duration": -1,
@@ -2781,6 +2793,18 @@
       "tvg_id": "AasthaGujarati.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8",
+      "title": "Aastha International (576p)",
+      "duration": -1,
+      "tvg_id": "AasthaInternational.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -7971,8 +7995,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "title": "ANB News (720p)",
+      "url": "https://stream.ottlive.co.in/anb/index.m3u8",
+      "title": "ANB News (1080p)",
       "duration": -1,
       "tvg_id": "ANBNews.in@SD",
       "tvg_name": null,
@@ -8655,18 +8679,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
-      "title": "Antena 1 (Romania)",
-      "duration": -1,
-      "tvg_id": "Antena1.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/EPmwuuv.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
       "title": "Antena 1 (Romania) HD (1440p)",
       "duration": -1,
@@ -8695,6 +8707,18 @@
       "title": "Antena 3 CNN (1080p)",
       "duration": -1,
       "tvg_id": "Antena3CNN.ro@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8",
+      "title": "Antena 3 CNN HD (1080i)",
+      "duration": -1,
+      "tvg_id": "Antena3CNN.ro@HD",
       "tvg_name": null,
       "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512",
       "group_title": "Live TV",
@@ -8799,8 +8823,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
-      "title": "Antena International",
+      "url": "https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8",
+      "title": "Antena International (576p)",
       "duration": -1,
       "tvg_id": "AntenaInternational.ro@SD",
       "tvg_name": null,
@@ -8829,6 +8853,18 @@
       "tvg_id": "AntenaSeisTV.cr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/9Nh2mo9.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8",
+      "title": "Antena Stars HD (1080i)",
+      "duration": -1,
+      "tvg_id": "AntenaStars.ro@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -8865,6 +8901,18 @@
       "tvg_id": "AntenaUnoRadiovideo.ec@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/PCN6iZJ.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
+      "title": "AntenaPlay Events (576i) [Not 24/7]",
+      "duration": -1,
+      "tvg_id": "AntenaPlayEvents.ro@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -10233,6 +10281,18 @@
       "tvg_id": "AsiSucedeGuanajuato.mx@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/6W7HUtG.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8",
+      "title": "Asia Express NonStop (576p)",
+      "duration": -1,
+      "tvg_id": "AsiaExpressNonStop.ro@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -12339,8 +12399,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/227/master.m3u8",
-      "title": "B4U Kadak (576p)",
+      "url": "https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8",
+      "title": "B4U Kadak (1080p)",
       "duration": -1,
       "tvg_id": "B4UKadak.in@SD",
       "tvg_name": null,
@@ -12351,8 +12411,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
-      "title": "B4U Movies (576p)",
+      "url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8",
+      "title": "B4U Movies (1080p)",
       "duration": -1,
       "tvg_id": "B4UMovies.in@India",
       "tvg_name": null,
@@ -13599,8 +13659,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd",
-      "title": "BBC One",
+      "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd",
+      "title": "BBC One (720p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "BBCOne.uk@London",
       "tvg_name": null,
@@ -13659,7 +13719,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://193.46.58.239:8080/BBCOneHD/index.m3u8",
+      "url": "http://193.239.186.231/BBC1/index.m3u8",
       "title": "BBC One London HD (720p)",
       "duration": -1,
       "tvg_id": "BBCOne.uk@LondonHD",
@@ -13863,8 +13923,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.stmify.com/bbc/stream/BBC_PARLIAMENT/hevc_iptv_mse_v0.mpd",
-      "title": "BBC Parliament",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd",
+      "title": "BBC Parliament (720p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "BBCParliament.uk@SD",
       "tvg_name": null,
@@ -14175,8 +14235,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd",
-      "title": "BBC Scotland",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/iptv_hd_abr_v1.mpd",
+      "title": "BBC Scotland (720p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "BBCScotland.uk@SD",
       "tvg_name": null,
@@ -14199,30 +14259,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd",
-      "title": "BBC Three HD",
-      "duration": -1,
-      "tvg_id": "BBCThree.uk@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://193.46.58.239:8080/CBBCHD/index.m3u8",
-      "title": "BBC Three/CBBC (720p)",
-      "duration": -1,
-      "tvg_id": "BBCThreeCBBC.uk@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/CGXC5fp.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
       "title": "BBC Travel",
       "duration": -1,
@@ -14235,8 +14271,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://193.46.58.239:8080/BBCTwoHD/index.m3u8",
-      "title": "BBC Two HD (720p)",
+      "url": "https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd",
+      "title": "BBC Two HD (720p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "BBCTwo.uk@HD",
       "tvg_name": null,
@@ -14247,8 +14283,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd",
-      "title": "BBC Two Northern Ireland",
+      "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8",
+      "title": "BBC Two Northern Ireland (540p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "BBCTwo.uk@NorthernIreland",
       "tvg_name": null,
@@ -14271,8 +14307,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd",
-      "title": "BBC Two Wales",
+      "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd",
+      "title": "BBC Two Wales (720p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "BBCTwo.uk@Wales",
       "tvg_name": null,
@@ -14937,6 +14973,18 @@
       "tvg_id": "BenieTV.ci@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/7FXi05e.jpeg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8",
+      "title": "Benin TV Junior (720p)",
+      "duration": -1,
+      "tvg_id": "BeninTVJunior.bj@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/bWxjtuJ.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -15675,8 +15723,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.ottlive.co.in/bharat24/index.m3u8",
-      "title": "Bharat24 (720p)",
+      "url": "https://vglivessai.akamaized.net/ptnr-lg/title-Bharat24News_LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ebcf5152-686a-43ae-ad13-15bc198112b7/index.m3u8",
+      "title": "Bharat24 (1080p)",
       "duration": -1,
       "tvg_id": "Bharat24.in@SD",
       "tvg_name": null,
@@ -15849,6 +15897,18 @@
       "tvg_id": "BibelTVMusik.de@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/yIqOcP5.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8",
+      "title": "Bicolor+ Premium [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "BicolorPlusPremium.pe@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -17895,7 +17955,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8",
+      "url": "https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8",
       "title": "BTB 3 (1080p)",
       "duration": -1,
       "tvg_id": "BTB3.pl@HD",
@@ -17955,8 +18015,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://livecdn.live247stream.com/btl/tv/playlist.m3u8",
-      "title": "BTL TV (Netherlands) (720p)",
+      "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
+      "title": "BTL TV (Netherlands) (1080p)",
       "duration": -1,
       "tvg_id": "BTLTV.nl@SD",
       "tvg_name": null,
@@ -22839,6 +22899,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://185.227.34.104/stream/122/index.m3u8",
+      "title": "Cartoon Network (Italy)",
+      "duration": -1,
+      "tvg_id": "CartoonNetwork.it@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8",
       "title": "Cartoon Network (Pakistan)",
       "duration": -1,
@@ -22911,6 +22983,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://213.91.179.28:8000/play/a08g",
+      "title": "Cartoon Network CEE Bulgary",
+      "duration": -1,
+      "tvg_id": "CartoonNetworkCEE.uk@Bulgary",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8",
       "title": "Cartoon Network CEE Czech Republic",
       "duration": -1,
@@ -22941,6 +23025,18 @@
       "tvg_id": "CartoonNetworkCEE.uk@Ukraine",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
+      "title": "Cartoon Network HD+ (1080p)",
+      "duration": -1,
+      "tvg_id": "CartoonNetworkHDPlus.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -23035,6 +23131,18 @@
       "title": "Cartoonito CEE",
       "duration": -1,
       "tvg_id": "CartoonitoCEE.uk@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/9MrzLb1.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://213.91.179.28:8000/play/a0c7",
+      "title": "Cartoonito CEE Bulgary",
+      "duration": -1,
+      "tvg_id": "CartoonitoCEE.uk@Bulgary",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/9MrzLb1.png",
       "group_title": "Live TV",
@@ -25575,7 +25683,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/229/master.m3u8",
+      "url": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8",
       "title": "Channel WIN (720p)",
       "duration": -1,
       "tvg_id": "ChannelWIN.in@SD",
@@ -25927,6 +26035,18 @@
       "title": "Chefi.ro (1080p)",
       "duration": -1,
       "tvg_id": "Chefiro.ro@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8",
+      "title": "Chefi.ro HD (1080i)",
+      "duration": -1,
+      "tvg_id": "Chefiro.ro@HD",
       "tvg_name": null,
       "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png",
       "group_title": "Live TV",
@@ -28947,6 +29067,30 @@
       "geo_blocked": false
     },
     {
+      "url": "http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass",
+      "title": "Colors Cineplex Bollywood (576p)",
+      "duration": -1,
+      "tvg_id": "ColorsCineplexBollywood.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass",
+      "title": "Colors Cineplex Superhits (576p)",
+      "duration": -1,
+      "tvg_id": "ColorsCineplexSuperhits.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8",
       "title": "Colors Gujarati (396p)",
       "duration": -1,
@@ -29001,6 +29145,18 @@
       "tvg_id": "ColorsMENA.in@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/LjNFTdC.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://163.61.226.31:9981/stream/channelid/297962113?profile=pass",
+      "title": "Colors Rishtey (576p)",
+      "duration": -1,
+      "tvg_id": "ColorsRishtey.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_RISHTEY/images/LOGO_HD/LOGO_HD_image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -29119,18 +29275,6 @@
       "title": "Comedy Central (Italy) (720p)",
       "duration": -1,
       "tvg_id": "ComedyCentral.it@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8",
-      "title": "Comedy Central (Romania)",
-      "duration": -1,
-      "tvg_id": "ComedyCentral.ro@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
       "group_title": "Live TV",
@@ -32259,7 +32403,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/11/master.m3u8",
+      "url": "http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass",
       "title": "DD National (576p)",
       "duration": -1,
       "tvg_id": "DDNational.in@SD",
@@ -32529,6 +32673,18 @@
       "tvg_id": "Deungemodre.se@DK",
       "tvg_name": null,
       "tvg_logo": "https://images.pluto.tv/channels/69172a4fcf4a1101befdd894/colorLogoPNG_1770030924752.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://185.227.34.104/stream/113/index.m3u8",
+      "title": "DeA Kids",
+      "duration": -1,
+      "tvg_id": "DeAKids.it@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/ixnJAuq.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -33591,6 +33747,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8",
+      "title": "Digi 4K (2160p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "Digi4K.ro@UHD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8",
       "title": "Digi 24 (720p)",
       "duration": -1,
@@ -33609,6 +33777,18 @@
       "tvg_id": "Digital15.do@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/v3mkmZa.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8",
+      "title": "Digital Channel (480p)",
+      "duration": -1,
+      "tvg_id": "DigitalChannel.bj@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://digitalchannel.bj/wp-content/uploads/2025/03/cropped-logo-192x192.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -33819,6 +33999,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://213.91.179.28:8000/play/a044",
+      "title": "Discovery Channel (Bulgaria)",
+      "duration": -1,
+      "tvg_id": "DiscoveryChannel.bg@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8",
       "title": "Discovery Channel (Czech Republic)",
       "duration": -1,
@@ -33855,8 +34047,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
-      "title": "Discovery Channel (India) HD (720p)",
+      "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
+      "title": "Discovery Channel (India) HD (1080p)",
       "duration": -1,
       "tvg_id": "DiscoveryChannel.in@HD",
       "tvg_name": null,
@@ -35451,6 +35643,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+      "title": "Doraemon (720p)",
+      "duration": -1,
+      "tvg_id": "Doraemon.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://fs.uplink.kz/dorama/mono.m3u8?token=onlinetv",
       "title": "Dorama (576p)",
       "duration": -1,
@@ -35719,6 +35923,18 @@
       "title": "DreamWorks Channel Asia (1080p)",
       "duration": -1,
       "tvg_id": "DreamWorksChannelAsia.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8",
+      "title": "DreamWorks Channel Latin America (1080p)",
+      "duration": -1,
+      "tvg_id": "DreamWorksChannelLatinAmerica.us@Panregional",
       "tvg_name": null,
       "tvg_logo": "",
       "group_title": "Live TV",
@@ -36219,8 +36435,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://box.bbaria.net/DurontoTV/index.m3u8",
-      "title": "Duronto TV (720p)",
+      "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8",
+      "title": "Duronto TV (1080p)",
       "duration": -1,
       "tvg_id": "DurontoTV.bd@SD",
       "tvg_name": null,
@@ -40143,6 +40359,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://185.228.163.146:8000/play/a03z/index.m3u8",
+      "title": "Eurosport 1 Portugal",
+      "duration": -1,
+      "tvg_id": "Eurosport1.fr@Portugal",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/olQJgm7.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://s7.iptv-24.net/1439/playlist.m3u8",
       "title": "Eurosport 1 Russia (1080p)",
       "duration": -1,
@@ -40207,6 +40435,18 @@
       "title": "Eurosport 2 Hungary",
       "duration": -1,
       "tvg_id": "Eurosport2.fr@Hungary",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/f56dHgR.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://185.228.163.146:8000/play/a048/index.m3u8",
+      "title": "Eurosport 2 Portugal",
+      "duration": -1,
+      "tvg_id": "Eurosport2.fr@Portugal",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/f56dHgR.png",
       "group_title": "Live TV",
@@ -40291,6 +40531,18 @@
       "title": "Eurosport (720p)",
       "duration": -1,
       "tvg_id": "Eurosport.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "title": "Eurosport HD (1080p)",
+      "duration": -1,
+      "tvg_id": "Eurosport.in@HD",
       "tvg_name": null,
       "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
       "group_title": "Live TV",
@@ -46456,11 +46708,23 @@
     },
     {
       "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
-      "title": "Golf Channel",
+      "title": "Golf Channel (Czech Republic)",
       "duration": -1,
       "tvg_id": "GolfChannel.cz@SD",
       "tvg_name": null,
       "tvg_logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
+      "title": "Golf Channel (United States) (576p)",
+      "duration": -1,
+      "tvg_id": "GolfChannel.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/Lgux6Ik.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -47943,10 +48207,10 @@
       "geo_blocked": false
     },
     {
-      "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
-      "title": "Happy Channel",
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8",
+      "title": "Happy Channel HD (1080i)",
       "duration": -1,
-      "tvg_id": "HappyChannel.ro@SD",
+      "tvg_id": "HappyChannel.ro@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/kpFaiku.png",
       "group_title": "Live TV",
@@ -48399,6 +48663,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://15.204.246.24:8080/HBOPOPHD/index.m3u8",
+      "title": "HBO Pop Latin America (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "HBOPopLatinAmerica.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
       "title": "HBO Signature Asia HD (1080p)",
       "duration": -1,
@@ -48747,18 +49023,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
-      "title": "Hello Taste",
-      "duration": -1,
-      "tvg_id": "HelloTaste.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/TdKO0er.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://fox.hostlagarto.com:8081/hmtv/index.m3u8",
       "title": "Hermanas Mirabal TV (720p) [Not 24/7]",
       "duration": -1,
@@ -49071,8 +49335,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
-      "title": "Hindi Hits (720p)",
+      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+      "title": "Hindi Hits (1080p)",
       "duration": -1,
       "tvg_id": "HindiHits.in@SD",
       "tvg_name": null,
@@ -51135,6 +51399,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
+      "title": "Hungama TV (576p)",
+      "duration": -1,
+      "tvg_id": "HungamaTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8",
       "title": "Hungry (720p)",
       "duration": -1,
@@ -51339,8 +51615,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://fta.ektv.in/live/309/master.m3u8",
-      "title": "IBC 24 (576p)",
+      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8",
+      "title": "IBC 24 (1080p)",
       "duration": -1,
       "tvg_id": "IBC24.in@SD",
       "tvg_name": null,
@@ -52340,7 +52616,7 @@
       "duration": -1,
       "tvg_id": "ImpactTVManele.ro@SD",
       "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/G5mNdpE.png",
+      "tvg_logo": "https://i.imgur.com/4JdnUAd.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -52965,6 +53241,18 @@
       "tvg_id": "InstantSaga.us@US",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/PMpwaQN.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8",
+      "title": "Insula non stop (576i)",
+      "duration": -1,
+      "tvg_id": "Insulanonstop.ro@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -54345,6 +54633,30 @@
       "tvg_id": "JaliscoTV.mx@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/N4meE8I.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "title": "Jalsha Movies (1080p)",
+      "duration": -1,
+      "tvg_id": "JalshaMovies.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/25eWjX2.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8",
+      "title": "Jalsha Movies HD (1080p)",
+      "duration": -1,
+      "tvg_id": "JalshaMovies.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/25eWjX2.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -57021,6 +57333,18 @@
       "tvg_id": "KCTV.kr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/IHkZpaI.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8",
+      "title": "Kechnec TV",
+      "duration": -1,
+      "tvg_id": "KechnecTV.sk@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://web02.antik.sk/assets/img/channels/8633c8fea7eb3d31d85dc1098c07538f.svg",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -64143,6 +64467,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
+      "title": "Marquee Sports Network (576p)",
+      "duration": -1,
+      "tvg_id": "MarqueeSportsNetwork.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8",
       "title": "Married with Children",
       "duration": -1,
@@ -65295,8 +65631,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://188.115.15.121:8000/play/a014",
-      "title": "MCM Pop (580p)",
+      "url": "http://176.65.153.78:8201/play/a070/index.m3u8",
+      "title": "MCM Pop",
       "duration": -1,
       "tvg_id": "MCMPop.fr@SD",
       "tvg_name": null,
@@ -66321,6 +66657,18 @@
       "tvg_id": "MetropolitanadelCuzco.pe@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/0B04qgM.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8",
+      "title": "MeTV Toons",
+      "duration": -1,
+      "tvg_id": "MeTVToons.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -68355,8 +68703,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8",
-      "title": "Motorvision (1080p)",
+      "url": "https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8",
+      "title": "Motorvision (1080i)",
       "duration": -1,
       "tvg_id": "Motorvision.de@SD",
       "tvg_name": null,
@@ -68457,6 +68805,18 @@
       "tvg_id": "MoviesNow.in@HD",
       "tvg_name": null,
       "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
+      "title": "Movies Now + (1080p)",
+      "duration": -1,
+      "tvg_id": "MoviesNowPlus.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -68619,8 +68979,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8",
-      "title": "Moya Planeta (1080p)",
+      "url": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8",
+      "title": "Moya Planeta (720p)",
       "duration": -1,
       "tvg_id": "MoyaPlaneta.ru@SD",
       "tvg_name": null,
@@ -70587,6 +70947,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8",
+      "title": "Muzhskoy HD (1080p)",
+      "duration": -1,
+      "tvg_id": "Muzhskoy.ru@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/xyztpBf.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
       "title": "Muzsika TV",
       "duration": -1,
@@ -71199,6 +71571,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://stream.ottlive.co.in/nammatv/index.m3u8",
+      "title": "Namma Bangalore (1080p)",
+      "duration": -1,
+      "tvg_id": "NammaBangalore.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8",
       "title": "NAN TV (720p)",
       "duration": -1,
@@ -71433,6 +71817,18 @@
       "tvg_id": "NashKinopokaz.ru@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/iwTMl8O.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8",
+      "title": "Nasha Tema (1080p)",
+      "duration": -1,
+      "tvg_id": "NashaTema.ru@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/67ZVDKW.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -71709,6 +72105,18 @@
       "tvg_id": "NationalGeographic.hu@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
+      "title": "National Geographic (India) HD (1080p)",
+      "duration": -1,
+      "tvg_id": "NationalGeographic.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -73935,8 +74343,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/273/master.m3u8",
-      "title": "News India 24x7 (576p)",
+      "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
+      "title": "News India 24x7 (1080p)",
       "duration": -1,
       "tvg_id": "NewsIndia24x7.in@SD",
       "tvg_name": null,
@@ -73983,8 +74391,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/10003/master.m3u8",
-      "title": "News Live Bangla (576p)",
+      "url": "https://stream.ottlive.co.in/newslivebangla/index.m3u8",
+      "title": "News Live Bangla (1080p)",
       "duration": -1,
       "tvg_id": "NewsLiveBangla.in@SD",
       "tvg_name": null,
@@ -73995,8 +74403,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/1629/master.m3u8",
-      "title": "News Malayalam 24x7 (576p)",
+      "url": "https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8",
+      "title": "News Malayalam 24x7 (1080p)",
       "duration": -1,
       "tvg_id": "NewsMalayalam24x7.in@SD",
       "tvg_name": null,
@@ -74007,8 +74415,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8",
-      "title": "News Marathi 24x7 (720p)",
+      "url": "https://stream.ottlive.co.in/newsmarathi/index.m3u8",
+      "title": "News Marathi 24x7 (1080p)",
       "duration": -1,
       "tvg_id": "NewsMarathi24x7.in@SD",
       "tvg_name": null,
@@ -74103,6 +74511,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://newsonly.kableone.com/newsonly/master.m3u8",
+      "title": "News Only (1080p)",
+      "duration": -1,
+      "tvg_id": "NewsOnly.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Only.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://jmp2.uk/stvp-IN4000012ML",
       "title": "News State MP & CHG (1080p)",
       "duration": -1,
@@ -74139,8 +74559,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/1433/master.m3u8",
-      "title": "News Tamil 24x7 (576p)",
+      "url": "https://stream.ottlive.co.in/newstamil/index.m3u8",
+      "title": "News Tamil 24x7 (1080p)",
       "duration": -1,
       "tvg_id": "NewsTamil24x7.in@SD",
       "tvg_name": null,
@@ -74775,34 +75195,10 @@
       "geo_blocked": false
     },
     {
-      "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
-      "title": "Nickelodeon (Croatia) (1080p)",
-      "duration": -1,
-      "tvg_id": "Nickelodeon.hr@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8",
       "title": "Nickelodeon (Czech Republic)",
       "duration": -1,
       "tvg_id": "Nickelodeon.cz@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/E84jnP8.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
-      "title": "Nickelodeon (France) (504p)",
-      "duration": -1,
-      "tvg_id": "Nickelodeon.fr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/E84jnP8.png",
       "group_title": "Live TV",
@@ -74847,7 +75243,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8",
+      "url": "http://185.227.34.104/stream/117/index.m3u8",
       "title": "Nickelodeon (Italy)",
       "duration": -1,
       "tvg_id": "Nickelodeon.it@SD",
@@ -74863,18 +75259,6 @@
       "title": "Nickelodeon (Netherlands)",
       "duration": -1,
       "tvg_id": "Nickelodeon.nl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/E84jnP8.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8013/play/a005/index.m3u8",
-      "title": "Nickelodeon (Poland) (576i)",
-      "duration": -1,
-      "tvg_id": "Nickelodeon.pl@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/E84jnP8.png",
       "group_title": "Live TV",
@@ -74901,30 +75285,6 @@
       "tvg_id": "Nickelodeon.ru@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/w8iE8dV.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://tvsen7.aynascope.net/nicklodean/index.m3u8",
-      "title": "Nickelodeon (United Kingdom) (576p)",
-      "duration": -1,
-      "tvg_id": "Nickelodeon.uk@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/E84jnP8.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
-      "title": "Nickelodeon (United States) (720p)",
-      "duration": -1,
-      "tvg_id": "Nickelodeon.us@East",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/E84jnP8.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -74991,31 +75351,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.151.60.162:2122/play/a017/index.m3u8?hls",
-      "title": "Nickelodeon Global (576p)",
-      "duration": -1,
-      "tvg_id": "NickelodeonGlobal.uk@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8",
-      "title": "Nickelodeon Junior (1080p)",
-      "duration": -1,
-      "tvg_id": "NickelodeonJunior.fr@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://15.204.246.24:8080/NickHD/index.m3u8",
+      "url": "http://181.78.79.131:8000/play/a0qm",
       "title": "Nickelodeon Latin America (1080p)",
       "duration": -1,
       "tvg_id": "NickelodeonLatinAmerica.us@Panregional",
@@ -76419,8 +76755,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8",
-      "title": "NRK1 (1080i) [Geo-blocked]",
+      "url": "http://185.19.191.171:8090/NRK1/index.m3u8",
+      "title": "NRK1 (720p)",
       "duration": -1,
       "tvg_id": "NRK1.no@SD",
       "tvg_name": null,
@@ -79209,6 +79545,18 @@
       "tvg_id": "OneFM.lb@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.ottlive.co.in/onkarnews/index.m3u8",
+      "title": "Onkar News (1080p)",
+      "duration": -1,
+      "tvg_id": "OnkarNews.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/onkarnews.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -82305,6 +82653,18 @@
       "tvg_id": "Pitaara.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PITAARA/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8",
+      "title": "Pitaara Comedy (1080p)",
+      "duration": -1,
+      "tvg_id": "PitaaraComedy.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PitaaraComedy.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -87387,8 +87747,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8",
-      "title": "Polsat",
+      "url": "https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd",
+      "title": "Polsat (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "Polsat.pl@SD",
       "tvg_name": null,
@@ -88047,8 +88407,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
-      "title": "Prameya News7 (576p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7c8ab820-a4ad-4c48-b326-2d7bc6639cef/index.m3u8",
+      "title": "Prameya News7 (720p)",
       "duration": -1,
       "tvg_id": "PrameyaNews7.in@SD",
       "tvg_name": null,
@@ -90507,8 +90867,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
-      "title": "R Plus (768p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8",
+      "title": "R Plus (1080p)",
       "duration": -1,
       "tvg_id": "RPlus.in@SD",
       "tvg_name": null,
@@ -90519,8 +90879,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/1231/master.m3u8",
-      "title": "R Plus Gold (720p)",
+      "url": "https://stream.ottlive.co.in/rplusgold/index.m3u8",
+      "title": "R Plus Gold (1080p)",
       "duration": -1,
       "tvg_id": "RPlusGold.in@SD",
       "tvg_name": null,
@@ -92479,6 +92839,18 @@
       "title": "Rai 2 (1080p)",
       "duration": -1,
       "tvg_id": "Rai2.it@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://team-tv.co:81/rai2/index.m3u8",
+      "title": "Rai 2 HD (720p)",
+      "duration": -1,
+      "tvg_id": "Rai2.it@HD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
       "group_title": "Live TV",
@@ -99495,6 +99867,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8",
+      "title": "Sadvidya TV (720p)",
+      "duration": -1,
+      "tvg_id": "SadvidyaTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sadvidya_TV.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://fta.ektv.in/live/410/master.m3u8",
       "title": "Safari TV (576p)",
       "duration": -1,
@@ -99579,8 +99963,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://cdn.pishow.tv/ott/live/409/master.m3u8",
-      "title": "Sakshi TV (576p)",
+      "url": "https://stream.ottlive.co.in/sakshitv/index.m3u8",
+      "title": "Sakshi TV (1080p)",
       "duration": -1,
       "tvg_id": "SakshiTV.in@SD",
       "tvg_name": null,
@@ -101391,6 +101775,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1",
+      "title": "Senado TV (576p)",
+      "duration": -1,
+      "tvg_id": "SenadoTV.py@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/LzgODUS.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8",
       "title": "Senal Colombia (1080p)",
       "duration": -1,
@@ -102525,6 +102921,18 @@
       "tvg_id": "ShikshaTV.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://play-lh.googleusercontent.com/1ibQhkMCsnXaI9LOiZH-Iyw8rM8CMVJEZAlbFphWuZApSPIp-eZsjltDlN6rqJzIonQ",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8",
+      "title": "Shin-chan (720p)",
+      "duration": -1,
+      "tvg_id": "Shinchan.us@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://image.tmdb.org/t/p/original/fIYWvHIeqc1A9D4PyayFkgjRxCh.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -103707,6 +104115,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8",
+      "title": "Sky Sports News (576p)",
+      "duration": -1,
+      "tvg_id": "SkySportsNews.uk@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8",
       "title": "Sky Sports NFL (720p)",
       "duration": -1,
@@ -104775,42 +105195,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls",
-      "title": "Sony Sports Ten 1 (576p)",
-      "duration": -1,
-      "tvg_id": "SonySportsTen1.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
-      "title": "Sony Sports Ten 1 HD (1080p)",
-      "duration": -1,
-      "tvg_id": "SonySportsTen1.in@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls",
-      "title": "Sony Sports Ten 2 (576p)",
-      "duration": -1,
-      "tvg_id": "SonySportsTen2.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls",
       "title": "Sony Sports Ten 3 Hindi (576p)",
       "duration": -1,
@@ -104823,36 +105207,24 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
-      "title": "Sony Sports Ten 4 Kannada (576p)",
-      "duration": -1,
-      "tvg_id": "SonySportsTen4.in@Kannada",
-      "tvg_name": null,
-      "tvg_logo": "https://jiotvimages.cdn.jio.com/dare_images/images/SonyTen4Kan.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
-      "title": "Sony Sports Ten 5 (576p)",
-      "duration": -1,
-      "tvg_id": "SonySportsTen5.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8",
-      "title": "Sony Wah (1080p) [Geo-blocked]",
+      "url": "http://163.61.226.31:9981/stream/channelid/1743466790?profile=pass",
+      "title": "Sony Wah (576p)",
       "duration": -1,
       "tvg_id": "SonyWah.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "title": "Sony Yay! (576p)",
+      "duration": -1,
+      "tvg_id": "SonyYay.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -106011,6 +106383,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8",
+      "title": "Sport1 HD",
+      "duration": -1,
+      "tvg_id": "Sport1.cz@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/X5X3tKC.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.7.14/live/sport1_hun/index.m3u8",
       "title": "Sport 1 (Hungary)",
       "duration": -1,
@@ -106051,6 +106435,18 @@
       "title": "Sport2",
       "duration": -1,
       "tvg_id": "Sport2.cz@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/UxflVoU.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8",
+      "title": "Sport2 HD",
+      "duration": -1,
+      "tvg_id": "Sport2.cz@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/UxflVoU.png",
       "group_title": "Live TV",
@@ -106467,6 +106863,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+      "title": "SRK TV (1080p)",
+      "duration": -1,
+      "tvg_id": "SRKTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8",
       "title": "St Lucie Public Schools",
       "duration": -1,
@@ -106515,8 +106923,20 @@
       "geo_blocked": false
     },
     {
+      "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
+      "title": "Star Bharat (India) HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarBharat.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/Q8ajPij.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
-      "title": "Star Bharat (576p)",
+      "title": "Star Bharat (United Kingdom) (576p)",
       "duration": -1,
       "tvg_id": "StarBharat.uk@SD",
       "tvg_name": null,
@@ -106755,6 +107175,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8",
+      "title": "Star Gold Select (1080p)",
+      "duration": -1,
+      "tvg_id": "StarGoldSelect.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/U7eiuqv.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "title": "Star Jalsha (576p)",
       "duration": -1,
@@ -106767,8 +107199,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
-      "title": "Star Jalsha HD (720p)",
+      "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
+      "title": "Star Jalsha HD (1080p)",
       "duration": -1,
       "tvg_id": "StarJalsha.in@HD",
       "tvg_name": null,
@@ -106863,6 +107295,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
+      "title": "Star Movies (India) HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarMovies.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8",
       "title": "Star Movies (Portugal)",
       "duration": -1,
@@ -106881,6 +107325,30 @@
       "tvg_id": "StarMovies.si@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/JcoAgDF.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://livetv.shamon-cable.net:8443/Star-movies-select/index.m3u8",
+      "title": "Star Movies Select HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarMoviesSelect.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://103.135.253.32:8080/Star-News/index.m3u8",
+      "title": "Star News (1080p)",
+      "duration": -1,
+      "tvg_id": "StarNews.bd@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1280px-Star_News_Bangladesh_Logo.svg.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -106911,36 +107379,12 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls",
+      "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
       "title": "Star Sports 2 (576p)",
       "duration": -1,
       "tvg_id": "StarSports2.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "title": "Star Sports 2 HD (720p)",
-      "duration": -1,
-      "tvg_id": "StarSports2.in@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-      "title": "Star Sports 2 Hindi (720p)",
-      "duration": -1,
-      "tvg_id": "StarSports2Hindi.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/kHerF19.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -106959,32 +107403,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "title": "Star Sports 3 (576p)",
-      "duration": -1,
-      "tvg_id": "StarSports3.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls",
-      "title": "Star Sports Select 1 HD (1080p)",
-      "duration": -1,
-      "tvg_id": "StarSportsSelect1.in@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/Mh9tKPx.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
-      "title": "Star Sports Select 2 HD (1080p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "title": "Star Sports Select 2 HD (720p)",
       "duration": -1,
       "tvg_id": "StarSportsSelect2.in@HD",
       "tvg_name": null,
@@ -107217,6 +107637,30 @@
       "tvg_id": "StarTV.tr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/9O3DHRB.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://163.61.226.31:9981/stream/channelid/894286890?profile=pass",
+      "title": "Star Utsav (576p)",
+      "duration": -1,
+      "tvg_id": "StarUtsav.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/H1jhHDl.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass",
+      "title": "Star Utsav Movies (576p)",
+      "duration": -1,
+      "tvg_id": "StarUtsavMovies.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/k5QHfH2.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -108843,6 +109287,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f",
+      "title": "Super Toons (1080p)",
+      "duration": -1,
+      "tvg_id": "SuperToons.bg@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/0/02/SuperToons.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
       "title": "Super TV2",
       "duration": -1,
@@ -109209,6 +109665,18 @@
       "tvg_id": "Survivor.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/Zz9SgY8.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/suryasamachar/playlist.m3u8",
+      "title": "Surya Samachar (576p)",
+      "duration": -1,
+      "tvg_id": "SuryaSamachar.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/vxs1kRB.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -110343,6 +110811,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8",
+      "title": "TAP Sports (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "TAPSports.ph@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/4GmuJMD.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "title": "TAP TV Channel 23 (720p)",
       "duration": -1,
@@ -110841,6 +111321,18 @@
       "tvg_id": "TCM.us@West",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://181.78.14.26:4000/play/a04d/index.m3u8",
+      "title": "TCM Latin America (1080p)",
+      "duration": -1,
+      "tvg_id": "TCMLatinAmerica.us@Panregional",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/QpDkrmT.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -114291,18 +114783,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls",
-      "title": "Ten Cricket (576p)",
-      "duration": -1,
-      "tvg_id": "TenCricket.in@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/K5XIFuW.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://121.91.61.106:8000/play/a04h/index.m3u8",
       "title": "Ten Sports Pakistan",
       "duration": -1,
@@ -115113,6 +115593,18 @@
       "tvg_id": "TheDoctors.us@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/2sAz8dZ.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8",
+      "title": "The Explorers (1080p)",
+      "duration": -1,
+      "tvg_id": "TheExplorers.ru@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://www.oreol.tv/img/news/Logo_The_Explorers_Bleu.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -120399,8 +120891,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8",
-      "title": "TV5Monde Info (1080p) [Geo-blocked]",
+      "url": "http://91.235.255.32:8001/1:0:1:2CA:14B4:13E:820000:0:0:0",
+      "title": "TV5Monde Info (1080p)",
       "duration": -1,
       "tvg_id": "TV5MondeInfo.fr@SD",
       "tvg_name": null,
@@ -120573,6 +121065,18 @@
       "tvg_id": "TV7Colmar.fr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/kSdGi43.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
+      "title": "TV7 National (1080p)",
+      "duration": -1,
+      "tvg_id": "TV7National.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://d3jnkp3lrs2hd5.cloudfront.net/images/100x100/52ac91e7-2c9d-415b-a63f-fb41413105ff.jpg",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -120891,8 +121395,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://mumt04.tangotv.in/m18aqlK4TV27/index.m3u8",
-      "title": "TV27 News (360p)",
+      "url": "https://stream.ottlive.co.in/tv27/index.m3u8",
+      "title": "TV27 News (1080p)",
       "duration": -1,
       "tvg_id": "TV27News.in@SD",
       "tvg_name": null,
@@ -121035,7 +121539,7 @@
       "geo_blocked": false
     },
     {
-      "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
+      "url": "http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
       "title": "TV1000",
       "duration": -1,
       "tvg_id": "TV1000.bg@SD",
@@ -125283,8 +125787,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://116.121.59.72:9981/stream/channel/75f703b52ec2465e4ed2934b98f0f77a",
-      "title": "TVE Internacional America",
+      "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
+      "title": "TVE Internacional America (720p)",
       "duration": -1,
       "tvg_id": "TVEInternacionalAmerica.es@SD",
       "tvg_name": null,
@@ -126111,72 +126615,12 @@
       "geo_blocked": false
     },
     {
-      "url": "http://57.128.210.196:8080/144/index.m3u8",
-      "title": "TVP1 (1080p)",
+      "url": "http://92.114.85.87:8009/play/a009/index.m3u8",
+      "title": "TVP1",
       "duration": -1,
       "tvg_id": "TVP1.pl@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/ewpSjBs.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8",
-      "title": "TVP1 HD",
-      "duration": -1,
-      "tvg_id": "TVP1.pl@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/ewpSjBs.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://57.128.210.196:8080/143/index.m3u8",
-      "title": "TVP2 (1080p)",
-      "duration": -1,
-      "tvg_id": "TVP2.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/XxCc32B.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8",
-      "title": "TVP2 HD",
-      "duration": -1,
-      "tvg_id": "TVP2.pl@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/XxCc32B.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8010/play/a006/index.m3u8",
-      "title": "TVP 3 Warszawa",
-      "duration": -1,
-      "tvg_id": "TVP3Warszawa.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/AfZOO8U.jpg",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8002/play/a00b/index.m3u8",
-      "title": "TVP ABC (576i)",
-      "duration": -1,
-      "tvg_id": "TVPABC.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/wP2mpfM.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -126195,48 +126639,12 @@
       "geo_blocked": false
     },
     {
-      "url": "http://57.128.210.196:8080/141/index.m3u8",
-      "title": "TVP HD (1080p)",
-      "duration": -1,
-      "tvg_id": "TVPHD.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/960px-TVP_HD_logo.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8002/play/a00d/index.m3u8",
-      "title": "TVP Historia (576i)",
-      "duration": -1,
-      "tvg_id": "TVPHistoria.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/Bc4QZiy.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
       "title": "TVP Info",
       "duration": -1,
       "tvg_id": "TVPInfo.pl@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8006/play/a007/index.m3u8",
-      "title": "TVP Kultura (1080p)",
-      "duration": -1,
-      "tvg_id": "TVPKultura.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/JU858Es.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -126297,42 +126705,6 @@
       "tvg_id": "TVPRozrywka.pl@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/05Vx5px.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8019/play/a00a/index.m3u8",
-      "title": "TVP Seriale (1080p)",
-      "duration": -1,
-      "tvg_id": "TVPSeriale.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/MuRtvXk.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://57.128.210.196:8080/134/index.m3u8",
-      "title": "TVP Sport (1080p)",
-      "duration": -1,
-      "tvg_id": "TVPSport.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/JUZDOCO.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://78.62.9.23:55555/TVP%20Wilno%20HD",
-      "title": "TVP Wilno",
-      "duration": -1,
-      "tvg_id": "TVPWilno.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/8oORLGF.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -130743,6 +131115,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://85.14.32.26:8800/udp/239.100.10.100:5000",
+      "title": "Viasat Kino Bulgaria",
+      "duration": -1,
+      "tvg_id": "ViasatKino.ua@Bulgaria",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/io0WAkA.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8",
       "title": "Viasat Kino Romania",
       "duration": -1,
@@ -131979,6 +132363,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8",
+      "title": "Volleyball (1080p)",
+      "duration": -1,
+      "tvg_id": "Volleyball.ru@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://smotreshka.server-img.lfstrm.tv/images/media/59/20/592021ab74bddb93907e2b18997215a9.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://138.121.113.175:8000/play/a04r/index.m3u8",
       "title": "Volver (576p)",
       "duration": -1,
@@ -132352,7 +132748,7 @@
     },
     {
       "url": "https://dethich.pw/vtv5tnb/index.m3u8",
-      "title": "VTV5 Tay Nam Bo HD",
+      "title": "VTV5 Tay Nam Bo HD (1080p)",
       "duration": -1,
       "tvg_id": "VTV5TayNamBo.vn@HD",
       "tvg_name": null,
@@ -132364,7 +132760,7 @@
     },
     {
       "url": "http://dethich.pw/vtv5tn/index.m3u8",
-      "title": "VTV5 Tay Nguyen HD",
+      "title": "VTV5 Tay Nguyen HD (1080p)",
       "duration": -1,
       "tvg_id": "VTV5TayNguyen.vn@HD",
       "tvg_name": null,
@@ -132795,6 +133191,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://wapa.hostless.app/WAPA-TV-4-2.m3u8",
+      "title": "WAPA-TV 4.2 (720p) [Not 24/7]",
+      "duration": -1,
+      "tvg_id": "WAPATV42.pr@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/5WNBFmp.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://stream.wapptv.cl/video/index.m3u8",
       "title": "Wapp (720p)",
       "duration": -1,
@@ -132811,6 +133219,18 @@
       "title": "Warner Channel Colombia (1080p)",
       "duration": -1,
       "tvg_id": "WarnerChannel.us@Colombia",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://15.204.246.24:8080/WarnerChannelHD/index.m3u8",
+      "title": "Warner Channel Mexico (1080p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "WarnerChannel.us@Mexico",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
       "group_title": "Live TV",
@@ -134379,18 +134799,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://92.114.85.87:8016/play/a007/index.m3u8",
-      "title": "Wydarzenia 24 (576i)",
-      "duration": -1,
-      "tvg_id": "Wydarzenia24.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/uYpUnHP.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
       "title": "X 102.7 FM (720p)",
       "duration": -1,
@@ -135159,6 +135567,30 @@
       "geo_blocked": false
     },
     {
+      "url": "https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8",
+      "title": "Yichang Sanxia General Channel",
+      "duration": -1,
+      "tvg_id": "YichangSanxiaGeneralChannel.cn@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://www.tvchinese.net/uploads/tv/ycsxggpd.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://liveplay.ycrmt.cn/sxgd/lysh.m3u8",
+      "title": "Yichang Sanxia Travel & Life Channel",
+      "duration": -1,
+      "tvg_id": "YichangSanxiaTravelLifeChannel.cn@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://www.tvchinese.net/uploads/tv/ycsxlysh.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8",
       "title": "Yle Teema & Fem (1080p) [Not 24/7]",
       "duration": -1,
@@ -135855,8 +136287,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
-      "title": "Zee Bangla HD (720p)",
+      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
+      "title": "Zee Bangla HD (1080p)",
       "duration": -1,
       "tvg_id": "ZeeBangla.in@HD",
       "tvg_name": null,
@@ -135903,8 +136335,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://dwby15d04agvq.cloudfront.net/index_5.m3u8",
-      "title": "Zee Business (720p)",
+      "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee_business/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8",
+      "title": "Zee Business (1080p)",
       "duration": -1,
       "tvg_id": "ZeeBusiness.in@SD",
       "tvg_name": null,
@@ -136191,8 +136623,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8",
-      "title": "Zee Telugu HD (576p)",
+      "url": "https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8",
+      "title": "Zee Telugu HD (720p)",
       "duration": -1,
       "tvg_id": "ZeeTelugu.in@HD",
       "tvg_name": null,
@@ -136227,8 +136659,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "title": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
+      "title": "Zee TV HD (1080p)",
       "duration": -1,
       "tvg_id": "ZeeTV.in@HD",
       "tvg_name": null,
@@ -136713,18 +137145,6 @@
       "tvg_id": "ZoomNews.us@SD",
       "tvg_name": null,
       "tvg_logo": "https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://92.114.85.87:8001/play/a00y/index.m3u8",
-      "title": "Zoom TV (576i)",
-      "duration": -1,
-      "tvg_id": "ZoomTV.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/UtZM4zm.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
