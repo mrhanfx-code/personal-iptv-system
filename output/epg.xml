@@ -740,25 +740,9 @@
     <display-name>90210</display-name>
     <icon src="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" />
   </channel>
-  <channel id="OPA.cr@SD">
-    <display-name>¡OPA! (720p)</display-name>
-    <icon src="https://i.imgur.com/300c1ZH.png" />
-  </channel>
-  <channel id="VivaLatino.ua@SD">
-    <display-name>¡Viva Latino! (1080p)</display-name>
-    <icon src="https://i.imgur.com/KRakHAq.png" />
-  </channel>
   <channel id="AndTV.in@International">
     <display-name>&TV International (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" />
-  </channel>
-  <channel id="PlusMaisUm.br@HD">
-    <display-name>+MaisUm (720p)</display-name>
-    <icon src="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" />
-  </channel>
-  <channel id="PlusTV.by@SD">
-    <display-name>+TV (576p) [Geo-blocked]</display-name>
-    <icon src="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" />
   </channel>
   <channel id="black.ru@SD">
     <display-name>.black (576p)</display-name>
@@ -779,6 +763,22 @@
   <channel id="24.sk@SD">
     <display-name>:24 (1080p)</display-name>
     <icon src="https://i.imgur.com/tTCuczU.png" />
+  </channel>
+  <channel id="OPA.cr@SD">
+    <display-name>¡OPA! (720p)</display-name>
+    <icon src="https://i.imgur.com/300c1ZH.png" />
+  </channel>
+  <channel id="VivaLatino.ua@SD">
+    <display-name>¡Viva Latino! (1080p)</display-name>
+    <icon src="https://i.imgur.com/KRakHAq.png" />
+  </channel>
+  <channel id="PlusMaisUm.br@HD">
+    <display-name>+MaisUm (720p)</display-name>
+    <icon src="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" />
+  </channel>
+  <channel id="PlusTV.by@SD">
+    <display-name>+TV (576p) [Geo-blocked]</display-name>
+    <icon src="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" />
   </channel>
   <channel id="A1.ru@SD">
     <display-name>A1 (576p)</display-name>
@@ -833,7 +833,7 @@
     <icon src="https://i.imgur.com/LnXQkIU.png" />
   </channel>
   <channel id="A24Paraguay.py@SD">
-    <display-name>A24 Paraguay</display-name>
+    <display-name>A24 Paraguay (1080p)</display-name>
     <icon src="https://i.imgur.com/XWBmjBk.png" />
   </channel>
   <channel id="AHaber.tr@SD">
@@ -847,6 +847,10 @@
   <channel id="ASpor.tr@SD">
     <display-name>A Spor SD (1080p)</display-name>
     <icon src="https://i.imgur.com/ZhkZzLf.png" />
+  </channel>
+  <channel id="AE.us@East">
+    <display-name>A&E (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" />
   </channel>
   <channel id="AELatinAmerica.us@Panregional">
     <display-name>A&E Latin America (1080p)</display-name>
@@ -885,7 +889,7 @@
     <icon src="https://i.imgur.com/VNGnHYz.png" />
   </channel>
   <channel id="AajTak.in@SD">
-    <display-name>Aaj Tak (1080p)</display-name>
+    <display-name>Aaj Tak (720p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" />
   </channel>
   <channel id="AajTak.in@HD">
@@ -952,6 +956,10 @@
     <display-name>Aathavan TV (720p)</display-name>
     <icon src="https://i.imgur.com/LEVEhTH.png" />
   </channel>
+  <channel id="AB1.fr@SD">
+    <display-name>AB1 (720p)</display-name>
+    <icon src="https://i.imgur.com/9C7UsOe.png" />
+  </channel>
   <channel id="AbadanTV.ir@SD">
     <display-name>Abadan TV</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" />
@@ -971,6 +979,10 @@
   <channel id="AbbTakk.pk@SD">
     <display-name>Abb Takk (576p)</display-name>
     <icon src="https://i.imgur.com/D6IHRrP.png" />
+  </channel>
+  <channel id="ABC.us@East">
+    <display-name>ABC (1080p)</display-name>
+    <icon src="https://i.imgur.com/pvXZ8DX.png" />
   </channel>
   <channel id="ABC.us@KAAL">
     <display-name>ABC KAAL (1080p)</display-name>
@@ -1356,6 +1368,10 @@
     <display-name>ACI Sport TV SD (1080p)</display-name>
     <icon src="https://i.imgur.com/U8cHMOt.png" />
   </channel>
+  <channel id="ACNTV.cm@SD">
+    <display-name>ACN TV (1080p)</display-name>
+    <icon src="https://i.imgur.com/aZyKsyN.png" />
+  </channel>
   <channel id="ACNN.ng@SD">
     <display-name>ACNN (480p)</display-name>
     <icon src="https://i.imgur.com/91JLpxr.png" />
@@ -1363,6 +1379,10 @@
   <channel id="Action24.gr@SD">
     <display-name>Action 24 (1080p) [Not 24/7]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" />
+  </channel>
+  <channel id="Action.fr@SD">
+    <display-name>Action (540p)</display-name>
+    <icon src="https://i.imgur.com/Zv9VsVq.png" />
   </channel>
   <channel id="ActivaTV.es@SD">
     <display-name>Activa TV (720p)</display-name>
@@ -2489,7 +2509,7 @@
     <icon src="https://i.imgur.com/4ZTKAGd.png" />
   </channel>
   <channel id="AmericaParaguay.py@SD">
-    <display-name>America Paraguay</display-name>
+    <display-name>America Paraguay (1080p)</display-name>
     <icon src="https://i.imgur.com/rCEu3fM.png" />
   </channel>
   <channel id="AmericaTelevision.pe@SD">
@@ -2808,6 +2828,10 @@
     <display-name>Animation+ (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/OIFK6JB.png" />
   </channel>
+  <channel id="Animaux.fr@SD">
+    <display-name>Animaux (720p)</display-name>
+    <icon src="https://i.imgur.com/FM9FVAG.png" />
+  </channel>
   <channel id="AnimaxAsia.sg@India">
     <display-name>Animax Asia India (1080p) [Geo-blocked]</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" />
@@ -2955,6 +2979,10 @@
   <channel id="Antenna2TV.it@SD">
     <display-name>Antenna 2 TV (720p)</display-name>
     <icon src="https://i.imgur.com/kNrzk3X.png" />
+  </channel>
+  <channel id="AntennaSicilia.it@SD">
+    <display-name>Antenna Sicilia (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Antennasicilia.png" />
   </channel>
   <channel id="AntennaSud.it@SD">
     <display-name>Antenna Sud (720p)</display-name>
@@ -3768,6 +3796,10 @@
     <display-name>Auto Plus (576p)</display-name>
     <icon src="https://i.imgur.com/sVc8cFt.png" />
   </channel>
+  <channel id="Automotolachaine.fr@SD">
+    <display-name>Automoto la chaine (720p)</display-name>
+    <icon src="https://i.imgur.com/ebf2uc7.png" />
+  </channel>
   <channel id="AVAFamily.ir@SD">
     <display-name>AVA Family</display-name>
     <icon src="" />
@@ -3884,8 +3916,8 @@
     <display-name>AXN (Spain)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
-  <channel id="AXNAdria.us@SD">
-    <display-name>AXN Adria (576p)</display-name>
+  <channel id="AXN.es@HD">
+    <display-name>AXN (Spain) HD</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
   <channel id="AXNAsia.sg@Indonesia">
@@ -4509,7 +4541,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/BBC_NL_Logo_2025.svg/960px-BBC_NL_Logo_2025.svg.png" />
   </channel>
   <channel id="BBCOne.uk@London">
-    <display-name>BBC One (720p) [Geo-blocked]</display-name>
+    <display-name>BBC One (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" />
   </channel>
   <channel id="BBCOne.uk@ChannelIslands">
@@ -4713,7 +4745,7 @@
     <icon src="https://i.imgur.com/QiuYWs9.png" />
   </channel>
   <channel id="BBCTwo.uk@HD">
-    <display-name>BBC Two HD (720p) [Geo-blocked]</display-name>
+    <display-name>BBC Two HD (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" />
   </channel>
   <channel id="BBCTwo.uk@NorthernIreland">
@@ -4801,7 +4833,7 @@
     <icon src="https://i.imgur.com/3XOk1lP.jpeg" />
   </channel>
   <channel id="BebetoTV.do@SD">
-    <display-name>Bebeto TV (1080p) [Not 24/7]</display-name>
+    <display-name>Bebeto TV (1080p)</display-name>
     <icon src="" />
   </channel>
   <channel id="Becker.de@DACH">
@@ -5328,6 +5360,10 @@
     <display-name>Bihor TV (576p)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/d/d8/Bihortvlogo.png/revision/latest/scale-to-width-down/1000?cb=20241223065621" />
   </channel>
+  <channel id="BikeChannel.it@HD">
+    <display-name>Bike Channel HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/WrNxg2k.png" />
+  </channel>
   <channel id="BilimIlim.kg@SD">
     <display-name>Bilim Ilim (480p) [Not 24/7]</display-name>
     <icon src="https://i.ibb.co/qswtSWm/428598841-309456895457301-6206911287895397651-n-1.png" />
@@ -5593,7 +5629,7 @@
     <icon src="https://i.imgur.com/rabKj9i.png" />
   </channel>
   <channel id="Boing.es@SD">
-    <display-name>Boing (Spain)</display-name>
+    <display-name>Boing (Spain) (1080p)</display-name>
     <icon src="https://i.imgur.com/nUYuCAP.png" />
   </channel>
   <channel id="BoingPlus.it@SD">
@@ -5659,6 +5695,10 @@
   <channel id="BomChannel.it@SD">
     <display-name>Bom Channel (720p)</display-name>
     <icon src="https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png" />
+  </channel>
+  <channel id="BomCine.es@SD">
+    <display-name>Bom Cine (576p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" />
   </channel>
   <channel id="bonappetit.us@SD">
     <display-name>bon appetit (1080p)</display-name>
@@ -6193,7 +6233,7 @@
     <icon src="https://i.imgur.com/rpg0bQA.png" />
   </channel>
   <channel id="CStar.fr@SD">
-    <display-name>C Star (477p)</display-name>
+    <display-name>C Star (720p)</display-name>
     <icon src="https://i.imgur.com/w4kAX1V.png" />
   </channel>
   <channel id="CaMauTV.vn@SD">
@@ -6275,6 +6315,10 @@
   <channel id="CaliforniaMusicChannel.us@SD">
     <display-name>California Music Channel (1080p)</display-name>
     <icon src="https://i.imgur.com/FyNot5W.png" />
+  </channel>
+  <channel id="CaliTV.co@SD">
+    <display-name>CaliTV (1080p)</display-name>
+    <icon src="https://i.imgur.com/2312Luq.png" />
   </channel>
   <channel id="CalvaryTV.in@SD">
     <display-name>Calvary TV (576p)</display-name>
@@ -6996,10 +7040,6 @@
     <display-name>Canal Cine Dios</display-name>
     <icon src="https://i.imgur.com/S4xqZgV.png" />
   </channel>
-  <channel id="CanalClaro.cl@SD">
-    <display-name>Canal Claro (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" />
-  </channel>
   <channel id="CanalCoinTV.es@SD">
     <display-name>Canal Coin TV (1080p)</display-name>
     <icon src="https://i.imgur.com/3QPJIpa.png" />
@@ -7437,7 +7477,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" />
   </channel>
   <channel id="Canale5.it@HD">
-    <display-name>Canale 5 HD</display-name>
+    <display-name>Canale 5 HD (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" />
   </channel>
   <channel id="Canale7.it@SD">
@@ -7648,6 +7688,10 @@
     <display-name>Cartoon Network (Italy)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
   </channel>
+  <channel id="CartoonNetwork.jp@HD">
+    <display-name>Cartoon Network (Japan) HD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
+  </channel>
   <channel id="CartoonNetwork.pk@SD">
     <display-name>Cartoon Network (Pakistan)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
@@ -7657,7 +7701,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
   </channel>
   <channel id="CartoonNetwork.us@East">
-    <display-name>Cartoon Network (United States) (1080p)</display-name>
+    <display-name>Cartoon Network (United States) [Not 24/7;Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
   </channel>
   <channel id="CartoonNetwork.us@West">
@@ -7811,10 +7855,6 @@
   <channel id="CazadordeHomicidas.us@Spain">
     <display-name>Cazador de Homicidas</display-name>
     <icon src="https://i.imgur.com/hy6FJLe.png" />
-  </channel>
-  <channel id="CazeTV.br@SD">
-    <display-name>CazeTV (1080p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" />
   </channel>
   <channel id="CBTVMichoacan.mx@SD">
     <display-name>CB TV Michoacan (720p)</display-name>
@@ -8381,7 +8421,7 @@
     <icon src="https://i.imgur.com/jQO7dVE.png" />
   </channel>
   <channel id="Channel4.uk@UK">
-    <display-name>Channel 4 (360p)</display-name>
+    <display-name>Channel 4 (576p)</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" />
   </channel>
   <channel id="Channel5.ru@SD">
@@ -8651,6 +8691,10 @@
   <channel id="Charterfeber.se@NO">
     <display-name>Charterfeber</display-name>
     <icon src="https://images.pluto.tv/channels/61c1dda0fe470d00080f85b8/colorLogoPNG.png" />
+  </channel>
+  <channel id="ChassePeche.fr@SD">
+    <display-name>Chasse & Peche (540p)</display-name>
+    <icon src="https://i.imgur.com/ZIS2ZQ1.png" />
   </channel>
   <channel id="CHCAction.cn@SD">
     <display-name>CHC Action (1080p)</display-name>
@@ -9516,6 +9560,10 @@
     <display-name>CNBC Bajar (1080p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCBajar.png" />
   </channel>
+  <channel id="CNBCEurope.uk@SD">
+    <display-name>CNBC Europe (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" />
+  </channel>
   <channel id="CNBCIndonesia.id@SD">
     <display-name>CNBC Indonesia</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" />
@@ -9772,12 +9820,20 @@
     <display-name>Comedy Central (France) (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
   </channel>
+  <channel id="ComedyCentral.fr@HD">
+    <display-name>Comedy Central (France) HD (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
+  </channel>
   <channel id="ComedyCentral.de@SD">
     <display-name>Comedy Central (Germany)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
   </channel>
   <channel id="ComedyCentral.it@SD">
     <display-name>Comedy Central (Italy) (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
+  </channel>
+  <channel id="ComedyCentral.es@SD">
+    <display-name>Comedy Central (Spain) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
   </channel>
   <channel id="ComedyCentral.se@SE">
@@ -9787,10 +9843,6 @@
   <channel id="ComedyCentral.se@DK">
     <display-name>Comedy Central (Sweden) DK (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" />
-  </channel>
-  <channel id="ComedyCentral.us@East">
-    <display-name>Comedy Central (United States) (1080p)</display-name>
-    <icon src="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" />
   </channel>
   <channel id="ComedyCentral.us@CA">
     <display-name>Comedy Central (United States) CA</display-name>
@@ -9807,6 +9859,10 @@
   <channel id="ComedyCentralenEspanol.us@SD">
     <display-name>Comedy Central en Espanol</display-name>
     <icon src="https://i.imgur.com/6xTD3G8.png" />
+  </channel>
+  <channel id="ComedyCentralLatinAmerica.us@Panregional">
+    <display-name>Comedy Central Latin America (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" />
   </channel>
   <channel id="ComedyCentralPlutoTV.us@US">
     <display-name>Comedy Central Pluto TV</display-name>
@@ -10163,6 +10219,10 @@
   <channel id="CrimeandEvidence.za@SD">
     <display-name>Crime and Evidence (720p)</display-name>
     <icon src="https://i.imgur.com/xwGquEb.png" />
+  </channel>
+  <channel id="CrimeDistrict.fr@SD">
+    <display-name>Crime District (540p)</display-name>
+    <icon src="https://i.imgur.com/WQJ6Lbk.png" />
   </channel>
   <channel id="Crimea24.ru@SD">
     <display-name>Crimea 24</display-name>
@@ -11080,10 +11140,6 @@
     <display-name>DeParinti.ro (576p)</display-name>
     <icon src="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" />
   </channel>
-  <channel id="DeportesTVC.hn@SD">
-    <display-name>Deportes TVC (1080p)</display-name>
-    <icon src="https://i.imgur.com/Y1t8xkL.png" />
-  </channel>
   <channel id="DeporTV.ar@SD">
     <display-name>DeporTV (1080p)</display-name>
     <icon src="https://i.imgur.com/THk9ARS.png" />
@@ -11540,6 +11596,10 @@
     <display-name>Disney Channel (Hungary)</display-name>
     <icon src="https://i.imgur.com/aOa73uT.png" />
   </channel>
+  <channel id="DisneyChannel.jp@SD">
+    <display-name>Disney Channel (Japan)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" />
+  </channel>
   <channel id="DisneyChannel.nl@SD">
     <display-name>Disney Channel (Netherlands) (360p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
@@ -11621,7 +11681,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" />
   </channel>
   <channel id="DisneyJunior.us@East">
-    <display-name>Disney Junior (United States) (720p)</display-name>
+    <display-name>Disney Junior (United States) (480p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" />
   </channel>
   <channel id="DisneyXD.pl@SD">
@@ -12318,6 +12378,10 @@
   </channel>
   <channel id="EBCGeneralEducation.kh@SD">
     <display-name>EBC General Education (720p) [Not 24/7]</display-name>
+    <icon src="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" />
+  </channel>
+  <channel id="EBCLifelongLearning.kh@SD">
+    <display-name>EBC Lifelong Learning (720p)</display-name>
     <icon src="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" />
   </channel>
   <channel id="EBCNews.tw@SD">
@@ -13168,6 +13232,10 @@
     <display-name>ESPNU HD (720p)</display-name>
     <icon src="https://i.imgur.com/HiBrysh.png" />
   </channel>
+  <channel id="EspoirTV.cd@SD">
+    <display-name>Espoir TV (720p)</display-name>
+    <icon src="https://i.imgur.com/sBsAHqb.jpeg" />
+  </channel>
   <channel id="Esport3.es@SD">
     <display-name>Esport3 (1080p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" />
@@ -13964,10 +14032,6 @@
     <display-name>Fast1 (576p)</display-name>
     <icon src="https://papaji.freetvindia.com/media/channels/fast1.png" />
   </channel>
-  <channel id="FastSports.am@SD">
-    <display-name>Fast Sports (1080p)</display-name>
-    <icon src="https://i.imgur.com/VmaYUcq.png" />
-  </channel>
   <channel id="FastTV.us@SD">
     <display-name>Fast TV (720p)</display-name>
     <icon src="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" />
@@ -14552,9 +14616,17 @@
     <display-name>Formula 1 AntenaPlay (576i) [Not 24/7]</display-name>
     <icon src="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" />
   </channel>
+  <channel id="Formula2AntenaPlay.ro@SD">
+    <display-name>Formula 2 AntenaPlay (576i) [Not 24/7]</display-name>
+    <icon src="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" />
+  </channel>
   <channel id="Formula.ge@SD">
     <display-name>Formula (1080p)</display-name>
     <icon src="https://i.imgur.com/fsqBn8G.png" />
+  </channel>
+  <channel id="FormulaAcademyAntenaPlay.ro@SD">
+    <display-name>Formula Academy AntenaPlay (576p) [Not 24/7]</display-name>
+    <icon src="https://assets.antenaplay.ro/2024/02/28/1o8H6fCMh1DSC2vuLjo8.png" />
   </channel>
   <channel id="ForoTV.pe@SD">
     <display-name>Foro TV (576p)</display-name>
@@ -14745,7 +14817,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" />
   </channel>
   <channel id="France3.fr@CotedAzur">
-    <display-name>France 3 Cote d'Azur (1080p)</display-name>
+    <display-name>France 3 Cote d'Azur (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" />
   </channel>
   <channel id="France3.fr@Lorraine">
@@ -14928,6 +15000,10 @@
     <display-name>Fujairah TV (720p)</display-name>
     <icon src="https://i.imgur.com/D2tOhbE.png" />
   </channel>
+  <channel id="FujiTV.jp@JOCXDTV">
+    <display-name>Fuji TV [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/sEWDmMD.png" />
+  </channel>
   <channel id="FujianComprehensiveChannel.cn@SD">
     <display-name>Fujian Comprehensive Channel</display-name>
     <icon src="https://i.imgur.com/rePTGa6.png" />
@@ -14939,10 +15015,6 @@
   <channel id="FunVision.be@SD">
     <display-name>Fun Vision</display-name>
     <icon src="https://i.imgur.com/AhkKr7Y.png" />
-  </channel>
-  <channel id="FunBox.cl@SD">
-    <display-name>FunBox</display-name>
-    <icon src="https://i.imgur.com/9MXM6jD.png" />
   </channel>
   <channel id="FunBoxUHD.nl@SD">
     <display-name>FunBox UHD SD (720p)</display-name>
@@ -15960,6 +16032,10 @@
     <display-name>Guayape TV</display-name>
     <icon src="https://i.imgur.com/cteBdAJ.jpg" />
   </channel>
+  <channel id="GuaymateTV.do@SD">
+    <display-name>Guaymate TV (720p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/PBgQi9a.png" />
+  </channel>
   <channel id="GuberniaSamara.ru@SD">
     <display-name>Gubernia Samara (576p)</display-name>
     <icon src="https://i.imgur.com/IlL57Rm.png" />
@@ -16545,7 +16621,7 @@
     <icon src="https://i.imgur.com/k8a7KNn.png" />
   </channel>
   <channel id="HindiHits.in@SD">
-    <display-name>Hindi Hits (1080p)</display-name>
+    <display-name>Hindi Hits SD (1080p)</display-name>
     <icon src="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" />
   </channel>
   <channel id="HindiKhabar.in@SD">
@@ -16575,6 +16651,10 @@
   <channel id="HispanTV.ir@SD">
     <display-name>Hispan TV</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" />
+  </channel>
+  <channel id="HistoireTV.fr@SD">
+    <display-name>Histoire TV (720p)</display-name>
+    <icon src="https://i.imgur.com/hxuJXll.png" />
   </channel>
   <channel id="Historia.es@SD">
     <display-name>Historia (1080p)</display-name>
@@ -17796,6 +17876,10 @@
     <display-name>Informe TV (1080p) [Not 24/7]</display-name>
     <icon src="https://imgur.com/TmJaXrO.jpg" />
   </channel>
+  <channel id="InformerTV.rs@SD">
+    <display-name>Informer TV (720p)</display-name>
+    <icon src="https://i.imgur.com/9wdEHRf.png" />
+  </channel>
   <channel id="IngenioTV.mx@SD">
     <display-name>Ingenio TV (720p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/pAppH1M.png" />
@@ -18177,7 +18261,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png" />
   </channel>
   <channel id="Italia1.it@HD">
-    <display-name>Italia 1 HD</display-name>
+    <display-name>Italia 1 HD (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png" />
   </channel>
   <channel id="Italia2.it@SD">
@@ -18207,18 +18291,6 @@
   <channel id="ItelTVCanal2.ar@SD">
     <display-name>Itel TV Canal 2</display-name>
     <icon src="https://i.imgur.com/OxmpRDx.png" />
-  </channel>
-  <channel id="ITV2.uk@SD">
-    <display-name>ITV2 (360p)</display-name>
-    <icon src="https://i.imgur.com/2BpUK0W.png" />
-  </channel>
-  <channel id="ITV3.uk@SD">
-    <display-name>ITV3 (360p)</display-name>
-    <icon src="https://i.imgur.com/JuyM2z5.png" />
-  </channel>
-  <channel id="ITV4.uk@SD">
-    <display-name>ITV4 (360p)</display-name>
-    <icon src="https://i.imgur.com/DYI4IA2.png" />
   </channel>
   <channel id="ITV.ua@SD">
     <display-name>ITV (720p)</display-name>
@@ -18975,6 +19047,10 @@
   <channel id="Kanal7Avrupa.tr@SD">
     <display-name>Kanal 7 Avrupa (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/wlfyj5l.png" />
+  </channel>
+  <channel id="Kanal8.mk@HD">
+    <display-name>Kanal 8 (1080p)</display-name>
+    <icon src="https://i.imgur.com/Jpbqb3N.png" />
   </channel>
   <channel id="Kanal10Asia.se@SD">
     <display-name>Kanal 10 Asia (540p)</display-name>
@@ -21145,7 +21221,7 @@
     <icon src="https://i.imgur.com/7GVp3fW.png" />
   </channel>
   <channel id="M6Music.fr@SD">
-    <display-name>M6 Music</display-name>
+    <display-name>M6 Music (1080p)</display-name>
     <icon src="" />
   </channel>
   <channel id="M9TVRomania.ro@SD">
@@ -21500,6 +21576,10 @@
     <display-name>Mangalmay TV (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Mangalmaylive.png" />
   </channel>
+  <channel id="Mangas.fr@SD">
+    <display-name>Mangas (720p)</display-name>
+    <icon src="https://i.imgur.com/wmmEOza.png" />
+  </channel>
   <channel id="Mango.in@SD">
     <display-name>Mango (India) (576p)</display-name>
     <icon src="https://i.imgur.com/neZm4CY.png" />
@@ -21615,6 +21695,10 @@
   <channel id="MarkizaPlus1.sk@SD">
     <display-name>Markiza +1</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/e910de4c6891e918d2c52d6149fc9589.svg" />
+  </channel>
+  <channel id="MarkizaTNLive.sk@SD">
+    <display-name>Markiza TN Live</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/4/4e/TNLive2026.svg/revision/latest?cb=20261015062138" />
   </channel>
   <channel id="MarlaVision.do@SD">
     <display-name>Marla Vision (576p) [Not 24/7]</display-name>
@@ -22109,7 +22193,7 @@
     <icon src="https://i.imgur.com/BAaR5T5.png" />
   </channel>
   <channel id="MediasetExtra.it@SD">
-    <display-name>Mediaset Extra [Geo-blocked]</display-name>
+    <display-name>Mediaset Extra (540p)</display-name>
     <icon src="https://i.imgur.com/G51Lvah.png" />
   </channel>
   <channel id="MediasetItalia.it@SD">
@@ -22251,6 +22335,10 @@
   <channel id="MelRadioTV.ec@SD">
     <display-name>Mel Radio TV (360p)</display-name>
     <icon src="https://i.imgur.com/uu8Clh2.png" />
+  </channel>
+  <channel id="Melody.fr@SD">
+    <display-name>Melody (720p)</display-name>
+    <icon src="https://i.imgur.com/9GVyQ6x.png" />
   </channel>
   <channel id="MelodyFM.jo@SD">
     <display-name>Melody FM (720p) [Not 24/7]</display-name>
@@ -23064,6 +23152,10 @@
     <display-name>Motorvision (1080i)</display-name>
     <icon src="https://i.imgur.com/v4kj8pI.png" />
   </channel>
+  <channel id="MotorvisionPlus.de@SD">
+    <display-name>Motorvision+ (720p)</display-name>
+    <icon src="https://i.imgur.com/5cs5GkJ.png" />
+  </channel>
   <channel id="MovieBangla.bd@SD">
     <display-name>Movie Bangla</display-name>
     <icon src="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" />
@@ -23335,6 +23427,10 @@
   <channel id="MTV.in@HD">
     <display-name>MTV (India) HD (396p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" />
+  </channel>
+  <channel id="MTV.jp@SD">
+    <display-name>MTV (Japan)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" />
   </channel>
   <channel id="MTV.us@East">
     <display-name>MTV (United States) (1080p)</display-name>
@@ -23945,7 +24041,7 @@
     <icon src="https://i.imgur.com/HYgxPVQ.png" />
   </channel>
   <channel id="MyZenTV.fr@SD">
-    <display-name>MyZen TV (1080p)</display-name>
+    <display-name>MyZen TV (720p)</display-name>
     <icon src="https://i.imgur.com/fIi8o0C.png" />
   </channel>
   <channel id="N24Doku.de@SD">
@@ -24359,6 +24455,10 @@
   <channel id="NayaritComunica.mx@SD">
     <display-name>Nayarit Comunica (1080p)</display-name>
     <icon src="https://i.imgur.com/aZCTkjU.jpg" />
+  </channel>
+  <channel id="NBAAntenaPlay.ro@SD">
+    <display-name>NBA AntenaPlay (576p)</display-name>
+    <icon src="https://assets.antenaplay.ro/2024/10/25/HmBMStln2f1qwN0tAXpG.png" />
   </channel>
   <channel id="NBATV.us@SD">
     <display-name>NBA TV (720p)</display-name>
@@ -25185,7 +25285,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" />
   </channel>
   <channel id="NickJr.us@East">
-    <display-name>Nick Jr. (United States) (1080p)</display-name>
+    <display-name>Nick Jr. (United States) (720p)</display-name>
     <icon src="https://i.imgur.com/KT4tdQs.png" />
   </channel>
   <channel id="NickJrAsia.sg@SD">
@@ -25276,12 +25376,16 @@
     <display-name>Nickelodeon (Russia) (576p)</display-name>
     <icon src="https://i.imgur.com/w8iE8dV.png" />
   </channel>
+  <channel id="Nickelodeon.es@HD">
+    <display-name>Nickelodeon (Spain) HD</display-name>
+    <icon src="https://i.imgur.com/E84jnP8.png" />
+  </channel>
   <channel id="Nickelodeon.uk@SD">
     <display-name>Nickelodeon (United Kingdom)</display-name>
     <icon src="https://i.imgur.com/E84jnP8.png" />
   </channel>
   <channel id="Nickelodeon.us@East">
-    <display-name>Nickelodeon (United States) (1080p)</display-name>
+    <display-name>Nickelodeon (United States)</display-name>
     <icon src="https://i.imgur.com/E84jnP8.png" />
   </channel>
   <channel id="NickelodeonArabia.ae@SD">
@@ -25373,7 +25477,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" />
   </channel>
   <channel id="Nicktoons.us@East">
-    <display-name>Nicktoons (United States) (1080p)</display-name>
+    <display-name>Nicktoons (United States) (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" />
   </channel>
   <channel id="Nicktoons.us@CA">
@@ -25731,6 +25835,10 @@
   <channel id="NovorossiyaTV.ru@SD">
     <display-name>Novorossiya TV (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/ijmf0bV.png" />
+  </channel>
+  <channel id="NovosadskaTV.rs@SD">
+    <display-name>Novosadska TV (1080p)</display-name>
+    <icon src="https://i.imgur.com/s0SCAeV.png" />
   </channel>
   <channel id="NovyiChannel.ua@SD">
     <display-name>Novyi Channel (1080p)</display-name>
@@ -26609,7 +26717,7 @@
     <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab17%20-%20ON%20Trending%20TV.png" />
   </channel>
   <channel id="ONVFamily.vn@SD">
-    <display-name>ON V Family (480p)</display-name>
+    <display-name>ON VFamily (480p)</display-name>
     <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png" />
   </channel>
   <channel id="ONVieDramas.vn@SD">
@@ -27239,6 +27347,10 @@
   <channel id="PardesiTV.ca@SD">
     <display-name>Pardesi TV (720p)</display-name>
     <icon src="https://i.imgur.com/CwAdPpZ.jpg" />
+  </channel>
+  <channel id="ParisPremiere.fr@SD">
+    <display-name>Paris Premiere (720p)</display-name>
+    <icon src="https://i.imgur.com/ily4bEm.png" />
   </channel>
   <channel id="ParlamentodeAndalucia.es@SD">
     <display-name>Parlamento de Andalucia (576p) [Not 24/7]</display-name>
@@ -29480,6 +29592,10 @@
     <display-name>Polonia 1 (576i)</display-name>
     <icon src="https://i.imgur.com/4TVDMGD.png" />
   </channel>
+  <channel id="Polsat1.pl@SD">
+    <display-name>Polsat 1 [Not 24/7]</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png" />
+  </channel>
   <channel id="Polsat2.pl@SD">
     <display-name>Polsat 2 (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/960px-Polsat_2_2021_gradient.svg.png" />
@@ -29835,6 +29951,18 @@
   <channel id="PrimaSK.sk@HD">
     <display-name>Prima SK</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/f/fc/PRIMA_SK_logo_RGB.png" />
+  </channel>
+  <channel id="PrimaSport2.ro@HD">
+    <display-name>Prima Sport 2 HD</display-name>
+    <icon src="https://i.imgur.com/hROcepe.png" />
+  </channel>
+  <channel id="PrimaSport3.ro@HD">
+    <display-name>Prima Sport 3 HD</display-name>
+    <icon src="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" />
+  </channel>
+  <channel id="PrimaSport4.ro@HD">
+    <display-name>Prima Sport 4 HD</display-name>
+    <icon src="https://i.imgur.com/lqaIIhc.png" />
   </channel>
   <channel id="PrimaSportCzechia.cz@SD">
     <display-name>Prima Sport Czechia</display-name>
@@ -31192,6 +31320,10 @@
     <display-name>Rai 1 (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" />
   </channel>
+  <channel id="Rai1.it@HD">
+    <display-name>Rai 1 HD (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" />
+  </channel>
   <channel id="Rai2.it@SD">
     <display-name>Rai 2 (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" />
@@ -32105,7 +32237,7 @@
     <icon src="https://i.imgur.com/IncyJW8.png" />
   </channel>
   <channel id="Rete4.it@HD">
-    <display-name>Rete 4 HD</display-name>
+    <display-name>Rete 4 HD (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png" />
   </channel>
   <channel id="Rete8.it@SD">
@@ -32716,6 +32848,10 @@
     <display-name>RTK 3 (1080p)</display-name>
     <icon src="https://i.imgur.com/Ut9VcT3.png" />
   </channel>
+  <channel id="RTL9.lu@SD">
+    <display-name>RTL9 (720p)</display-name>
+    <icon src="https://i.imgur.com/nFqjVNW.png" />
+  </channel>
   <channel id="RTL1025Best.it@SD">
     <display-name>RTL 102.5 Best (1080p)</display-name>
     <icon src="https://i.imgur.com/9PNlbaq.png" />
@@ -32885,7 +33021,7 @@
     <icon src="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png" />
   </channel>
   <channel id="RTPMundo.pt@SD">
-    <display-name>RTP Mundo (504p) [Not 24/7]</display-name>
+    <display-name>RTP Mundo (576p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/1920px-RTP_Mundo.svg.png" />
   </channel>
   <channel id="RTPNoticias.pt@HD">
@@ -32929,8 +33065,12 @@
     <icon src="https://i.imgur.com/dvP2yqB.png" />
   </channel>
   <channel id="RTS1.rs@SD">
-    <display-name>RTS 1</display-name>
+    <display-name>RTS 1 (Serbia)</display-name>
     <icon src="https://i.imgur.com/S1pKHSR.png" />
+  </channel>
+  <channel id="RTS1.ch@SD">
+    <display-name>RTS 1 (Switzerland) (720p)</display-name>
+    <icon src="https://i.imgur.com/OP5lHv9.png" />
   </channel>
   <channel id="RTS2.rs@SD">
     <display-name>RTS 2 (1080p)</display-name>
@@ -33584,6 +33724,10 @@
     <display-name>Sakshi TV (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAKSHI_TV/images/LOGO_HD/image.png" />
   </channel>
+  <channel id="SakuranboTV.jp@JOCYDTV">
+    <display-name>Sakuranbo TV (1080i)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/a/a8/SAY_logo_1997.svg" />
+  </channel>
   <channel id="SalaamTV.in@SD">
     <display-name>Salaam TV (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s144466_ld_h15_aa.png?lock=720x540" />
@@ -34032,6 +34176,10 @@
     <display-name>Sci Fi (Serbia)</display-name>
     <icon src="https://i.imgur.com/FPumwfg.png" />
   </channel>
+  <channel id="ScienceVieTV.fr@SD">
+    <display-name>Science & Vie TV (720p)</display-name>
+    <icon src="https://i.imgur.com/9ELsSMI.png" />
+  </channel>
   <channel id="ScientologyNetwork.us@SD">
     <display-name>Scientology Network (1080p)</display-name>
     <icon src="https://i.imgur.com/HOYF8NA.png" />
@@ -34275,6 +34423,10 @@
   <channel id="SercemTV.tr@HD">
     <display-name>Sercem TV (1080p)</display-name>
     <icon src="https://sercemtv.com.tr/sercemlogo.jpg" />
+  </channel>
+  <channel id="SerieClub.fr@SD">
+    <display-name>Serie Club (720p)</display-name>
+    <icon src="https://i.imgur.com/V8wRRg5.png" />
   </channel>
   <channel id="SerieMax.ci@SD">
     <display-name>Serie Max (720p)</display-name>
@@ -35080,6 +35232,10 @@
     <display-name>Smart Radio (576p)</display-name>
     <icon src="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" />
   </channel>
+  <channel id="SmashRadioTT.tt@HD">
+    <display-name>Smash Radio TT (720p)</display-name>
+    <icon src="https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png" />
+  </channel>
   <channel id="SmashTV.mt@SD">
     <display-name>Smash TV (720p)</display-name>
     <icon src="https://i.imgur.com/Yg6ZWKu.png" />
@@ -35761,12 +35917,16 @@
     <icon src="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" />
   </channel>
   <channel id="Sport1.cz@SD">
-    <display-name>Sport1</display-name>
+    <display-name>Sport1 (Czech Republic)</display-name>
     <icon src="https://i.imgur.com/X5X3tKC.png" />
   </channel>
   <channel id="Sport1.cz@HD">
-    <display-name>Sport1 HD</display-name>
+    <display-name>Sport1 (Czech Republic) HD</display-name>
     <icon src="https://i.imgur.com/X5X3tKC.png" />
+  </channel>
+  <channel id="Sport1.de@SD">
+    <display-name>Sport1 (Germany) (540p)</display-name>
+    <icon src="https://i.imgur.com/Tsjt7v9.png" />
   </channel>
   <channel id="Sport1.hu@SD">
     <display-name>Sport 1 (Hungary)</display-name>
@@ -35924,6 +36084,10 @@
     <display-name>SQCS Canal 4 (1080p)</display-name>
     <icon src="https://i.imgur.com/qnx8nBP.png" />
   </channel>
+  <channel id="Squirrel.es@SD">
+    <display-name>Squirrel (576p)</display-name>
+    <icon src="https://i.imgur.com/9y8VcBr.png" />
+  </channel>
   <channel id="SRFernsehen.de@SD">
     <display-name>SR Fernsehen (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/960px-SR_Fernsehen_Logo_2023.svg.png" />
@@ -35935,6 +36099,10 @@
   <channel id="SRF.de@SD">
     <display-name>SRF (1080p)</display-name>
     <icon src="https://i.imgur.com/92XNBmr.png" />
+  </channel>
+  <channel id="SRFinfo.ch@SD">
+    <display-name>SRF info (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_SRF_info.svg/960px-Logo_SRF_info.svg.png" />
   </channel>
   <channel id="SriwijayaTV.id@SD">
     <display-name>Sriwijaya TV (720p) [Not 24/7]</display-name>
@@ -38145,7 +38313,7 @@
     <icon src="https://i.imgur.com/dPAPLsd.png" />
   </channel>
   <channel id="TelenewsTV.do@SD">
-    <display-name>Telenews TV</display-name>
+    <display-name>Telenews TV (1080p)</display-name>
     <icon src="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" />
   </channel>
   <channel id="Telenord8.do@SD">
@@ -38484,6 +38652,10 @@
     <display-name>Televizija 5 (576p)</display-name>
     <icon src="https://i.imgur.com/znpvJys.png" />
   </channel>
+  <channel id="TelevizijaE.me@HD">
+    <display-name>Televizija E (720p)</display-name>
+    <icon src="https://i.imgur.com/3bGB7rm.png" />
+  </channel>
   <channel id="TelevizijaM.ba@SD">
     <display-name>Televizija M (1080p)</display-name>
     <icon src="https://i.imgur.com/jT95ZEI.png" />
@@ -38612,6 +38784,10 @@
     <display-name>TET (1080p)</display-name>
     <icon src="https://i.imgur.com/Wu6wtbe.png" />
   </channel>
+  <channel id="Teva.fr@SD">
+    <display-name>Teva (720p)</display-name>
+    <icon src="https://i.imgur.com/kDW0hN5.png" />
+  </channel>
   <channel id="TeveEmpresa.pe@SD">
     <display-name>Teve Empresa (720p)</display-name>
     <icon src="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png" />
@@ -38635,6 +38811,10 @@
   <channel id="TezaurTV.md@SD">
     <display-name>Tezaur TV (576i)</display-name>
     <icon src="https://i.imgur.com/eAagwLW.png" />
+  </channel>
+  <channel id="TF1.fr@SD">
+    <display-name>TF1</display-name>
+    <icon src="https://i.imgur.com/QxHt9NC.png" />
   </channel>
   <channel id="TF1SeriesFilms.fr@SD">
     <display-name>TF1 Series Films (1080p)</display-name>
@@ -39396,6 +39576,10 @@
     <display-name>TMA (1080p)</display-name>
     <icon src="https://i.imgur.com/1iOAl2j.png" />
   </channel>
+  <channel id="TMC.fr@SD">
+    <display-name>TMC (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" />
+  </channel>
   <channel id="TMC.fr@HD">
     <display-name>TMC HD (1080p) [Geo-blocked]</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" />
@@ -39848,6 +40032,10 @@
     <display-name>Tout le monde deteste Chris</display-name>
     <icon src="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoPNG_1747394750060.png" />
   </channel>
+  <channel id="ToutelHistoire.fr@SD">
+    <display-name>Toute l'Histoire (720p)</display-name>
+    <icon src="https://i.imgur.com/xRfyQYn.png" />
+  </channel>
   <channel id="TownTV.kh@SD">
     <display-name>Town TV</display-name>
     <icon src="https://i.imgur.com/9fUGvVG.png" />
@@ -40257,7 +40445,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" />
   </channel>
   <channel id="True4U.th@SD">
-    <display-name>True4U (576p)</display-name>
+    <display-name>True4U (720p)</display-name>
     <icon src="https://i.imgur.com/O6Xre1O.png" />
   </channel>
   <channel id="TrueCrime.uk@SD">
@@ -40589,7 +40777,7 @@
     <icon src="https://i.imgur.com/rPAbMSu.png" />
   </channel>
   <channel id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD">
-    <display-name>TV5Monde France Belgium Switzerland Monaco (1080p) [Geo-blocked]</display-name>
+    <display-name>TV5Monde France Belgium Switzerland Monaco (720p)</display-name>
     <icon src="https://i.imgur.com/WmRbudc.png" />
   </channel>
   <channel id="TV5MondeInfo.fr@SD">
@@ -40880,6 +41068,10 @@
     <display-name>TV AS</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" />
   </channel>
+  <channel id="TVAsahi.jp@JOEXDTV">
+    <display-name>TV Asahi [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/YCqB5Kj.png" />
+  </channel>
   <channel id="TVAssembleiaCeara.br@SD">
     <display-name>TV Assembleia Ceara (720p)</display-name>
     <icon src="https://i.imgur.com/UPa1tjs.png" />
@@ -40927,6 +41119,10 @@
   <channel id="TVBrasilOeste.br@SD">
     <display-name>TV Brasil Oeste (720p)</display-name>
     <icon src="https://i.imgur.com/noqGfuy.png" />
+  </channel>
+  <channel id="TVBreizh.fr@SD">
+    <display-name>TV Breizh (720p)</display-name>
+    <icon src="https://i.imgur.com/O8W4yhn.png" />
   </channel>
   <channel id="TVBrezova.sk@SD">
     <display-name>TV Brezova (540p)</display-name>
@@ -41340,6 +41536,10 @@
     <display-name>TV Keszthely (360p)</display-name>
     <icon src="https://i.imgur.com/2LE8xSW.png" />
   </channel>
+  <channel id="TVKragujevac.rs@SD">
+    <display-name>TV Kragujevac (576p)</display-name>
+    <icon src="https://i.imgur.com/j0UMFNs.png" />
+  </channel>
   <channel id="TVKujawy.pl@SD">
     <display-name>TV Kujawy (576p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/dGP7cIW.png" />
@@ -41544,9 +41744,9 @@
     <display-name>TV Natal (1080p)</display-name>
     <icon src="https://i.imgur.com/wqQmQml.png" />
   </channel>
-  <channel id="TVNiksic.me@SD">
+  <channel id="TVNiksic.me@HD">
     <display-name>TV Niksic (720p)</display-name>
-    <icon src="https://i.imgur.com/51fGwzn.png" />
+    <icon src="https://rtnk.me/wp-content/uploads/2023/03/RTNK-logo.png" />
   </channel>
   <channel id="TVNitricka.sk@SD">
     <display-name>TV Nitricka</display-name>
@@ -41868,6 +42068,10 @@
     <display-name>TV Slon Extra (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/AohYgH1.png" />
   </channel>
+  <channel id="TVSmederevo.rs@SD">
+    <display-name>TV Smederevo (360p)</display-name>
+    <icon src="https://i.imgur.com/TkTqpzp.png" />
+  </channel>
   <channel id="TVSolComunidade.br@SD">
     <display-name>TV Sol Comunidade (480p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/5cGnb4r.png" />
@@ -41928,8 +42132,8 @@
     <display-name>TV Terceiro Anjo (360p)</display-name>
     <icon src="https://i.imgur.com/PExKWNv.png" />
   </channel>
-  <channel id="TVTeuta.me@SD">
-    <display-name>TV Teuta</display-name>
+  <channel id="TVTeuta.me@HD">
+    <display-name>TV Teuta (720p)</display-name>
     <icon src="https://i.imgur.com/sWVqBuW.png" />
   </channel>
   <channel id="TVThathi.br@SD">
@@ -42192,19 +42396,19 @@
     <display-name>TVCentro Andalucia (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/xQAzYOD.png" />
   </channel>
-  <channel id="TVCG1.me@SD">
+  <channel id="TVCG1.me@HD">
     <display-name>TVCG 1 (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/QORHrXu.png" />
   </channel>
-  <channel id="TVCG2.me@SD">
+  <channel id="TVCG2.me@HD">
     <display-name>TVCG 2 (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/WECmUKH.png" />
   </channel>
-  <channel id="TVCG3.me@SD">
+  <channel id="TVCG3.me@HD">
     <display-name>TVCG 3 (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/0ZT3Bc2.png" />
   </channel>
-  <channel id="TVCGMNE.me@SD">
+  <channel id="TVCGMNE.me@HD">
     <display-name>TVCG MNE (1080p)</display-name>
     <icon src="https://i.imgur.com/pf8VEwf.png" />
   </channel>
@@ -42424,6 +42628,10 @@
     <display-name>TVN (Panama) (720p)</display-name>
     <icon src="https://i.imgur.com/tGeHwxd.png" />
   </channel>
+  <channel id="TVN.pl@SD">
+    <display-name>TVN (Poland) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/PeUsth6.png" />
+  </channel>
   <channel id="TVNBN.br@SD">
     <display-name>TVNBN (720p)</display-name>
     <icon src="https://i.imgur.com/zoHBxn1.png" />
@@ -42517,7 +42725,7 @@
     <icon src="https://i.imgur.com/uX1S3kt.png" />
   </channel>
   <channel id="TVPPolonia.pl@SD">
-    <display-name>TVP Polonia</display-name>
+    <display-name>TVP Polonia (576p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" />
   </channel>
   <channel id="TVPRozrywka.pl@SD">
@@ -43460,6 +43668,10 @@
     <display-name>Usadba (576p)</display-name>
     <icon src="https://i.imgur.com/mf13haG.png" />
   </channel>
+  <channel id="UshuaiaTV.fr@SD">
+    <display-name>Ushuaia TV (720p)</display-name>
+    <icon src="https://i.imgur.com/WjjlqbP.png" />
+  </channel>
   <channel id="USMTV.id@SD">
     <display-name>USM TV (1080p)</display-name>
     <icon src="https://usmtv.id/wp-content/uploads/2024/01/logo-large-1.png" />
@@ -43631,6 +43843,10 @@
   <channel id="VatiLao.la@SD">
     <display-name>Vati Lao (720p)</display-name>
     <icon src="https://i.imgur.com/NwxXABV.png" />
+  </channel>
+  <channel id="VaticanMedia.va@SD">
+    <display-name>Vatican Media (720p)</display-name>
+    <icon src="https://i.imgur.com/9cUUx8H.png" />
   </channel>
   <channel id="VavTV.tr@SD">
     <display-name>Vav TV (1080p)</display-name>
@@ -43857,7 +44073,7 @@
     <icon src="https://i.imgur.com/aJ4XExn.png" />
   </channel>
   <channel id="ViaTelevision.pe@SD">
-    <display-name>Via Television [Not 24/7]</display-name>
+    <display-name>Via Television (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/FiptbGQ.png" />
   </channel>
   <channel id="VIATV.sk@SD">
@@ -44129,7 +44345,7 @@
     <icon src="https://vilayet.tv/wp-content/uploads/elementor/thumbs/logo-q3w2md1u47q39x7d0004wqzz74xdv1glw356ex6ph0.png" />
   </channel>
   <channel id="VillaAltagraciaTV.do@SD">
-    <display-name>Villa Altagracia TV (1080p) [Not 24/7]</display-name>
+    <display-name>Villa Altagracia TV (1080p)</display-name>
     <icon src="https://i.imgur.com/uQAeKKa.png" />
   </channel>
   <channel id="VillaElisaRadioTV.py@SD">
@@ -44609,7 +44825,7 @@
     <icon src="https://i.imgur.com/4Wwptd3.png" />
   </channel>
   <channel id="W9.fr@SD">
-    <display-name>W9 (1086p)</display-name>
+    <display-name>W9 (1080p)</display-name>
     <icon src="https://i.imgur.com/reYeMuE.png" />
   </channel>
   <channel id="W14DKD141.us@HD">
@@ -45552,6 +45768,10 @@
     <display-name>YTN (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/960px-YTN_logo_2014.svg.png" />
   </channel>
+  <channel id="YTSYamagataTV.jp@JOYIDTV">
+    <display-name>YTS Yamagata TV (1080i)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/e/ec/YTS2024.svg" />
+  </channel>
   <channel id="YuGiOh.us@SD">
     <display-name>Yu-Gi-Oh! (1080p)</display-name>
     <icon src="https://i.imgur.com/Tl6aW2u.png" />
@@ -45672,12 +45892,16 @@
     <display-name>ZDF</display-name>
     <icon src="https://i.imgur.com/rtLb6m9.png" />
   </channel>
+  <channel id="ZDF.de@HD">
+    <display-name>ZDF HD (540p)</display-name>
+    <icon src="https://i.imgur.com/rtLb6m9.png" />
+  </channel>
   <channel id="ZDFinfo.de@SD">
-    <display-name>ZDFinfo (720p) [Geo-blocked]</display-name>
+    <display-name>ZDFinfo (720p)</display-name>
     <icon src="https://i.imgur.com/vtq1IWp.png" />
   </channel>
   <channel id="ZDFneo.de@SD">
-    <display-name>ZDFneo (720p)</display-name>
+    <display-name>ZDFneo (1080p)</display-name>
     <icon src="https://i.imgur.com/1JIIGgL.png" />
   </channel>
   <channel id="ZdorovoeTV.ru@SD">
