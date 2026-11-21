@@ -760,37 +760,9 @@
     <display-name>90210</display-name>
     <icon src="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" />
   </channel>
-  <channel id="OPA.cr@SD">
-    <display-name>¡OPA! (720p)</display-name>
-    <icon src="https://i.imgur.com/300c1ZH.png" />
-  </channel>
-  <channel id="VivaLatino.ua@SD">
-    <display-name>¡Viva Latino! (1080p)</display-name>
-    <icon src="https://i.imgur.com/KRakHAq.png" />
-  </channel>
-  <channel id="Andpictures.in@HD">
-    <display-name>&pictures HD (1080p)</display-name>
-    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" />
-  </channel>
-  <channel id="AndTV.in@HD">
-    <display-name>&TV HD (1080p)</display-name>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" />
-  </channel>
   <channel id="AndTV.in@International">
     <display-name>&TV International (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" />
-  </channel>
-  <channel id="AndxplorHD.in@HD">
-    <display-name>&xplor HD (1080p)</display-name>
-    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" />
-  </channel>
-  <channel id="PlusMaisUm.br@HD">
-    <display-name>+MaisUm (720p)</display-name>
-    <icon src="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" />
-  </channel>
-  <channel id="PlusTV.by@SD">
-    <display-name>+TV (576p) [Geo-blocked]</display-name>
-    <icon src="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" />
   </channel>
   <channel id="black.ru@SD">
     <display-name>.black (576p)</display-name>
@@ -815,6 +787,34 @@
   <channel id="24.sk@SD">
     <display-name>:24 (1080p)</display-name>
     <icon src="https://i.imgur.com/tTCuczU.png" />
+  </channel>
+  <channel id="OPA.cr@SD">
+    <display-name>¡OPA! (720p)</display-name>
+    <icon src="https://i.imgur.com/300c1ZH.png" />
+  </channel>
+  <channel id="VivaLatino.ua@SD">
+    <display-name>¡Viva Latino! (1080p)</display-name>
+    <icon src="https://i.imgur.com/KRakHAq.png" />
+  </channel>
+  <channel id="Andpictures.in@HD">
+    <display-name>&pictures HD (1080p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" />
+  </channel>
+  <channel id="AndTV.in@HD">
+    <display-name>&TV HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" />
+  </channel>
+  <channel id="AndxplorHD.in@HD">
+    <display-name>&xplor HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" />
+  </channel>
+  <channel id="PlusMaisUm.br@HD">
+    <display-name>+MaisUm (720p)</display-name>
+    <icon src="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" />
+  </channel>
+  <channel id="PlusTV.by@SD">
+    <display-name>+TV (576p) [Geo-blocked]</display-name>
+    <icon src="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp" />
   </channel>
   <channel id="A1.ru@SD">
     <display-name>A1 (576p)</display-name>
@@ -1543,18 +1543,6 @@
   <channel id="AdriaMusicTelevision.de@SD">
     <display-name>Adria Music Television</display-name>
     <icon src="https://i.imgur.com/QoDpnKg.png" />
-  </channel>
-  <channel id="AdriaticSport1.ba@SD">
-    <display-name>Adriatic Sport 1</display-name>
-    <icon src="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-1.png" />
-  </channel>
-  <channel id="AdriaticSport2.ba@SD">
-    <display-name>Adriatic Sport 2</display-name>
-    <icon src="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-2.png" />
-  </channel>
-  <channel id="AdriaticSport3.ba@SD">
-    <display-name>Adriatic Sport 3</display-name>
-    <icon src="https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-3.png" />
   </channel>
   <channel id="AdultSwim.us@West">
     <display-name>Adult Swim West [Not 24/7;Geo-blocked]</display-name>
@@ -3120,10 +3108,6 @@
     <display-name>AP TV (720p)</display-name>
     <icon src="https://i.imgur.com/Oky18bX.png" />
   </channel>
-  <channel id="APATv.az@SD">
-    <display-name>APA Tv</display-name>
-    <icon src="https://i.imgur.com/2CSW4V4.png" />
-  </channel>
   <channel id="apartTV.lu@SD">
     <display-name>apart TV (1080p)</display-name>
     <icon src="https://i.imgur.com/IBcMIcZ.png" />
@@ -3137,8 +3121,12 @@
     <icon src="https://i.imgur.com/ICSA4W6.png" />
   </channel>
   <channel id="ApnaPunjabTV.ca@SD">
-    <display-name>Apna Punjab TV (720p)</display-name>
+    <display-name>Apna Punjab TV (Canada) (720p)</display-name>
     <icon src="https://i.imgur.com/IM4D8Wz.png" />
+  </channel>
+  <channel id="ApnaPunjabTV.in@SD">
+    <display-name>Apna Punjab TV (India) (576p)</display-name>
+    <icon src="https://www.apnapunjab.tv/images/logo.png" />
   </channel>
   <channel id="ApostolTV.hu@SD">
     <display-name>Apostol TV (576p)</display-name>
@@ -3207,6 +3195,10 @@
   <channel id="AraxTV.ir@SD">
     <display-name>Arax TV</display-name>
     <icon src="" />
+  </channel>
+  <channel id="ARB24.az@SD">
+    <display-name>ARB 24</display-name>
+    <icon src="https://i.imgur.com/mtvIFyq.png" />
   </channel>
   <channel id="ArboldeVidaTV.sv@SD">
     <display-name>Arbol de Vida TV (240p) [Not 24/7]</display-name>
@@ -3660,6 +3652,10 @@
     <display-name>Atlas (480p)</display-name>
     <icon src="https://whiplash.cc/assets/img/channels/atlas.png" />
   </channel>
+  <channel id="ATMRozrywkaREWORK.pl@HD">
+    <display-name>ATM Rozrywka REWORK (1080p)</display-name>
+    <icon src="https://i.ibb.co/B5BfmQNs/ATM.jpg" />
+  </channel>
   <channel id="ATNBangla.bd@SD">
     <display-name>ATN Bangla (720p)</display-name>
     <icon src="https://i.imgur.com/K1HmMRz.png" />
@@ -3977,7 +3973,7 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
   <channel id="AXN.es@SD">
-    <display-name>AXN (Spain)</display-name>
+    <display-name>AXN (Spain) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
   <channel id="AXN.es@HD">
@@ -4053,12 +4049,8 @@
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
   </channel>
   <channel id="AXNMovies.pt@SD">
-    <display-name>AXN Movies (Portugal) (720p)</display-name>
+    <display-name>AXN Movies (720p)</display-name>
     <icon src="https://i.imgur.com/tJQckal.png" />
-  </channel>
-  <channel id="AXNMovies.es@SD">
-    <display-name>AXN Movies (Spain)</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512" />
   </channel>
   <channel id="AXNPoland.pl@SD">
     <display-name>AXN Poland (1080p)</display-name>
@@ -4933,7 +4925,7 @@
     <icon src="https://i.imgur.com/Vtk2cGI.png" />
   </channel>
   <channel id="beINSports1Turk.tr@SD">
-    <display-name>beIN Sports 1 Turk</display-name>
+    <display-name>beIN Sports 1 Turk (1080p)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" />
   </channel>
   <channel id="beINSportsUSA.us@SD">
@@ -5120,20 +5112,8 @@
     <display-name>Best of Paradise Hotel: Skolveckan</display-name>
     <icon src="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png" />
   </channel>
-  <channel id="BestofTheDrewBarrymoreShow.se@SE">
-    <display-name>Best of The Drew Barrymore Show (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" />
-  </channel>
-  <channel id="BestofTheDrewBarrymoreShow.se@DK">
-    <display-name>Best of The Drew Barrymore Show (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" />
-  </channel>
-  <channel id="BestofTheDrewBarrymoreShow.se@NO">
-    <display-name>Best of The Drew Barrymore Show (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" />
-  </channel>
   <channel id="BestofTheDrewBarrymoreShow.us@CA">
-    <display-name>Best of The Drew Barrymore Show (United States)</display-name>
+    <display-name>Best of The Drew Barrymore Show</display-name>
     <icon src="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" />
   </channel>
   <channel id="BestTV.gr@SD">
@@ -5808,20 +5788,8 @@
     <display-name>Bonches Latinos TV (720p)</display-name>
     <icon src="https://i.imgur.com/Kp8x0NS.png" />
   </channel>
-  <channel id="BondiRescue.se@SE">
-    <display-name>Bondi Rescue (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" />
-  </channel>
-  <channel id="BondiRescue.se@DK">
-    <display-name>Bondi Rescue (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" />
-  </channel>
-  <channel id="BondiRescue.se@NO">
-    <display-name>Bondi Rescue (Sweden) NO (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" />
-  </channel>
   <channel id="BondiRescue.us@CA">
-    <display-name>Bondi Rescue (United States) (720p)</display-name>
+    <display-name>Bondi Rescue (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" />
   </channel>
   <channel id="BoogleBollywood.in@SD">
@@ -5834,10 +5802,6 @@
   </channel>
   <channel id="Boomerang.fr@HD">
     <display-name>Boomerang (France) HD (720p)</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" />
-  </channel>
-  <channel id="Boomerang.it@SD">
-    <display-name>Boomerang (Italy)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png" />
   </channel>
   <channel id="Boomerang.th@SD">
@@ -6311,6 +6275,10 @@
   <channel id="CStar.fr@SD">
     <display-name>C Star (720p)</display-name>
     <icon src="https://i.imgur.com/w4kAX1V.png" />
+  </channel>
+  <channel id="C10.in@SD">
+    <display-name>C-10 (576p)</display-name>
+    <icon src="https://papaji.freetvindia.com/media/channels/C-10.png" />
   </channel>
   <channel id="CaMauTV.vn@SD">
     <display-name>Ca Mau TV (720p) [Geo-blocked]</display-name>
@@ -7232,6 +7200,10 @@
     <display-name>Canal ISB (720p)</display-name>
     <icon src="https://i.imgur.com/cQ4ggTw.png" />
   </channel>
+  <channel id="CanalJ.fr@SD">
+    <display-name>Canal J (1080p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png" />
+  </channel>
   <channel id="CanalLatino54.cl@SD">
     <display-name>Canal Latino 54 (360p)</display-name>
     <icon src="https://i.imgur.com/mKUQoX7.png" />
@@ -7500,25 +7472,13 @@
     <display-name>Canal+ Kuchnia (576i)</display-name>
     <icon src="https://i.imgur.com/d1JTJBl.png" />
   </channel>
-  <channel id="CanalPlusSport2.pl@SD">
-    <display-name>Canal+ Sport 2</display-name>
-    <icon src="https://i.imgur.com/Aq2hnUj.png" />
-  </channel>
   <channel id="CanalPlusSport2SK.sk@SD">
     <display-name>Canal+ Sport 2 SK</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739" />
   </channel>
-  <channel id="CanalPlusSport3.pl@SD">
-    <display-name>Canal+ Sport 3</display-name>
-    <icon src="https://i.imgur.com/QZwPFa8.png" />
-  </channel>
   <channel id="CanalPlusSport3SK.sk@SD">
     <display-name>Canal+ Sport 3 SK</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810" />
-  </channel>
-  <channel id="CanalPlusSport4.pl@SD">
-    <display-name>Canal+ Sport 4</display-name>
-    <icon src="https://i.imgur.com/BNAPYAx.png" />
   </channel>
   <channel id="CanalPlusSport4SK.sk@SD">
     <display-name>Canal+ Sport 4 SK</display-name>
@@ -7541,12 +7501,8 @@
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal%2B_Sport_8.svg/revision/latest?cb=20251106141257" />
   </channel>
   <channel id="CanalPlusSport.fr@SD">
-    <display-name>Canal+ Sport (France) (1080p) [Geo-blocked]</display-name>
+    <display-name>Canal+ Sport (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/EOXnU15.png" />
-  </channel>
-  <channel id="CanalPlusSport.pl@SD">
-    <display-name>Canal+ Sport (Poland)</display-name>
-    <icon src="https://i.imgur.com/E0WTMa2.png" />
   </channel>
   <channel id="CanalPlusSportSK.sk@SD">
     <display-name>Canal+ Sport SK</display-name>
@@ -7656,20 +7612,8 @@
     <display-name>Capuchin TV</display-name>
     <icon src="https://i.imgur.com/VCDSjX7.png" />
   </channel>
-  <channel id="CarChase.se@SE">
-    <display-name>Car Chase (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" />
-  </channel>
-  <channel id="CarChase.se@DK">
-    <display-name>Car Chase (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" />
-  </channel>
-  <channel id="CarChase.se@NO">
-    <display-name>Car Chase (Sweden) NO (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" />
-  </channel>
   <channel id="CarChase.us@SD">
-    <display-name>Car Chase (United States) (720p)</display-name>
+    <display-name>Car Chase (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png" />
   </channel>
   <channel id="CarCityAdventures.pl@SD">
@@ -7858,6 +7802,10 @@
   </channel>
   <channel id="CartoonNetworkLatinAmerica.us@SouthPacific">
     <display-name>Cartoon Network Latin America South Pacific (576p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
+  </channel>
+  <channel id="CartoonNetworkWesternEurope.uk@Portugal">
+    <display-name>Cartoon Network Western Europe Portugal (576p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" />
   </channel>
   <channel id="Cartoonito.it@HD">
@@ -8860,12 +8808,8 @@
     <display-name>Cheddar News (1080p)</display-name>
     <icon src="https://i.imgur.com/tuP9GW8.png" />
   </channel>
-  <channel id="Cheers.se@NO">
-    <display-name>Cheers (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png" />
-  </channel>
   <channel id="Cheers.us@CA">
-    <display-name>Cheers (United States)</display-name>
+    <display-name>Cheers</display-name>
     <icon src="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" />
   </channel>
   <channel id="CheersPlusFrasier.us@SD">
@@ -9153,7 +9097,7 @@
     <icon src="https://i.imgur.com/SAtdShq.png" />
   </channel>
   <channel id="CinePlusClassic.fr@SD">
-    <display-name>Cine+ Classic</display-name>
+    <display-name>Cine+ Classic (1080p)</display-name>
     <icon src="https://i.imgur.com/y2zeLS3.jpeg" />
   </channel>
   <channel id="CinePlusFrisson.fr@SD">
@@ -10428,12 +10372,8 @@
     <display-name>CSat TV (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/fp2EaLJ.png" />
   </channel>
-  <channel id="CSI.se@DK">
-    <display-name>CSI (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" />
-  </channel>
   <channel id="CSI.us@SD">
-    <display-name>CSI (United States)</display-name>
+    <display-name>CSI</display-name>
     <icon src="https://i.imgur.com/xLLNEfA.png" />
   </channel>
   <channel id="CSIenespanol.us@SD">
@@ -10708,12 +10648,8 @@
     <display-name>Da Nang TV2 (1080p) [Not 24/7]</display-name>
     <icon src="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/DRT%20-%20Da%20Nang%20TV/DRT2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20%E2%80%A2%20B%E1%BA%A3n%202.png" />
   </channel>
-  <channel id="DaVinci.pl@SD">
-    <display-name>Da Vinci (Poland) (576p)</display-name>
-    <icon src="https://i.imgur.com/V8AUJP6.png" />
-  </channel>
   <channel id="DaVinci.ru@SD">
-    <display-name>Da Vinci (Russia) (576p)</display-name>
+    <display-name>Da Vinci (576p)</display-name>
     <icon src="https://i.imgur.com/V8AUJP6.png" />
   </channel>
   <channel id="DaVinciAsia.de@Vietnam">
@@ -11444,18 +11380,6 @@
     <display-name>Diadora TV (720p)</display-name>
     <icon src="https://i.imgur.com/qZzsASl.png" />
   </channel>
-  <channel id="DiagnosisMurder.se@SE">
-    <display-name>Diagnosis Murder</display-name>
-    <icon src="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" />
-  </channel>
-  <channel id="DiagnosisMurder.se@DK">
-    <display-name>Diagnosis Murder DK</display-name>
-    <icon src="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" />
-  </channel>
-  <channel id="DiagnosisMurder.se@NO">
-    <display-name>Diagnosis Murder NO</display-name>
-    <icon src="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" />
-  </channel>
   <channel id="Diaspora24.sn@SD">
     <display-name>Diaspora 24 [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/4devfx1.png" />
@@ -11503,22 +11427,6 @@
   <channel id="Digi24.ro@SD">
     <display-name>Digi 24 (720p)</display-name>
     <icon src="https://i.imgur.com/qmRnD0M.png" />
-  </channel>
-  <channel id="DigiSport1.ro@HD">
-    <display-name>Digi Sport 1 HD</display-name>
-    <icon src="https://i.imgur.com/5zMxDYq.png" />
-  </channel>
-  <channel id="DigiSport2.ro@HD">
-    <display-name>Digi Sport 2 HD</display-name>
-    <icon src="https://i.imgur.com/KWDUi3v.png" />
-  </channel>
-  <channel id="DigiSport3.ro@HD">
-    <display-name>Digi Sport 3 HD</display-name>
-    <icon src="https://i.imgur.com/T1ci5UK.png" />
-  </channel>
-  <channel id="DigiSport4.ro@SD">
-    <display-name>Digi Sport 4</display-name>
-    <icon src="https://i.imgur.com/Knj9I6f.png" />
   </channel>
   <channel id="Digital15.do@SD">
     <display-name>Digital 15 (1080p)</display-name>
@@ -11742,6 +11650,10 @@
   </channel>
   <channel id="DisneyChannel.cz@SD">
     <display-name>Disney Channel (Czech Republic)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
+  </channel>
+  <channel id="DisneyChannel.fr@SD">
+    <display-name>Disney Channel (France)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" />
   </channel>
   <channel id="DisneyChannel.de@SD">
@@ -12028,12 +11940,8 @@
     <display-name>Doble C Television (720p)</display-name>
     <icon src="https://i.imgur.com/2zCD4TB.png" />
   </channel>
-  <channel id="DocMartin.se@SE">
-    <display-name>Doc Martin (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" />
-  </channel>
   <channel id="DocMartin.us@CA">
-    <display-name>Doc Martin (United States)</display-name>
+    <display-name>Doc Martin</display-name>
     <icon src="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" />
   </channel>
   <channel id="Docevision.cl@SD">
@@ -12500,10 +12408,6 @@
     <display-name>E! (Poland) (576p)</display-name>
     <icon src="https://i.imgur.com/TWFDkap.png" />
   </channel>
-  <channel id="E.ro@SD">
-    <display-name>E! (Romania)</display-name>
-    <icon src="https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437" />
-  </channel>
   <channel id="E.us@East">
     <display-name>E! (United States) East (1080p)</display-name>
     <icon src="https://i.imgur.com/TWFDkap.png" />
@@ -12877,7 +12781,7 @@
     <icon src="https://i.imgur.com/Vo6prbh.png" />
   </channel>
   <channel id="ELTV.az@SD">
-    <display-name>EL TV (260p)</display-name>
+    <display-name>EL TV [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/tTlokZ2.png" />
   </channel>
   <channel id="ElWatania1.tn@SD">
@@ -13813,7 +13717,7 @@
     <icon src="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" />
   </channel>
   <channel id="Eurosport3Polska.pl@SD">
-    <display-name>Eurosport 3 Polska</display-name>
+    <display-name>Eurosport 3 Polska (1080p)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" />
   </channel>
   <channel id="Eurosport4K.fr@Romania">
@@ -13825,7 +13729,7 @@
     <icon src="https://i.imgur.com/0o3zjC7.png" />
   </channel>
   <channel id="Eurosport4Polska.pl@SD">
-    <display-name>Eurosport 4 Polska</display-name>
+    <display-name>Eurosport 4 Polska (1080p)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" />
   </channel>
   <channel id="Eurosport.fr@Asia">
@@ -14100,20 +14004,8 @@
     <display-name>Familien fra Bryggen</display-name>
     <icon src="https://images.pluto.tv/channels/61c19c8c9863900007acaa57/colorLogoPNG.png" />
   </channel>
-  <channel id="FamilyTies.se@SE">
-    <display-name>Family Ties (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" />
-  </channel>
-  <channel id="FamilyTies.se@DK">
-    <display-name>Family Ties (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" />
-  </channel>
-  <channel id="FamilyTies.se@NO">
-    <display-name>Family Ties (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" />
-  </channel>
   <channel id="FamilyTies.us@SD">
-    <display-name>Family Ties (United States)</display-name>
+    <display-name>Family Ties</display-name>
     <icon src="https://i.imgur.com/WJEkKCb.png" />
   </channel>
   <channel id="FAN.ru@SD">
@@ -14395,22 +14287,6 @@
   <channel id="FilinfoTV.bf@SD">
     <display-name>Filinfo TV (1080p)</display-name>
     <icon src="https://i.imgur.com/KG93Tvn.png" />
-  </channel>
-  <channel id="Film1Action.nl@SD">
-    <display-name>Film1 Action</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png" />
-  </channel>
-  <channel id="Film1Drama.nl@SD">
-    <display-name>Film1 Drama</display-name>
-    <icon src="https://i.imgur.com/oqrnvib.png" />
-  </channel>
-  <channel id="Film1Family.nl@SD">
-    <display-name>Film1 Family</display-name>
-    <icon src="https://i.imgur.com/8XRfXIa.png" />
-  </channel>
-  <channel id="Film1Premiere.nl@SD">
-    <display-name>Film1 Premiere</display-name>
-    <icon src="https://i.imgur.com/Kn9LX8i.png" />
   </channel>
   <channel id="Film4.hu@SD">
     <display-name>Film4</display-name>
@@ -15100,12 +14976,8 @@
     <display-name>Franken Fernsehen (1080p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/3pGGLLD.png" />
   </channel>
-  <channel id="Frasier.se@DK">
-    <display-name>Frasier (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png" />
-  </channel>
   <channel id="Frasier.us@CA">
-    <display-name>Frasier (United States)</display-name>
+    <display-name>Frasier</display-name>
     <icon src="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" />
   </channel>
   <channel id="FrasierBeruhmteGaste.de@DACH">
@@ -16488,24 +16360,12 @@
     <display-name>Happy Channel HD (1080i)</display-name>
     <icon src="https://i.imgur.com/kpFaiku.png" />
   </channel>
-  <channel id="HappyDays.se@SE">
-    <display-name>Happy Days (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" />
-  </channel>
-  <channel id="HappyDays.se@DK">
-    <display-name>Happy Days (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" />
-  </channel>
-  <channel id="HappyDays.se@NO">
-    <display-name>Happy Days (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" />
-  </channel>
   <channel id="HappyDays.us@SD">
-    <display-name>Happy Days (United States)</display-name>
+    <display-name>Happy Days</display-name>
     <icon src="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" />
   </channel>
   <channel id="HappyDays.us@CA">
-    <display-name>Happy Days (United States) CA</display-name>
+    <display-name>Happy Days CA</display-name>
     <icon src="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" />
   </channel>
   <channel id="HappyRadioTV.ua@HD">
@@ -17652,28 +17512,16 @@
     <display-name>IBN TV Africa (720p)</display-name>
     <icon src="https://i.imgur.com/eKy2ocd.png" />
   </channel>
-  <channel id="iCarly.se@SE">
-    <display-name>iCarly (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" />
-  </channel>
-  <channel id="iCarly.se@DK">
-    <display-name>iCarly (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" />
-  </channel>
-  <channel id="iCarly.se@NO">
-    <display-name>iCarly (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" />
-  </channel>
   <channel id="iCarly.us@BR">
-    <display-name>iCarly (United States)</display-name>
+    <display-name>iCarly</display-name>
     <icon src="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" />
   </channel>
   <channel id="iCarly.us@LatAm">
-    <display-name>iCarly (United States) LatAm</display-name>
+    <display-name>iCarly LatAm</display-name>
     <icon src="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" />
   </channel>
   <channel id="iCarly.us@SD">
-    <display-name>iCarly (United States) SD</display-name>
+    <display-name>iCarly SD</display-name>
     <icon src="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" />
   </channel>
   <channel id="IcaroTV.it@SD">
@@ -18612,20 +18460,8 @@
     <display-name>Jade (1080p)</display-name>
     <icon src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" />
   </channel>
-  <channel id="JAG.se@SE">
-    <display-name>JAG (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" />
-  </channel>
-  <channel id="JAG.se@DK">
-    <display-name>JAG (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" />
-  </channel>
-  <channel id="JAG.se@NO">
-    <display-name>JAG (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" />
-  </channel>
   <channel id="JAG.us@CA">
-    <display-name>JAG (United States)</display-name>
+    <display-name>JAG</display-name>
     <icon src="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" />
   </channel>
   <channel id="JahanbinTV.ir@SD">
@@ -18772,20 +18608,8 @@
     <display-name>Jeremiah TV (720p)</display-name>
     <icon src="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" />
   </channel>
-  <channel id="JerseyShore.se@SE">
-    <display-name>Jersey Shore (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" />
-  </channel>
-  <channel id="JerseyShore.se@DK">
-    <display-name>Jersey Shore (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" />
-  </channel>
-  <channel id="JerseyShore.se@NO">
-    <display-name>Jersey Shore (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" />
-  </channel>
   <channel id="JerseyShore.us@SD">
-    <display-name>Jersey Shore (United States)</display-name>
+    <display-name>Jersey Shore</display-name>
     <icon src="https://i.imgur.com/SssCaj1.png" />
   </channel>
   <channel id="JerseyShoreFamilyVacation.se@SE">
@@ -21580,24 +21404,12 @@
     <display-name>Maasranga TV (720p)</display-name>
     <icon src="https://i.imgur.com/uVZJMed.png" />
   </channel>
-  <channel id="MacGyver.se@SE">
-    <display-name>MacGyver (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" />
-  </channel>
-  <channel id="MacGyver.se@DK">
-    <display-name>MacGyver (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" />
-  </channel>
-  <channel id="MacGyver.se@NO">
-    <display-name>MacGyver (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" />
-  </channel>
   <channel id="MacGyver.us@BR">
-    <display-name>MacGyver (United States)</display-name>
+    <display-name>MacGyver</display-name>
     <icon src="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" />
   </channel>
   <channel id="MacGyver.us@LatAm">
-    <display-name>MacGyver (United States) LatAm</display-name>
+    <display-name>MacGyver LatAm</display-name>
     <icon src="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" />
   </channel>
   <channel id="MadDogandMerrill.us@SD">
@@ -21928,6 +21740,10 @@
     <display-name>Manoto</display-name>
     <icon src="https://i.imgur.com/8wE1Lbp.png" />
   </channel>
+  <channel id="MansudaeTelevision.kp@HD">
+    <display-name>Mansudae Television (1080p) [Not 24/7]</display-name>
+    <icon src="https://i.imgur.com/7xowUs2.png" />
+  </channel>
   <channel id="MantavyaNews.in@SD">
     <display-name>Mantavya News (576p)</display-name>
     <icon src="https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png" />
@@ -22140,24 +21956,12 @@
     <display-name>Mathrubhumi News (720p)</display-name>
     <icon src="https://i.imgur.com/diQftzP.png" />
   </channel>
-  <channel id="Matlock.se@SE">
-    <display-name>Matlock (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" />
-  </channel>
-  <channel id="Matlock.se@DK">
-    <display-name>Matlock (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" />
-  </channel>
-  <channel id="Matlock.se@NO">
-    <display-name>Matlock (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" />
-  </channel>
   <channel id="Matlock.us@SD">
-    <display-name>Matlock (United States)</display-name>
+    <display-name>Matlock</display-name>
     <icon src="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" />
   </channel>
   <channel id="Matlock.us@CA">
-    <display-name>Matlock (United States) CA</display-name>
+    <display-name>Matlock CA</display-name>
     <icon src="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" />
   </channel>
   <channel id="MatribhumiTV.bd@HD">
@@ -23088,24 +22892,12 @@
     <display-name>Mission Asia (1080p)</display-name>
     <icon src="https://i.imgur.com/B5mKwF6.png" />
   </channel>
-  <channel id="MissionImpossible.se@SE">
-    <display-name>Mission Impossible (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" />
-  </channel>
-  <channel id="MissionImpossible.se@DK">
-    <display-name>Mission Impossible (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" />
-  </channel>
-  <channel id="MissionImpossible.se@NO">
-    <display-name>Mission Impossible (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" />
-  </channel>
   <channel id="MissionImpossible.us@SD">
-    <display-name>Mission Impossible (United States)</display-name>
+    <display-name>Mission Impossible</display-name>
     <icon src="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" />
   </channel>
   <channel id="MissionImpossible.us@CA">
-    <display-name>Mission Impossible (United States) CA</display-name>
+    <display-name>Mission Impossible CA</display-name>
     <icon src="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" />
   </channel>
   <channel id="MissionTV.us@SD">
@@ -23768,28 +23560,16 @@
     <display-name>MTV Biggest Pop LatAm (1080p)</display-name>
     <icon src="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" />
   </channel>
-  <channel id="MTVCatfish.se@SE">
-    <display-name>MTV Catfish (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" />
-  </channel>
-  <channel id="MTVCatfish.se@DK">
-    <display-name>MTV Catfish (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" />
-  </channel>
-  <channel id="MTVCatfish.se@NO">
-    <display-name>MTV Catfish (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" />
-  </channel>
   <channel id="MTVCatfish.us@CA">
-    <display-name>MTV Catfish (United States)</display-name>
+    <display-name>MTV Catfish</display-name>
     <icon src="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" />
   </channel>
   <channel id="MTVCatfish.us@BR">
-    <display-name>MTV Catfish (United States) BR (720p)</display-name>
+    <display-name>MTV Catfish BR (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" />
   </channel>
   <channel id="MTVCatfish.us@LatAm">
-    <display-name>MTV Catfish (United States) LatAm (720p)</display-name>
+    <display-name>MTV Catfish LatAm (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" />
   </channel>
   <channel id="MTVChontales.ni@SD">
@@ -23820,28 +23600,16 @@
     <display-name>MTV Con Mi Ex</display-name>
     <icon src="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" />
   </channel>
-  <channel id="MTVDating.se@SE">
-    <display-name>MTV Dating (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" />
-  </channel>
-  <channel id="MTVDating.se@DK">
-    <display-name>MTV Dating (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" />
-  </channel>
-  <channel id="MTVDating.se@NO">
-    <display-name>MTV Dating (Sweden) NO (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" />
-  </channel>
   <channel id="MTVDating.us@BR">
-    <display-name>MTV Dating (United States)</display-name>
+    <display-name>MTV Dating</display-name>
     <icon src="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" />
   </channel>
   <channel id="MTVDating.us@CA">
-    <display-name>MTV Dating (United States) CA</display-name>
+    <display-name>MTV Dating CA</display-name>
     <icon src="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" />
   </channel>
   <channel id="MTVDating.us@LatAm">
-    <display-name>MTV Dating (United States) LatAm (720p)</display-name>
+    <display-name>MTV Dating LatAm (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" />
   </channel>
   <channel id="MTVDrag.us@BR">
@@ -23932,48 +23700,24 @@
     <display-name>MTV Pluto TV LatAm (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png" />
   </channel>
-  <channel id="MTVReality.se@SE">
-    <display-name>MTV Reality (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" />
-  </channel>
-  <channel id="MTVReality.se@DK">
-    <display-name>MTV Reality (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" />
-  </channel>
-  <channel id="MTVReality.se@NO">
-    <display-name>MTV Reality (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" />
-  </channel>
   <channel id="MTVReality.us@BR">
-    <display-name>MTV Reality (United States) (720p)</display-name>
+    <display-name>MTV Reality (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" />
   </channel>
   <channel id="MTVReality.us@CA">
-    <display-name>MTV Reality (United States) CA</display-name>
+    <display-name>MTV Reality CA</display-name>
     <icon src="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" />
   </channel>
   <channel id="MTVReality.us@LatAm">
-    <display-name>MTV Reality (United States) LatAm (720p)</display-name>
+    <display-name>MTV Reality LatAm (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" />
   </channel>
-  <channel id="MTVRidiculousness.se@SE">
-    <display-name>MTV Ridiculousness (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" />
-  </channel>
-  <channel id="MTVRidiculousness.se@DK">
-    <display-name>MTV Ridiculousness (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" />
-  </channel>
-  <channel id="MTVRidiculousness.se@NO">
-    <display-name>MTV Ridiculousness (Sweden) NO (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" />
-  </channel>
   <channel id="MTVRidiculousness.us@CA">
-    <display-name>MTV Ridiculousness (United States) CA</display-name>
+    <display-name>MTV Ridiculousness CA</display-name>
     <icon src="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" />
   </channel>
   <channel id="MTVRidiculousness.us@LatAm">
-    <display-name>MTV Ridiculousness (United States) LatAm (720p)</display-name>
+    <display-name>MTV Ridiculousness LatAm (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" />
   </channel>
   <channel id="MTVRocks.us@BR">
@@ -23996,20 +23740,8 @@
     <display-name>MTV Spankin' New CA (1080p)</display-name>
     <icon src="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" />
   </channel>
-  <channel id="MTVTeenMom.se@SE">
-    <display-name>MTV Teen Mom (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" />
-  </channel>
-  <channel id="MTVTeenMom.se@DK">
-    <display-name>MTV Teen Mom (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" />
-  </channel>
-  <channel id="MTVTeenMom.se@NO">
-    <display-name>MTV Teen Mom (Sweden) NO (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" />
-  </channel>
   <channel id="MTVTeenMom.us@LatAm">
-    <display-name>MTV Teen Mom (United States) (720p)</display-name>
+    <display-name>MTV Teen Mom (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" />
   </channel>
   <channel id="MTVTheHills.se@SE">
@@ -24956,20 +24688,16 @@
     <display-name>NBT World (1080p)</display-name>
     <icon src="https://i.imgur.com/GUQhLeg.png" />
   </channel>
-  <channel id="NCIS.se@DK">
-    <display-name>NCIS (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" />
-  </channel>
   <channel id="NCIS.us@BR">
-    <display-name>NCIS (United States)</display-name>
+    <display-name>NCIS</display-name>
     <icon src="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" />
   </channel>
   <channel id="NCIS.us@CA">
-    <display-name>NCIS (United States) CA</display-name>
+    <display-name>NCIS CA</display-name>
     <icon src="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" />
   </channel>
   <channel id="NCIS.us@LatAm">
-    <display-name>NCIS (United States) LatAm</display-name>
+    <display-name>NCIS LatAm</display-name>
     <icon src="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" />
   </channel>
   <channel id="NCISDetbedstemedGibbs.se@DK">
@@ -24980,12 +24708,8 @@
     <display-name>NCIS: Det bedste med Tony & Ziva</display-name>
     <icon src="https://images.pluto.tv/channels/68921b2f4fa995eff24df6c8/colorLogoPNG_1756105299557.png" />
   </channel>
-  <channel id="NCISLosAngeles.se@DK">
-    <display-name>NCIS: Los Angeles (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" />
-  </channel>
   <channel id="NCISLosAngeles.us@CA">
-    <display-name>NCIS: Los Angeles (United States)</display-name>
+    <display-name>NCIS: Los Angeles</display-name>
     <icon src="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" />
   </channel>
   <channel id="NCMEducationalKidsChannel.us@SD">
@@ -25704,6 +25428,10 @@
     <display-name>Nickelodeon (Netherlands)</display-name>
     <icon src="https://i.imgur.com/E84jnP8.png" />
   </channel>
+  <channel id="Nickelodeon.pt@SD">
+    <display-name>Nickelodeon (Portugal)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" />
+  </channel>
   <channel id="Nickelodeon.ro@SD">
     <display-name>Nickelodeon (Romania)</display-name>
     <icon src="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318" />
@@ -25787,6 +25515,10 @@
   <channel id="NickOnline.br@HD">
     <display-name>NickOnline HD (720p)</display-name>
     <icon src="https://x1colegal.com/logo.png" />
+  </channel>
+  <channel id="NickOnlineBobEsponja.br@HD">
+    <display-name>NickOnline Bob Esponja [Not 24/7]</display-name>
+    <icon src="https://x1colegal.com/nickonlinebobesponja.png" />
   </channel>
   <channel id="NickToons90s.au@AU">
     <display-name>NickToons 90s [Geo-blocked]</display-name>
@@ -26508,14 +26240,6 @@
     <display-name>Nuka TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/4r2Ycju.png" />
   </channel>
-  <channel id="Numb3rs.se@SE">
-    <display-name>Numb3rs</display-name>
-    <icon src="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" />
-  </channel>
-  <channel id="Numb3rs.se@NO">
-    <display-name>Numb3rs NO</display-name>
-    <icon src="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" />
-  </channel>
   <channel id="Number1Ask.tr@SD">
     <display-name>Number 1 Ask (720p)</display-name>
     <icon src="https://i.imgur.com/slwbux7.png" />
@@ -26532,12 +26256,8 @@
     <display-name>Number 1 TV (720p)</display-name>
     <icon src="https://i.imgur.com/02cDIBi.png" />
   </channel>
-  <channel id="Numbers.se@DK">
-    <display-name>Numbers (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png" />
-  </channel>
   <channel id="Numbers.us@BR">
-    <display-name>Numbers (United States)</display-name>
+    <display-name>Numbers</display-name>
     <icon src="https://images.pluto.tv/channels/67f960c5441853fe50e7afc1/colorLogoPNG_1747430170532.png" />
   </channel>
   <channel id="Numeros.us@LatAm">
@@ -27124,8 +26844,12 @@
     <display-name>One 31 (720p)</display-name>
     <icon src="https://i.imgur.com/HXFNbuc.png" />
   </channel>
+  <channel id="One.il@SD">
+    <display-name>One (Israel)</display-name>
+    <icon src="https://i.imgur.com/hYrP2P0.png" />
+  </channel>
   <channel id="One.mt@SD">
-    <display-name>One (720p)</display-name>
+    <display-name>One (Malta) (720p)</display-name>
     <icon src="https://i.imgur.com/UPlfzFx.png" />
   </channel>
   <channel id="OneAdria.de@SD">
@@ -27681,7 +27405,7 @@
     <icon src="https://i.imgur.com/sj5h9bl.png" />
   </channel>
   <channel id="ParamountNetwork.pl@SD">
-    <display-name>Paramount Network (Poland)</display-name>
+    <display-name>Paramount Network (Poland) (1080p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" />
   </channel>
   <channel id="ParamountNetwork.us@East">
@@ -28244,18 +27968,6 @@
     <display-name>Pillar TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/9kCxFqj.png" />
   </channel>
-  <channel id="PimpMyRide.se@SE">
-    <display-name>Pimp My Ride</display-name>
-    <icon src="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" />
-  </channel>
-  <channel id="PimpMyRide.se@DK">
-    <display-name>Pimp My Ride DK</display-name>
-    <icon src="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" />
-  </channel>
-  <channel id="PimpMyRide.se@NO">
-    <display-name>Pimp My Ride NO</display-name>
-    <icon src="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" />
-  </channel>
   <channel id="PindinTV.pa@SD">
     <display-name>Pindin TV</display-name>
     <icon src="https://i.imgur.com/UaQC0l8.jpeg" />
@@ -28404,20 +28116,8 @@
     <display-name>Pluto TV A La Mexicana</display-name>
     <icon src="https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png" />
   </channel>
-  <channel id="PlutoTVAction.se@SE">
-    <display-name>Pluto TV Action (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVAction.se@DK">
-    <display-name>Pluto TV Action (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVAction.se@NO">
-    <display-name>Pluto TV Action (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVAction.us@US">
-    <display-name>Pluto TV Action (United States)</display-name>
+    <display-name>Pluto TV Action</display-name>
     <icon src="https://i.imgur.com/tDapGal.png" />
   </channel>
   <channel id="PlutoTVActionMovies.us@CA">
@@ -29036,36 +28736,20 @@
     <display-name>Pluto TV Hometown Drama</display-name>
     <icon src="https://images.pluto.tv/channels/69d6c7befde57cd5ba0160c3/colorLogoPNG_1777488284970.png" />
   </channel>
-  <channel id="PlutoTVHorror.se@SE">
-    <display-name>Pluto TV Horror (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVHorror.se@DK">
-    <display-name>Pluto TV Horror (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVHorror.se@NO">
-    <display-name>Pluto TV Horror (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVHorror.us@US">
-    <display-name>Pluto TV Horror (United States)</display-name>
+    <display-name>Pluto TV Horror</display-name>
     <icon src="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVHorror.us@CA">
-    <display-name>Pluto TV Horror (United States) CA</display-name>
+    <display-name>Pluto TV Horror CA</display-name>
     <icon src="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVHorrorSerien.de@DACH">
     <display-name>Pluto TV Horror-Serien</display-name>
     <icon src="https://images.pluto.tv/channels/67ff7d9c7fc25e0e72451bc9/colorLogoPNG_1749796239058.png" />
   </channel>
-  <channel id="PlutoTVHumor.se@DK">
-    <display-name>Pluto TV Humor (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVHumor.us@LatAm">
-    <display-name>Pluto TV Humor (United States)</display-name>
+    <display-name>Pluto TV Humor</display-name>
     <icon src="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVIcons.us@SD">
@@ -29348,20 +29032,12 @@
     <display-name>Pluto TV Paisagens por Stingray (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" />
   </channel>
-  <channel id="PlutoTVParanormal.se@SE">
-    <display-name>Pluto TV Paranormal (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVParanormal.se@DK">
-    <display-name>Pluto TV Paranormal (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVParanormal.us@US">
-    <display-name>Pluto TV Paranormal (United States)</display-name>
+    <display-name>Pluto TV Paranormal</display-name>
     <icon src="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVParanormal.us@CA">
-    <display-name>Pluto TV Paranormal (United States) CA</display-name>
+    <display-name>Pluto TV Paranormal CA</display-name>
     <icon src="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVPeleas.us@LatAm">
@@ -29468,28 +29144,16 @@
     <display-name>Pluto TV Scherzi e risate</display-name>
     <icon src="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" />
   </channel>
-  <channel id="PlutoTVSciFi.se@SE">
-    <display-name>Pluto TV Sci-Fi (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVSciFi.se@DK">
-    <display-name>Pluto TV Sci-Fi (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVSciFi.se@NO">
-    <display-name>Pluto TV Sci-Fi (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVSciFi.us@US">
-    <display-name>Pluto TV Sci-Fi (United States)</display-name>
+    <display-name>Pluto TV Sci-Fi</display-name>
     <icon src="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVSciFi.us@CA">
-    <display-name>Pluto TV Sci-Fi (United States) CA</display-name>
+    <display-name>Pluto TV Sci-Fi CA</display-name>
     <icon src="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVSciFi.us@LatAm">
-    <display-name>Pluto TV Sci-Fi (United States) LatAm</display-name>
+    <display-name>Pluto TV Sci-Fi LatAm</display-name>
     <icon src="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVScifiSeries.de@GB">
@@ -29748,24 +29412,12 @@
     <display-name>Pluto TV Trending Now</display-name>
     <icon src="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" />
   </channel>
-  <channel id="PlutoTVTrueCrime.se@SE">
-    <display-name>Pluto TV True Crime (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVTrueCrime.se@DK">
-    <display-name>Pluto TV True Crime (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" />
-  </channel>
-  <channel id="PlutoTVTrueCrime.se@NO">
-    <display-name>Pluto TV True Crime (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVTrueCrime.us@US">
-    <display-name>Pluto TV True Crime (United States)</display-name>
+    <display-name>Pluto TV True Crime</display-name>
     <icon src="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVTrueCrime.us@CA">
-    <display-name>Pluto TV True Crime (United States) CA</display-name>
+    <display-name>Pluto TV True Crime CA</display-name>
     <icon src="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVTurbo.us@BR">
@@ -29836,16 +29488,12 @@
     <display-name>Pluto TV Western Serien</display-name>
     <icon src="https://images.pluto.tv/channels/682453215c646751955e1204/colorLogoPNG_1758265241676.png" />
   </channel>
-  <channel id="PlutoTVWesterns.de@GB">
-    <display-name>Pluto TV Westerns (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png" />
-  </channel>
   <channel id="PlutoTVWesterns.us@US">
-    <display-name>Pluto TV Westerns (United States)</display-name>
+    <display-name>Pluto TV Westerns</display-name>
     <icon src="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVWesterns.us@CA">
-    <display-name>Pluto TV Westerns (United States) CA</display-name>
+    <display-name>Pluto TV Westerns CA</display-name>
     <icon src="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" />
   </channel>
   <channel id="PlutoTVWildWest.se@SE">
@@ -30332,17 +29980,13 @@
     <display-name>Prima SK</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/f/fc/PRIMA_SK_logo_RGB.png" />
   </channel>
+  <channel id="PrimaSport1.ro@HD">
+    <display-name>Prima Sport 1 HD</display-name>
+    <icon src="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" />
+  </channel>
   <channel id="PrimaSport2.ro@HD">
     <display-name>Prima Sport 2 HD</display-name>
     <icon src="https://i.imgur.com/hROcepe.png" />
-  </channel>
-  <channel id="PrimaSport3.ro@HD">
-    <display-name>Prima Sport 3 HD</display-name>
-    <icon src="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" />
-  </channel>
-  <channel id="PrimaSport4.ro@HD">
-    <display-name>Prima Sport 4 HD</display-name>
-    <icon src="https://i.imgur.com/lqaIIhc.png" />
   </channel>
   <channel id="PrimaSportCzechia.cz@SD">
     <display-name>Prima Sport Czechia</display-name>
@@ -32048,24 +31692,12 @@
     <display-name>Rave TV (576p)</display-name>
     <icon src="https://i.imgur.com/pXKQE0G.png" />
   </channel>
-  <channel id="Rawhide.se@SE">
-    <display-name>Rawhide (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" />
-  </channel>
-  <channel id="Rawhide.se@DK">
-    <display-name>Rawhide (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" />
-  </channel>
-  <channel id="Rawhide.se@NO">
-    <display-name>Rawhide (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" />
-  </channel>
   <channel id="Rawhide.us@SD">
-    <display-name>Rawhide (United States)</display-name>
+    <display-name>Rawhide</display-name>
     <icon src="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" />
   </channel>
   <channel id="Rawhide.us@CA">
-    <display-name>Rawhide (United States) CA</display-name>
+    <display-name>Rawhide CA</display-name>
     <icon src="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" />
   </channel>
   <channel id="RayTVHD.np@HD">
@@ -32768,12 +32400,8 @@
     <display-name>Riddim & Hope TV</display-name>
     <icon src="https://i.imgur.com/c27k0Bd.png" />
   </channel>
-  <channel id="Ridiculousness.de@FR">
-    <display-name>Ridiculousness (Germany) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" />
-  </channel>
   <channel id="Ridiculousness.us@SD">
-    <display-name>Ridiculousness (United States)</display-name>
+    <display-name>Ridiculousness</display-name>
     <icon src="https://images.pluto.tv/channels/6996296087742204bff43147/colorLogoPNG_1772645176417.png" />
   </channel>
   <channel id="RidiculousnessNyaavsnitt.se@SE">
@@ -33712,12 +33340,8 @@
     <display-name>RugbyPass TV (720p)</display-name>
     <icon src="" />
   </channel>
-  <channel id="Rugrats.de@ES">
-    <display-name>Rugrats (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png" />
-  </channel>
   <channel id="Rugrats.us@LatAm">
-    <display-name>Rugrats (United States)</display-name>
+    <display-name>Rugrats</display-name>
     <icon src="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" />
   </channel>
   <channel id="RumbaTV.co@SD">
@@ -35533,7 +35157,11 @@
     <icon src="https://i.imgur.com/9fLRHSg.png" />
   </channel>
   <channel id="SkySportF1.de@SD">
-    <display-name>Sky Sport F1</display-name>
+    <display-name>Sky Sport F1 (Germany)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" />
+  </channel>
+  <channel id="SkySportF1.it@SD">
+    <display-name>Sky Sport F1 (Italy)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" />
   </channel>
   <channel id="SkySportGolf.de@SD">
@@ -35660,16 +35288,8 @@
     <display-name>Smithsonian Channel Pluto TV LatAm</display-name>
     <icon src="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" />
   </channel>
-  <channel id="SmithsonianChannelSelects.se@SE">
-    <display-name>Smithsonian Channel Selects (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" />
-  </channel>
-  <channel id="SmithsonianChannelSelects.se@DK">
-    <display-name>Smithsonian Channel Selects (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" />
-  </channel>
   <channel id="SmithsonianChannelSelects.us@SD">
-    <display-name>Smithsonian Channel Selects (United States)</display-name>
+    <display-name>Smithsonian Channel Selects</display-name>
     <icon src="https://i.imgur.com/Kt5j8Vr.png" />
   </channel>
   <channel id="SMNI.ph@SD">
@@ -35952,9 +35572,29 @@
     <display-name>Sony Pix HD (1080p)</display-name>
     <icon src="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" />
   </channel>
+  <channel id="SonySAB.in@HD">
+    <display-name>Sony SAB HD (1080p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" />
+  </channel>
+  <channel id="SonySportsTen1.in@SD">
+    <display-name>Sony Sports Ten 1 (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" />
+  </channel>
+  <channel id="SonySportsTen1.in@HD">
+    <display-name>Sony Sports Ten 1 HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" />
+  </channel>
+  <channel id="SonySportsTen2.in@HD">
+    <display-name>Sony Sports Ten 2 HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" />
+  </channel>
   <channel id="SonySportsTen3Hindi.in@SD">
     <display-name>Sony Sports Ten 3 Hindi (1080p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" />
+  </channel>
+  <channel id="SonySportsTen5.in@SD">
+    <display-name>Sony Sports Ten 5 (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" />
   </channel>
   <channel id="SonyWah.in@SD">
     <display-name>Sony Wah (576p)</display-name>
@@ -36020,32 +35660,8 @@
     <display-name>Soundcity TV</display-name>
     <icon src="https://i.imgur.com/fKtPcT4.png" />
   </channel>
-  <channel id="SouthPark.de@ES">
-    <display-name>South Park (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" />
-  </channel>
-  <channel id="SouthPark.de@GB">
-    <display-name>South Park (Germany) GB</display-name>
-    <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" />
-  </channel>
-  <channel id="SouthPark.de@IT">
-    <display-name>South Park (Germany) IT</display-name>
-    <icon src="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" />
-  </channel>
-  <channel id="SouthPark.se@SE">
-    <display-name>South Park (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" />
-  </channel>
-  <channel id="SouthPark.se@DK">
-    <display-name>South Park (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" />
-  </channel>
-  <channel id="SouthPark.se@NO">
-    <display-name>South Park (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" />
-  </channel>
   <channel id="SouthPark.us@CA">
-    <display-name>South Park (United States)</display-name>
+    <display-name>South Park</display-name>
     <icon src="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" />
   </channel>
   <channel id="SouthParkArmageddon.se@SE">
@@ -36096,24 +35712,8 @@
     <display-name>South Park: Butters Collection (Sweden) NO</display-name>
     <icon src="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png" />
   </channel>
-  <channel id="SouthParkCartmanCollection.de@DACH">
-    <display-name>South Park: Cartman Collection (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkCartmanCollection.se@SE">
-    <display-name>South Park: Cartman Collection (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkCartmanCollection.se@DK">
-    <display-name>South Park: Cartman Collection (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkCartmanCollection.se@NO">
-    <display-name>South Park: Cartman Collection (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" />
-  </channel>
   <channel id="SouthParkCartmanCollection.us@CA">
-    <display-name>South Park: Cartman Collection (United States)</display-name>
+    <display-name>South Park: Cartman Collection</display-name>
     <icon src="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" />
   </channel>
   <channel id="SouthParkColecaoCartman.us@BR">
@@ -36160,68 +35760,20 @@
     <display-name>South Park: Into the Stars NO</display-name>
     <icon src="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" />
   </channel>
-  <channel id="SouthParkKennyCollection.de@DACH">
-    <display-name>South Park: Kenny Collection (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkKennyCollection.se@SE">
-    <display-name>South Park: Kenny Collection (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkKennyCollection.se@DK">
-    <display-name>South Park: Kenny Collection (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkKennyCollection.se@NO">
-    <display-name>South Park: Kenny Collection (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" />
-  </channel>
   <channel id="SouthParkKennyCollection.us@CA">
-    <display-name>South Park: Kenny Collection (United States)</display-name>
+    <display-name>South Park: Kenny Collection</display-name>
     <icon src="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" />
   </channel>
-  <channel id="SouthParkKyleCollection.de@DACH">
-    <display-name>South Park: Kyle Collection (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkKyleCollection.se@SE">
-    <display-name>South Park: Kyle Collection (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkKyleCollection.se@DK">
-    <display-name>South Park: Kyle Collection (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkKyleCollection.se@NO">
-    <display-name>South Park: Kyle Collection (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" />
-  </channel>
   <channel id="SouthParkKyleCollection.us@CA">
-    <display-name>South Park: Kyle Collection (United States)</display-name>
+    <display-name>South Park: Kyle Collection</display-name>
     <icon src="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" />
   </channel>
   <channel id="SouthParkOriginalVersion.de@DACH">
     <display-name>South Park: Original Version</display-name>
     <icon src="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoPNG.png" />
   </channel>
-  <channel id="SouthParkStanCollection.de@DACH">
-    <display-name>South Park: Stan Collection (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkStanCollection.se@SE">
-    <display-name>South Park: Stan Collection (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkStanCollection.se@DK">
-    <display-name>South Park: Stan Collection (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" />
-  </channel>
-  <channel id="SouthParkStanCollection.se@NO">
-    <display-name>South Park: Stan Collection (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" />
-  </channel>
   <channel id="SouthParkStanCollection.us@CA">
-    <display-name>South Park: Stan Collection (United States)</display-name>
+    <display-name>South Park: Stan Collection</display-name>
     <icon src="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" />
   </channel>
   <channel id="SouthParkWelcometoCanada.us@CA">
@@ -36652,6 +36204,22 @@
     <display-name>Star Family (1080p)</display-name>
     <icon src="https://i.imgur.com/eGuGHnZ.png" />
   </channel>
+  <channel id="StarGold2.in@SD">
+    <display-name>Star Gold 2 (576p)</display-name>
+    <icon src="https://i.imgur.com/G0ZfzZr.png" />
+  </channel>
+  <channel id="StarGold.in@HD">
+    <display-name>Star Gold HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/xC460sj.png" />
+  </channel>
+  <channel id="StarGoldRomance.in@SD">
+    <display-name>Star Gold Romance (576p)</display-name>
+    <icon src="https://i.imgur.com/gSWv9U3.png" />
+  </channel>
+  <channel id="StarGoldSelect.in@HD">
+    <display-name>Star Gold Select HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/U7eiuqv.png" />
+  </channel>
   <channel id="StarJalsha.in@SD">
     <display-name>Star Jalsha (1080p) [Geo-blocked]</display-name>
     <icon src="https://i.imgur.com/IlufzR5.png" />
@@ -36684,6 +36252,10 @@
     <display-name>Star Maa Movies HD (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" />
   </channel>
+  <channel id="StarMovies.in@HD">
+    <display-name>Star Movies (India) HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" />
+  </channel>
   <channel id="StarMovies.pt@SD">
     <display-name>Star Movies (Portugal)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" />
@@ -36691,6 +36263,10 @@
   <channel id="StarMovies.si@SD">
     <display-name>Star Movies (Slovenia)</display-name>
     <icon src="https://i.imgur.com/JcoAgDF.png" />
+  </channel>
+  <channel id="StarMoviesSelect.in@HD">
+    <display-name>Star Movies Select HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" />
   </channel>
   <channel id="StarNews.bd@SD">
     <display-name>Star News (1080p)</display-name>
@@ -36703,6 +36279,18 @@
   <channel id="StarPravah.in@HD">
     <display-name>Star Pravah HD (720p)</display-name>
     <icon src="https://i.imgur.com/ZT0u7AK.png" />
+  </channel>
+  <channel id="StarSports1.in@HD">
+    <display-name>Star Sports 1 HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/E5jjKHI.png" />
+  </channel>
+  <channel id="StarSports1Hindi.in@HD">
+    <display-name>Star Sports 1 Hindi HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" />
+  </channel>
+  <channel id="StarSports2.in@HD">
+    <display-name>Star Sports 2 HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png" />
   </channel>
   <channel id="StarTamilTelevision.lk@SD">
     <display-name>Star Tamil Television (360p)</display-name>
@@ -36736,12 +36324,8 @@
     <display-name>Star Trek: Deep Space Nine</display-name>
     <icon src="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" />
   </channel>
-  <channel id="StarTrekTheNextGeneration.de@DACH">
-    <display-name>Star Trek: The Next Generation (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" />
-  </channel>
   <channel id="StarTrekTheNextGeneration.us@SD">
-    <display-name>Star Trek: The Next Generation (United States)</display-name>
+    <display-name>Star Trek: The Next Generation</display-name>
     <icon src="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" />
   </channel>
   <channel id="StarTrekTheOriginalSeries.de@DACH">
@@ -36760,16 +36344,8 @@
     <display-name>Star Trek: The Original Series (Sweden) NO</display-name>
     <icon src="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" />
   </channel>
-  <channel id="StarTrekVoyager.de@ES">
-    <display-name>Star Trek: Voyager (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" />
-  </channel>
-  <channel id="StarTrekVoyager.de@IT">
-    <display-name>Star Trek: Voyager (Germany) IT</display-name>
-    <icon src="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" />
-  </channel>
   <channel id="StarTrekVoyager.us@SD">
-    <display-name>Star Trek: Voyager (United States)</display-name>
+    <display-name>Star Trek: Voyager</display-name>
     <icon src="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" />
   </channel>
   <channel id="StarTV.mn@SD">
@@ -37976,6 +37552,10 @@
     <display-name>TBN Pacific</display-name>
     <icon src="https://i.imgur.com/yWJTxKk.png" />
   </channel>
+  <channel id="TBNPolska.pl@SD">
+    <display-name>TBN Polska (1080p)</display-name>
+    <icon src="https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww" />
+  </channel>
   <channel id="TBNUK.uk@SD">
     <display-name>TBN UK (1080p)</display-name>
     <icon src="https://i.imgur.com/vFllwLd.png" />
@@ -38104,20 +37684,8 @@
     <display-name>TED (1080p)</display-name>
     <icon src="https://i.imgur.com/KeIhwNP.png" />
   </channel>
-  <channel id="TeenMom.de@IT">
-    <display-name>Teen Mom (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" />
-  </channel>
-  <channel id="TeenMom.de@FR">
-    <display-name>Teen Mom (Germany) FR (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" />
-  </channel>
-  <channel id="TeenMom.de@GB">
-    <display-name>Teen Mom (Germany) GB</display-name>
-    <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" />
-  </channel>
   <channel id="TeenMom.us@SD">
-    <display-name>Teen Mom (United States)</display-name>
+    <display-name>Teen Mom</display-name>
     <icon src="https://i.imgur.com/8o3ClCV.png" />
   </channel>
   <channel id="TeenageMutantNinjaTurtles.de@IT">
@@ -38193,7 +37761,7 @@
     <icon src="https://i.imgur.com/gBZFZNv.png" />
   </channel>
   <channel id="TeleAntillas.do@SD">
-    <display-name>Tele Antillas (1080p)</display-name>
+    <display-name>Tele Antillas (480p)</display-name>
     <icon src="https://i.imgur.com/G1pJZkC.png" />
   </channel>
   <channel id="TeleBoston.us@SD">
@@ -39116,6 +38684,10 @@
     <display-name>Telewizja Biznesowa (1080p)</display-name>
     <icon src="https://i.imgur.com/XC7i7ZL.png" />
   </channel>
+  <channel id="TelewizjaImperium.pl@SD">
+    <display-name>Telewizja Imperium (1080p)</display-name>
+    <icon src="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" />
+  </channel>
   <channel id="TelewizjaiTTV.pl@SD">
     <display-name>Telewizja iTTV (1080p)</display-name>
     <icon src="https://www.ittv.pl/media/images/ittv-logo.png" />
@@ -39572,32 +39144,16 @@
     <display-name>The Nest (1080p)</display-name>
     <icon src="https://iili.io/JGqD21e.png" />
   </channel>
-  <channel id="TheNewDetectives.de@GB">
-    <display-name>The New Detectives (Germany)</display-name>
-    <icon src="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png" />
-  </channel>
-  <channel id="TheNewDetectives.se@SE">
-    <display-name>The New Detectives (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" />
-  </channel>
-  <channel id="TheNewDetectives.se@DK">
-    <display-name>The New Detectives (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" />
-  </channel>
-  <channel id="TheNewDetectives.se@NO">
-    <display-name>The New Detectives (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" />
-  </channel>
   <channel id="TheNewDetectives.us@US">
-    <display-name>The New Detectives (United States)</display-name>
+    <display-name>The New Detectives</display-name>
     <icon src="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" />
   </channel>
   <channel id="TheNewDetectives.us@CA">
-    <display-name>The New Detectives (United States) CA</display-name>
+    <display-name>The New Detectives CA</display-name>
     <icon src="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" />
   </channel>
   <channel id="TheNewDetectives.us@LatAm">
-    <display-name>The New Detectives (United States) LatAm</display-name>
+    <display-name>The New Detectives LatAm</display-name>
     <icon src="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" />
   </channel>
   <channel id="TheNowNetwork.us@SD">
@@ -39720,20 +39276,8 @@
     <display-name>The Weather Network (720p)</display-name>
     <icon src="https://i.imgur.com/V6ZUwUY.png" />
   </channel>
-  <channel id="TheWildWildWest.se@SE">
-    <display-name>The Wild Wild West (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" />
-  </channel>
-  <channel id="TheWildWildWest.se@DK">
-    <display-name>The Wild Wild West (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" />
-  </channel>
-  <channel id="TheWildWildWest.se@NO">
-    <display-name>The Wild Wild West (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" />
-  </channel>
   <channel id="TheWildWildWest.us@SD">
-    <display-name>The Wild Wild West (United States)</display-name>
+    <display-name>The Wild Wild West</display-name>
     <icon src="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" />
   </channel>
   <channel id="TheWordNetwork.us@SD">
@@ -39983,6 +39527,10 @@
   <channel id="TLC.hu@SD">
     <display-name>TLC (Hungary)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" />
+  </channel>
+  <channel id="TLC.in@HD">
+    <display-name>TLC (India) HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" />
   </channel>
   <channel id="TLC.ru@SD">
     <display-name>TLC (Russia) (1080p)</display-name>
@@ -40388,28 +39936,12 @@
     <display-name>Toronto 360 TV (720p) [Not 24/7]</display-name>
     <icon src="https://i.imgur.com/YJYdHKO.png" />
   </channel>
-  <channel id="TortuesNinjaTV.de@FR">
-    <display-name>Tortues Ninja TV (Germany) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" />
-  </channel>
   <channel id="TortuesNinjaTV.us@CA">
-    <display-name>Tortues Ninja TV (United States) (720p)</display-name>
+    <display-name>Tortues Ninja TV (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" />
   </channel>
-  <channel id="Tosh0.se@SE">
-    <display-name>Tosh.0 (Sweden)</display-name>
-    <icon src="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" />
-  </channel>
-  <channel id="Tosh0.se@DK">
-    <display-name>Tosh.0 (Sweden) DK</display-name>
-    <icon src="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" />
-  </channel>
-  <channel id="Tosh0.se@NO">
-    <display-name>Tosh.0 (Sweden) NO</display-name>
-    <icon src="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" />
-  </channel>
   <channel id="Tosh0.us@SD">
-    <display-name>Tosh.0 (United States)</display-name>
+    <display-name>Tosh.0</display-name>
     <icon src="https://i.imgur.com/sXkluxg.png" />
   </channel>
   <channel id="Toshkent.uz@SD">
@@ -40428,32 +39960,12 @@
     <display-name>Total TV Haryana (1080p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TOTAL_TV/images/LOGO_HD/image.png" />
   </channel>
-  <channel id="TotallyTurtles.de@DACH">
-    <display-name>Totally Turtles (Germany) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" />
-  </channel>
-  <channel id="TotallyTurtles.de@GB">
-    <display-name>Totally Turtles (Germany) GB</display-name>
-    <icon src="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" />
-  </channel>
-  <channel id="TotallyTurtles.se@SE">
-    <display-name>Totally Turtles (Sweden) (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" />
-  </channel>
-  <channel id="TotallyTurtles.se@DK">
-    <display-name>Totally Turtles (Sweden) DK (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" />
-  </channel>
-  <channel id="TotallyTurtles.se@NO">
-    <display-name>Totally Turtles (Sweden) NO (720p)</display-name>
-    <icon src="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" />
-  </channel>
   <channel id="TotallyTurtles.us@US">
-    <display-name>Totally Turtles (United States)</display-name>
+    <display-name>Totally Turtles</display-name>
     <icon src="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" />
   </channel>
   <channel id="TotallyTurtles.us@CA">
-    <display-name>Totally Turtles (United States) CA (720p)</display-name>
+    <display-name>Totally Turtles CA (720p)</display-name>
     <icon src="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" />
   </channel>
   <channel id="Totalmusic80s.uk@HD">
@@ -40521,7 +40033,7 @@
     <icon src="https://i.imgur.com/KkJ6fet.png" />
   </channel>
   <channel id="TraceBrazuca.fr@SD">
-    <display-name>Trace Brazuca (1080p)</display-name>
+    <display-name>Trace Brazuca (1090p)</display-name>
     <icon src="https://i.imgur.com/DFBocPu.png" />
   </channel>
   <channel id="TraceBrazuca.fr@HD">
@@ -40825,7 +40337,7 @@
     <icon src="https://i.imgur.com/iOCQdyD.png" />
   </channel>
   <channel id="TRT3.tr@SD">
-    <display-name>TRT 3 (720p)</display-name>
+    <display-name>TRT 3 (1080p)</display-name>
     <icon src="https://i.imgur.com/JrWFwBd.png" />
   </channel>
   <channel id="TRT.gr@SD">
@@ -42988,6 +42500,10 @@
     <display-name>TVK (Russia) (576p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/e/e7/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A2%D0%92%D0%9A_%282015%29.png" />
   </channel>
+  <channel id="TVKSMNT.pl@HD">
+    <display-name>TVK SMNT (1080p)</display-name>
+    <icon src="https://i.ibb.co/XZ3m8kr1/logotvk.png" />
+  </channel>
   <channel id="TVKStella.pl@SD">
     <display-name>TVK Stella (576p)</display-name>
     <icon src="https://www.tvkstella.pl/img/poster.png" />
@@ -43963,6 +43479,18 @@
   <channel id="UnisulTV.br@SD">
     <display-name>Unisul TV (720p)</display-name>
     <icon src="https://i.imgur.com/N0TvAFz.png" />
+  </channel>
+  <channel id="Unite8Sports1.in@SD">
+    <display-name>Unite8 Sports 1 (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" />
+  </channel>
+  <channel id="Unite8Sports1.in@HD">
+    <display-name>Unite8 Sports 1 HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" />
+  </channel>
+  <channel id="Unite8Sports2.in@HD">
+    <display-name>Unite8 Sports 2 HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp" />
   </channel>
   <channel id="Unitel.bo@SantaCruz">
     <display-name>Unitel (Bolivia) (1080p)</display-name>
@@ -46444,6 +45972,10 @@
     <display-name>Zee Cinema APAC (720p)</display-name>
     <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" />
   </channel>
+  <channel id="ZeeClassic.in@SD">
+    <display-name>Zee Classic (576p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png" />
+  </channel>
   <channel id="ZeeComedyNation.in@HD">
     <display-name>Zee Comedy Nation (1080p)</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png" />
@@ -46496,6 +46028,10 @@
     <display-name>Zee One German (720p)</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" />
   </channel>
+  <channel id="ZeePower.in@HD">
+    <display-name>Zee Power HD (1080p)</display-name>
+    <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0028ZJ97.png?lock=720x540" />
+  </channel>
   <channel id="ZeePunjabHaryanaHimachal.in@SD">
     <display-name>Zee Punjab Haryana Himachal (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0022KHKS.png?lock=720x540" />
@@ -46507,6 +46043,10 @@
   <channel id="ZeeSouthFlix.in@HD">
     <display-name>Zee South Flix (1080p)</display-name>
     <icon src="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" />
+  </channel>
+  <channel id="ZeeTalkies.in@HD">
+    <display-name>Zee Talkies HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png" />
   </channel>
   <channel id="ZeeTamil.in@SD">
     <display-name>Zee Tamil (576p) [Geo-blocked]</display-name>
@@ -46527,6 +46067,10 @@
   <channel id="ZeeTeluguNews.in@SD">
     <display-name>Zee Telugu News (720p)</display-name>
     <icon src="https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540" />
+  </channel>
+  <channel id="ZeeThirai.in@HD">
+    <display-name>Zee Thirai HD (1080p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png" />
   </channel>
   <channel id="ZeeTV.in@HD">
     <display-name>Zee TV HD (1080p)</display-name>
