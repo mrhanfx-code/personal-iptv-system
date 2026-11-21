@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T06:41:19.729382",
-  "total_entries": 11681,
+  "generated_at": "2026-11-21T06:33:44.610141",
+  "total_entries": 11567,
   "entries": [
     {
       "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
@@ -2283,96 +2283,12 @@
       "geo_blocked": false
     },
     {
-      "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-      "title": "¡OPA! (720p)",
-      "duration": -1,
-      "tvg_id": "OPA.cr@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/300c1ZH.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://stream.mcquack.net/285/index.m3u8",
-      "title": "¡Viva Latino! (1080p)",
-      "duration": -1,
-      "tvg_id": "VivaLatino.ua@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/KRakHAq.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
-      "title": "&pictures HD (1080p)",
-      "duration": -1,
-      "tvg_id": "Andpictures.in@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
-      "title": "&TV HD (1080p)",
-      "duration": -1,
-      "tvg_id": "AndTV.in@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
       "title": "&TV International (1080p)",
       "duration": -1,
       "tvg_id": "AndTV.in@International",
       "tvg_name": null,
       "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://116.90.120.149:8000/play/a11o/index.m3u8",
-      "title": "&xplor HD (1080p)",
-      "duration": -1,
-      "tvg_id": "AndxplorHD.in@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
-      "title": "+MaisUm (720p)",
-      "duration": -1,
-      "tvg_id": "PlusMaisUm.br@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8",
-      "title": "+TV (576p) [Geo-blocked]",
-      "duration": -1,
-      "tvg_id": "PlusTV.by@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -2445,6 +2361,90 @@
       "tvg_id": "24.sk@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/tTCuczU.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+      "title": "¡OPA! (720p)",
+      "duration": -1,
+      "tvg_id": "OPA.cr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/300c1ZH.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://stream.mcquack.net/285/index.m3u8",
+      "title": "¡Viva Latino! (1080p)",
+      "duration": -1,
+      "tvg_id": "VivaLatino.ua@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/KRakHAq.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a132/index.m3u8",
+      "title": "&pictures HD (1080p)",
+      "duration": -1,
+      "tvg_id": "Andpictures.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
+      "title": "&TV HD (1080p)",
+      "duration": -1,
+      "tvg_id": "AndTV.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a11o/index.m3u8",
+      "title": "&xplor HD (1080p)",
+      "duration": -1,
+      "tvg_id": "AndxplorHD.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+      "title": "+MaisUm (720p)",
+      "duration": -1,
+      "tvg_id": "PlusMaisUm.br@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8",
+      "title": "+TV (576p) [Geo-blocked]",
+      "duration": -1,
+      "tvg_id": "PlusTV.by@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -4629,42 +4629,6 @@
       "tvg_id": "AdriaMusicTelevision.de@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/QoDpnKg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205",
-      "title": "Adriatic Sport 1",
-      "duration": -1,
-      "tvg_id": "AdriaticSport1.ba@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-1.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
-      "title": "Adriatic Sport 2",
-      "duration": -1,
-      "tvg_id": "AdriaticSport2.ba@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-2.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-      "title": "Adriatic Sport 3",
-      "duration": -1,
-      "tvg_id": "AdriaticSport3.ba@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-3.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -9363,18 +9327,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://stream.apa.tv/apastream/index.m3u8",
-      "title": "APA Tv",
-      "duration": -1,
-      "tvg_id": "APATv.az@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/2CSW4V4.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
       "title": "apart TV (1080p)",
       "duration": -1,
@@ -9412,11 +9364,23 @@
     },
     {
       "url": "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-      "title": "Apna Punjab TV (720p)",
+      "title": "Apna Punjab TV (Canada) (720p)",
       "duration": -1,
       "tvg_id": "ApnaPunjabTV.ca@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/IM4D8Wz.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8",
+      "title": "Apna Punjab TV (India) (576p)",
+      "duration": -1,
+      "tvg_id": "ApnaPunjabTV.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://www.apnapunjab.tv/images/logo.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -9621,6 +9585,18 @@
       "tvg_id": "AraxTV.ir@SD",
       "tvg_name": null,
       "tvg_logo": "",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://operativmm.az/tvs/arb24/stream/index.m3u8",
+      "title": "ARB 24",
+      "duration": -1,
+      "tvg_id": "ARB24.az@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/mtvIFyq.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -10983,6 +10959,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211353/playlist.m3u8",
+      "title": "ATM Rozrywka REWORK (1080p)",
+      "duration": -1,
+      "tvg_id": "ATMRozrywkaREWORK.pl@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/B5BfmQNs/ATM.jpg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://tvsen5.aynascope.net/atnbangla/index.m3u8",
       "title": "ATN Bangla (720p)",
       "duration": -1,
@@ -11931,8 +11919,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
-      "title": "AXN (Spain)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703",
+      "title": "AXN (Spain) (1080p)",
       "duration": -1,
       "tvg_id": "AXN.es@SD",
       "tvg_name": null,
@@ -12160,23 +12148,11 @@
     },
     {
       "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
-      "title": "AXN Movies (Portugal) (720p)",
+      "title": "AXN Movies (720p)",
       "duration": -1,
       "tvg_id": "AXNMovies.pt@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/tJQckal.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
-      "title": "AXN Movies (Spain)",
-      "duration": -1,
-      "tvg_id": "AXNMovies.es@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -14799,8 +14775,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://57.129.0.61:1990/stream/117/index.m3u8",
-      "title": "beIN Sports 1 Turk",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad",
+      "title": "beIN Sports 1 Turk (1080p)",
       "duration": -1,
       "tvg_id": "beINSports1Turk.tr@SD",
       "tvg_name": null,
@@ -15363,44 +15339,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-630483153a21200007f1920f.m3u8",
-      "title": "Best of The Drew Barrymore Show (Sweden)",
-      "duration": -1,
-      "tvg_id": "BestofTheDrewBarrymoreShow.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8",
-      "title": "Best of The Drew Barrymore Show (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "BestofTheDrewBarrymoreShow.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8",
-      "title": "Best of The Drew Barrymore Show (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "BestofTheDrewBarrymoreShow.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8",
-      "title": "Best of The Drew Barrymore Show (United States)",
+      "title": "Best of The Drew Barrymore Show",
       "duration": -1,
       "tvg_id": "BestofTheDrewBarrymoreShow.us@CA",
       "tvg_name": null,
@@ -17427,44 +17367,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8",
-      "title": "Bondi Rescue (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "BondiRescue.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8",
-      "title": "Bondi Rescue (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "BondiRescue.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-660d67c419ca71000849a4e9.m3u8",
-      "title": "Bondi Rescue (Sweden) NO (720p)",
-      "duration": -1,
-      "tvg_id": "BondiRescue.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-66166989635c7500084105a2.m3u8",
-      "title": "Bondi Rescue (United States) (720p)",
+      "title": "Bondi Rescue (720p)",
       "duration": -1,
       "tvg_id": "BondiRescue.us@CA",
       "tvg_name": null,
@@ -17503,18 +17407,6 @@
       "title": "Boomerang (France) HD (720p)",
       "duration": -1,
       "tvg_id": "Boomerang.fr@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802",
-      "title": "Boomerang (Italy)",
-      "duration": -1,
-      "tvg_id": "Boomerang.it@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
       "group_title": "Live TV",
@@ -18933,6 +18825,18 @@
       "tvg_id": "CStar.fr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/w4kAX1V.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
+      "title": "C-10 (576p)",
+      "duration": -1,
+      "tvg_id": "C10.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://papaji.freetvindia.com/media/channels/C-10.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -21699,6 +21603,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3860888136d301b247640b",
+      "title": "Canal J (1080p)",
+      "duration": -1,
+      "tvg_id": "CanalJ.fr@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/960px-Canal_J_2019_Logo.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
       "title": "Canal Latino 54 (360p)",
       "duration": -1,
@@ -22503,18 +22419,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://57.129.96.133:888/stream/94/index.m3u8",
-      "title": "Canal+ Sport 2",
-      "duration": -1,
-      "tvg_id": "CanalPlusSport2.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/Aq2hnUj.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0",
       "title": "Canal+ Sport 2 SK",
       "duration": -1,
@@ -22527,36 +22431,12 @@
       "geo_blocked": false
     },
     {
-      "url": "http://57.129.96.133:888/stream/93/index.m3u8",
-      "title": "Canal+ Sport 3",
-      "duration": -1,
-      "tvg_id": "CanalPlusSport3.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/QZwPFa8.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0",
       "title": "Canal+ Sport 3 SK",
       "duration": -1,
       "tvg_id": "CanalPlusSport3SK.sk@SD",
       "tvg_name": null,
       "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/4/4c/CANAL%2B_SPORT_3.svg/revision/latest?cb=20241028202810",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://57.129.96.133:888/stream/95/index.m3u8",
-      "title": "Canal+ Sport 4",
-      "duration": -1,
-      "tvg_id": "CanalPlusSport4.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/BNAPYAx.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -22624,23 +22504,11 @@
     },
     {
       "url": "http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8",
-      "title": "Canal+ Sport (France) (1080p) [Geo-blocked]",
+      "title": "Canal+ Sport (1080p) [Geo-blocked]",
       "duration": -1,
       "tvg_id": "CanalPlusSport.fr@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/EOXnU15.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://57.129.96.133:888/stream/92/index.m3u8",
-      "title": "Canal+ Sport (Poland)",
-      "duration": -1,
-      "tvg_id": "CanalPlusSport.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/E0WTMa2.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -22971,44 +22839,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8",
-      "title": "Car Chase (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "CarChase.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8",
-      "title": "Car Chase (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "CarChase.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65a93b870c7ff50008d1ca47.m3u8",
-      "title": "Car Chase (Sweden) NO (720p)",
-      "duration": -1,
-      "tvg_id": "CarChase.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8",
-      "title": "Car Chase (United States) (720p)",
+      "title": "Car Chase (720p)",
       "duration": -1,
       "tvg_id": "CarChase.us@SD",
       "tvg_name": null,
@@ -23575,6 +23407,18 @@
       "title": "Cartoon Network Latin America South Pacific (576p)",
       "duration": -1,
       "tvg_id": "CartoonNetworkLatinAmerica.us@SouthPacific",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F327818589842dbaee1327c",
+      "title": "Cartoon Network Western Europe Portugal (576p)",
+      "duration": -1,
+      "tvg_id": "CartoonNetworkWesternEurope.uk@Portugal",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "group_title": "Live TV",
@@ -26583,20 +26427,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8",
-      "title": "Cheers (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "Cheers.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8",
-      "title": "Cheers (United States)",
+      "title": "Cheers",
       "duration": -1,
       "tvg_id": "Cheers.us@CA",
       "tvg_name": null,
@@ -27459,8 +27291,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://99.27.51.147/CineClassic/index.m3u8",
-      "title": "Cine+ Classic",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027",
+      "title": "Cine+ Classic (1080p)",
       "duration": -1,
       "tvg_id": "CinePlusClassic.fr@SD",
       "tvg_name": null,
@@ -31287,20 +31119,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8",
-      "title": "CSI (Sweden)",
-      "duration": -1,
-      "tvg_id": "CSI.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8",
-      "title": "CSI (United States)",
+      "title": "CSI",
       "duration": -1,
       "tvg_id": "CSI.us@SD",
       "tvg_name": null,
@@ -32127,20 +31947,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://116.90.120.149:8000/play/a0ad/index.m3u8",
-      "title": "Da Vinci (Poland) (576p)",
-      "duration": -1,
-      "tvg_id": "DaVinci.pl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/V8AUJP6.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://116.90.120.149:8000/play/a0s6/index.m3u8",
-      "title": "Da Vinci (Russia) (576p)",
+      "title": "Da Vinci (576p)",
       "duration": -1,
       "tvg_id": "DaVinci.ru@SD",
       "tvg_name": null,
@@ -34335,42 +34143,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8",
-      "title": "Diagnosis Murder",
-      "duration": -1,
-      "tvg_id": "DiagnosisMurder.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8",
-      "title": "Diagnosis Murder DK",
-      "duration": -1,
-      "tvg_id": "DiagnosisMurder.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8",
-      "title": "Diagnosis Murder NO",
-      "duration": -1,
-      "tvg_id": "DiagnosisMurder.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://vdo3.pro-fhi.net:3218/stream/play.m3u8",
       "title": "Diaspora 24 [Geo-blocked]",
       "duration": -1,
@@ -34509,54 +34281,6 @@
       "tvg_id": "Digi24.ro@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/qmRnD0M.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991",
-      "title": "Digi Sport 1 HD",
-      "duration": -1,
-      "tvg_id": "DigiSport1.ro@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/5zMxDYq.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=867728420",
-      "title": "Digi Sport 2 HD",
-      "duration": -1,
-      "tvg_id": "DigiSport2.ro@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/KWDUi3v.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4279401658",
-      "title": "Digi Sport 3 HD",
-      "duration": -1,
-      "tvg_id": "DigiSport3.ro@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/T1ci5UK.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4124538275",
-      "title": "Digi Sport 4",
-      "duration": -1,
-      "tvg_id": "DigiSport4.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/Knj9I6f.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -35227,6 +34951,18 @@
       "title": "Disney Channel (Czech Republic)",
       "duration": -1,
       "tvg_id": "DisneyChannel.cz@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5",
+      "title": "Disney Channel (France)",
+      "duration": -1,
+      "tvg_id": "DisneyChannel.fr@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
       "group_title": "Live TV",
@@ -36087,20 +35823,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8",
-      "title": "Doc Martin (Sweden)",
-      "duration": -1,
-      "tvg_id": "DocMartin.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8",
-      "title": "Doc Martin (United States)",
+      "title": "Doc Martin",
       "duration": -1,
       "tvg_id": "DocMartin.us@CA",
       "tvg_name": null,
@@ -37503,18 +37227,6 @@
       "geo_blocked": false
     },
     {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3166915380",
-      "title": "E! (Romania)",
-      "duration": -1,
-      "tvg_id": "E.ro@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
       "title": "E! (United States) East (1080p)",
       "duration": -1,
@@ -38631,8 +38343,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://85.132.53.162:1935/live/eltv/playlist.m3u8",
-      "title": "EL TV (260p)",
+      "url": "https://live.eltv.az/live/eltv/playlist.m3u8",
+      "title": "EL TV [Not 24/7]",
       "duration": -1,
       "tvg_id": "ELTV.az@SD",
       "tvg_name": null,
@@ -41439,8 +41151,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=512159637",
-      "title": "Eurosport 3 Polska",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
+      "title": "Eurosport 3 Polska (1080p)",
       "duration": -1,
       "tvg_id": "Eurosport3Polska.pl@SD",
       "tvg_name": null,
@@ -41475,8 +41187,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317",
-      "title": "Eurosport 4 Polska",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72",
+      "title": "Eurosport 4 Polska (1080p)",
       "duration": -1,
       "tvg_id": "Eurosport4Polska.pl@SD",
       "tvg_name": null,
@@ -42303,44 +42015,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8",
-      "title": "Family Ties (Sweden)",
-      "duration": -1,
-      "tvg_id": "FamilyTies.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a4a3ef91d250008ac089b.m3u8",
-      "title": "Family Ties (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "FamilyTies.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a4f7bf9cc8200086877d5.m3u8",
-      "title": "Family Ties (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "FamilyTies.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8",
-      "title": "Family Ties (United States)",
+      "title": "Family Ties",
       "duration": -1,
       "tvg_id": "FamilyTies.us@SD",
       "tvg_name": null,
@@ -43185,54 +42861,6 @@
       "tvg_id": "FilinfoTV.bf@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/KG93Tvn.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://86.87.15.10:8008/play/a01l/index.m3u8",
-      "title": "Film1 Action",
-      "duration": -1,
-      "tvg_id": "Film1Action.nl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://86.87.15.10:8008/play/a01k/index.m3u8",
-      "title": "Film1 Drama",
-      "duration": -1,
-      "tvg_id": "Film1Drama.nl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/oqrnvib.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://86.87.15.10:8008/play/a01m/index.m3u8",
-      "title": "Film1 Family",
-      "duration": -1,
-      "tvg_id": "Film1Family.nl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/8XRfXIa.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://86.87.15.10:8008/play/a01n/index.m3u8",
-      "title": "Film1 Premiere",
-      "duration": -1,
-      "tvg_id": "Film1Premiere.nl@SD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/Kn9LX8i.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -45303,20 +44931,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-6400c095498393000878a634.m3u8",
-      "title": "Frasier (Sweden)",
-      "duration": -1,
-      "tvg_id": "Frasier.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6400c095498393000878a634/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8",
-      "title": "Frasier (United States)",
+      "title": "Frasier",
       "duration": -1,
       "tvg_id": "Frasier.us@CA",
       "tvg_name": null,
@@ -49467,44 +49083,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8",
-      "title": "Happy Days (Sweden)",
-      "duration": -1,
-      "tvg_id": "HappyDays.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8",
-      "title": "Happy Days (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "HappyDays.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8",
-      "title": "Happy Days (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "HappyDays.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8",
-      "title": "Happy Days (United States)",
+      "title": "Happy Days",
       "duration": -1,
       "tvg_id": "HappyDays.us@SD",
       "tvg_name": null,
@@ -49516,7 +49096,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8",
-      "title": "Happy Days (United States) CA",
+      "title": "Happy Days CA",
       "duration": -1,
       "tvg_id": "HappyDays.us@CA",
       "tvg_name": null,
@@ -51423,7 +51003,7 @@
       "geo_blocked": false
     },
     {
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8",
       "title": "HNN 24x7 (576p)",
       "duration": -1,
       "tvg_id": "HNN24x7.in@SD",
@@ -52959,44 +52539,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8",
-      "title": "iCarly (Sweden)",
-      "duration": -1,
-      "tvg_id": "iCarly.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8",
-      "title": "iCarly (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "iCarly.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8",
-      "title": "iCarly (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "iCarly.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8",
-      "title": "iCarly (United States)",
+      "title": "iCarly",
       "duration": -1,
       "tvg_id": "iCarly.us@BR",
       "tvg_name": null,
@@ -53008,7 +52552,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8",
-      "title": "iCarly (United States) LatAm",
+      "title": "iCarly LatAm",
       "duration": -1,
       "tvg_id": "iCarly.us@LatAm",
       "tvg_name": null,
@@ -53020,7 +52564,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8",
-      "title": "iCarly (United States) SD",
+      "title": "iCarly SD",
       "duration": -1,
       "tvg_id": "iCarly.us@SD",
       "tvg_name": null,
@@ -55839,44 +55383,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8",
-      "title": "JAG (Sweden)",
-      "duration": -1,
-      "tvg_id": "JAG.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8",
-      "title": "JAG (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "JAG.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8",
-      "title": "JAG (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "JAG.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8",
-      "title": "JAG (United States)",
+      "title": "JAG",
       "duration": -1,
       "tvg_id": "JAG.us@CA",
       "tvg_name": null,
@@ -56319,44 +55827,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8",
-      "title": "Jersey Shore (Sweden)",
-      "duration": -1,
-      "tvg_id": "JerseyShore.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6442508e5a0cd500083edd3c.m3u8",
-      "title": "Jersey Shore (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "JerseyShore.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-64424b21e1979c0008379681.m3u8",
-      "title": "Jersey Shore (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "JerseyShore.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8",
-      "title": "Jersey Shore (United States)",
+      "title": "Jersey Shore",
       "duration": -1,
       "tvg_id": "JerseyShore.us@SD",
       "tvg_name": null,
@@ -64743,44 +64215,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8",
-      "title": "MacGyver (Sweden)",
-      "duration": -1,
-      "tvg_id": "MacGyver.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8",
-      "title": "MacGyver (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "MacGyver.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-654a59d483595c0008187514.m3u8",
-      "title": "MacGyver (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "MacGyver.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8",
-      "title": "MacGyver (United States)",
+      "title": "MacGyver",
       "duration": -1,
       "tvg_id": "MacGyver.us@BR",
       "tvg_name": null,
@@ -64792,7 +64228,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
-      "title": "MacGyver (United States) LatAm",
+      "title": "MacGyver LatAm",
       "duration": -1,
       "tvg_id": "MacGyver.us@LatAm",
       "tvg_name": null,
@@ -65787,6 +65223,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://live.koryocdn.org/mansudae/index.m3u8",
+      "title": "Mansudae Television (1080p) [Not 24/7]",
+      "duration": -1,
+      "tvg_id": "MansudaeTelevision.kp@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/7xowUs2.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8",
       "title": "Mantavya News (576p)",
       "duration": -1,
@@ -66423,44 +65871,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8",
-      "title": "Matlock (Sweden)",
-      "duration": -1,
-      "tvg_id": "Matlock.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-66290a779e68c20008a18cf3.m3u8",
-      "title": "Matlock (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "Matlock.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8",
-      "title": "Matlock (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "Matlock.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8",
-      "title": "Matlock (United States)",
+      "title": "Matlock",
       "duration": -1,
       "tvg_id": "Matlock.us@SD",
       "tvg_name": null,
@@ -66472,7 +65884,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8",
-      "title": "Matlock (United States) CA",
+      "title": "Matlock CA",
       "duration": -1,
       "tvg_id": "Matlock.us@CA",
       "tvg_name": null,
@@ -69267,44 +68679,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8",
-      "title": "Mission Impossible (Sweden)",
-      "duration": -1,
-      "tvg_id": "MissionImpossible.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8",
-      "title": "Mission Impossible (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "MissionImpossible.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8",
-      "title": "Mission Impossible (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "MissionImpossible.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8",
-      "title": "Mission Impossible (United States)",
+      "title": "Mission Impossible",
       "duration": -1,
       "tvg_id": "MissionImpossible.us@SD",
       "tvg_name": null,
@@ -69316,7 +68692,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8",
-      "title": "Mission Impossible (United States) CA",
+      "title": "Mission Impossible CA",
       "duration": -1,
       "tvg_id": "MissionImpossible.us@CA",
       "tvg_name": null,
@@ -71307,44 +70683,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8",
-      "title": "MTV Catfish (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "MTVCatfish.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6177fe76691b2e000702c7fc.m3u8",
-      "title": "MTV Catfish (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "MTVCatfish.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61781a52a3638a00078fa57e.m3u8",
-      "title": "MTV Catfish (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "MTVCatfish.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8",
-      "title": "MTV Catfish (United States)",
+      "title": "MTV Catfish",
       "duration": -1,
       "tvg_id": "MTVCatfish.us@CA",
       "tvg_name": null,
@@ -71356,7 +70696,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8",
-      "title": "MTV Catfish (United States) BR (720p)",
+      "title": "MTV Catfish BR (720p)",
       "duration": -1,
       "tvg_id": "MTVCatfish.us@BR",
       "tvg_name": null,
@@ -71368,7 +70708,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8",
-      "title": "MTV Catfish (United States) LatAm (720p)",
+      "title": "MTV Catfish LatAm (720p)",
       "duration": -1,
       "tvg_id": "MTVCatfish.us@LatAm",
       "tvg_name": null,
@@ -71463,44 +70803,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8",
-      "title": "MTV Dating (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "MTVDating.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6851407c21f49d1b9d177493.m3u8",
-      "title": "MTV Dating (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "MTVDating.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-685140bd21f49d1b9d177e21.m3u8",
-      "title": "MTV Dating (Sweden) NO (720p)",
-      "duration": -1,
-      "tvg_id": "MTVDating.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8",
-      "title": "MTV Dating (United States)",
+      "title": "MTV Dating",
       "duration": -1,
       "tvg_id": "MTVDating.us@BR",
       "tvg_name": null,
@@ -71512,7 +70816,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8",
-      "title": "MTV Dating (United States) CA",
+      "title": "MTV Dating CA",
       "duration": -1,
       "tvg_id": "MTVDating.us@CA",
       "tvg_name": null,
@@ -71524,7 +70828,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8",
-      "title": "MTV Dating (United States) LatAm (720p)",
+      "title": "MTV Dating LatAm (720p)",
       "duration": -1,
       "tvg_id": "MTVDating.us@LatAm",
       "tvg_name": null,
@@ -71799,44 +71103,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8",
-      "title": "MTV Reality (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "MTVReality.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8",
-      "title": "MTV Reality (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "MTVReality.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-68513950f212bedacf8ec48f.m3u8",
-      "title": "MTV Reality (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "MTVReality.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8",
-      "title": "MTV Reality (United States) (720p)",
+      "title": "MTV Reality (720p)",
       "duration": -1,
       "tvg_id": "MTVReality.us@BR",
       "tvg_name": null,
@@ -71848,7 +71116,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8",
-      "title": "MTV Reality (United States) CA",
+      "title": "MTV Reality CA",
       "duration": -1,
       "tvg_id": "MTVReality.us@CA",
       "tvg_name": null,
@@ -71860,7 +71128,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8",
-      "title": "MTV Reality (United States) LatAm (720p)",
+      "title": "MTV Reality LatAm (720p)",
       "duration": -1,
       "tvg_id": "MTVReality.us@LatAm",
       "tvg_name": null,
@@ -71871,44 +71139,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8",
-      "title": "MTV Ridiculousness (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "MTVRidiculousness.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62cd9641393d8400076f34db.m3u8",
-      "title": "MTV Ridiculousness (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "MTVRidiculousness.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62cd9e0d10bb020007005628.m3u8",
-      "title": "MTV Ridiculousness (Sweden) NO (720p)",
-      "duration": -1,
-      "tvg_id": "MTVRidiculousness.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8",
-      "title": "MTV Ridiculousness (United States) CA",
+      "title": "MTV Ridiculousness CA",
       "duration": -1,
       "tvg_id": "MTVRidiculousness.us@CA",
       "tvg_name": null,
@@ -71920,7 +71152,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8",
-      "title": "MTV Ridiculousness (United States) LatAm (720p)",
+      "title": "MTV Ridiculousness LatAm (720p)",
       "duration": -1,
       "tvg_id": "MTVRidiculousness.us@LatAm",
       "tvg_name": null,
@@ -71991,44 +71223,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
-      "title": "MTV Teen Mom (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "MTVTeenMom.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c092157e1b8b0007372a35.m3u8",
-      "title": "MTV Teen Mom (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "MTVTeenMom.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1df62b7672a0007b6c9ba.m3u8",
-      "title": "MTV Teen Mom (Sweden) NO (720p)",
-      "duration": -1,
-      "tvg_id": "MTVTeenMom.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8",
-      "title": "MTV Teen Mom (United States) (720p)",
+      "title": "MTV Teen Mom (720p)",
       "duration": -1,
       "tvg_id": "MTVTeenMom.us@LatAm",
       "tvg_name": null,
@@ -74871,20 +74067,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8",
-      "title": "NCIS (Sweden)",
-      "duration": -1,
-      "tvg_id": "NCIS.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8",
-      "title": "NCIS (United States)",
+      "title": "NCIS",
       "duration": -1,
       "tvg_id": "NCIS.us@BR",
       "tvg_name": null,
@@ -74896,7 +74080,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8",
-      "title": "NCIS (United States) CA",
+      "title": "NCIS CA",
       "duration": -1,
       "tvg_id": "NCIS.us@CA",
       "tvg_name": null,
@@ -74908,7 +74092,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
-      "title": "NCIS (United States) LatAm",
+      "title": "NCIS LatAm",
       "duration": -1,
       "tvg_id": "NCIS.us@LatAm",
       "tvg_name": null,
@@ -74943,20 +74127,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8",
-      "title": "NCIS: Los Angeles (Sweden)",
-      "duration": -1,
-      "tvg_id": "NCISLosAngeles.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8",
-      "title": "NCIS: Los Angeles (United States)",
+      "title": "NCIS: Los Angeles",
       "duration": -1,
       "tvg_id": "NCISLosAngeles.us@CA",
       "tvg_name": null,
@@ -77115,6 +76287,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f",
+      "title": "Nickelodeon (Portugal)",
+      "duration": -1,
+      "tvg_id": "Nickelodeon.pt@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://178.76.68.60:7442/64/mpegts",
       "title": "Nickelodeon (Romania)",
       "duration": -1,
@@ -77361,6 +76545,18 @@
       "tvg_id": "NickOnline.br@HD",
       "tvg_name": null,
       "tvg_logo": "https://x1colegal.com/logo.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://bob.x1colegal.com/hls/stream.m3u8",
+      "title": "NickOnline Bob Esponja [Not 24/7]",
+      "duration": -1,
+      "tvg_id": "NickOnlineBobEsponja.br@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://x1colegal.com/nickonlinebobesponja.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -79527,30 +78723,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8",
-      "title": "Numb3rs",
-      "duration": -1,
-      "tvg_id": "Numb3rs.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-63dbe78051f5d000083e9249.m3u8",
-      "title": "Numb3rs NO",
-      "duration": -1,
-      "tvg_id": "Numb3rs.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
       "title": "Number 1 Ask (720p)",
       "duration": -1,
@@ -79599,20 +78771,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8",
-      "title": "Numbers (Sweden)",
-      "duration": -1,
-      "tvg_id": "Numbers.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62bebb3a67307900077a7f9d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8",
-      "title": "Numbers (United States)",
+      "title": "Numbers",
       "duration": -1,
       "tvg_id": "Numbers.us@BR",
       "tvg_name": null,
@@ -81375,8 +80535,20 @@
       "geo_blocked": false
     },
     {
+      "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8",
+      "title": "One (Israel)",
+      "duration": -1,
+      "tvg_id": "One.il@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/hYrP2P0.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8",
-      "title": "One (720p)",
+      "title": "One (Malta) (720p)",
       "duration": -1,
       "tvg_id": "One.mt@SD",
       "tvg_name": null,
@@ -83043,8 +82215,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
-      "title": "Paramount Network (Poland)",
+      "url": "https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693",
+      "title": "Paramount Network (Poland) (1080p)",
       "duration": -1,
       "tvg_id": "ParamountNetwork.pl@SD",
       "tvg_name": null,
@@ -84735,42 +83907,6 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8",
-      "title": "Pimp My Ride",
-      "duration": -1,
-      "tvg_id": "PimpMyRide.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8",
-      "title": "Pimp My Ride DK",
-      "duration": -1,
-      "tvg_id": "PimpMyRide.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1d6e1f5acaf0007f8381d.m3u8",
-      "title": "Pimp My Ride NO",
-      "duration": -1,
-      "tvg_id": "PimpMyRide.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://sistemastr.tropicalmoonmedia.com/live/7C452409423F57ADC960F6405635267F/7.m3u8",
       "title": "Pindin TV",
       "duration": -1,
@@ -85215,44 +84351,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8",
-      "title": "Pluto TV Action (Sweden)",
-      "duration": -1,
-      "tvg_id": "PlutoTVAction.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8",
-      "title": "Pluto TV Action (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "PlutoTVAction.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8",
-      "title": "Pluto TV Action (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "PlutoTVAction.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8",
-      "title": "Pluto TV Action (United States)",
+      "title": "Pluto TV Action",
       "duration": -1,
       "tvg_id": "PlutoTVAction.us@US",
       "tvg_name": null,
@@ -87111,44 +86211,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8",
-      "title": "Pluto TV Horror (Sweden)",
-      "duration": -1,
-      "tvg_id": "PlutoTVHorror.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
-      "title": "Pluto TV Horror (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "PlutoTVHorror.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8",
-      "title": "Pluto TV Horror (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "PlutoTVHorror.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8",
-      "title": "Pluto TV Horror (United States)",
+      "title": "Pluto TV Horror",
       "duration": -1,
       "tvg_id": "PlutoTVHorror.us@US",
       "tvg_name": null,
@@ -87160,7 +86224,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
-      "title": "Pluto TV Horror (United States) CA",
+      "title": "Pluto TV Horror CA",
       "duration": -1,
       "tvg_id": "PlutoTVHorror.us@CA",
       "tvg_name": null,
@@ -87183,20 +86247,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
-      "title": "Pluto TV Humor (Sweden)",
-      "duration": -1,
-      "tvg_id": "PlutoTVHumor.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
-      "title": "Pluto TV Humor (United States)",
+      "title": "Pluto TV Humor",
       "duration": -1,
       "tvg_id": "PlutoTVHumor.us@LatAm",
       "tvg_name": null,
@@ -88047,32 +87099,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8",
-      "title": "Pluto TV Paranormal (Sweden)",
-      "duration": -1,
-      "tvg_id": "PlutoTVParanormal.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
-      "title": "Pluto TV Paranormal (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "PlutoTVParanormal.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
-      "title": "Pluto TV Paranormal (United States)",
+      "title": "Pluto TV Paranormal",
       "duration": -1,
       "tvg_id": "PlutoTVParanormal.us@US",
       "tvg_name": null,
@@ -88084,7 +87112,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
-      "title": "Pluto TV Paranormal (United States) CA",
+      "title": "Pluto TV Paranormal CA",
       "duration": -1,
       "tvg_id": "PlutoTVParanormal.us@CA",
       "tvg_name": null,
@@ -88407,44 +87435,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
-      "title": "Pluto TV Sci-Fi (Sweden)",
-      "duration": -1,
-      "tvg_id": "PlutoTVSciFi.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
-      "title": "Pluto TV Sci-Fi (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "PlutoTVSciFi.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8",
-      "title": "Pluto TV Sci-Fi (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "PlutoTVSciFi.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8",
-      "title": "Pluto TV Sci-Fi (United States)",
+      "title": "Pluto TV Sci-Fi",
       "duration": -1,
       "tvg_id": "PlutoTVSciFi.us@US",
       "tvg_name": null,
@@ -88456,7 +87448,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8",
-      "title": "Pluto TV Sci-Fi (United States) CA",
+      "title": "Pluto TV Sci-Fi CA",
       "duration": -1,
       "tvg_id": "PlutoTVSciFi.us@CA",
       "tvg_name": null,
@@ -88468,7 +87460,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8",
-      "title": "Pluto TV Sci-Fi (United States) LatAm",
+      "title": "Pluto TV Sci-Fi LatAm",
       "duration": -1,
       "tvg_id": "PlutoTVSciFi.us@LatAm",
       "tvg_name": null,
@@ -89247,44 +88239,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
-      "title": "Pluto TV True Crime (Sweden)",
-      "duration": -1,
-      "tvg_id": "PlutoTVTrueCrime.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-      "title": "Pluto TV True Crime (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "PlutoTVTrueCrime.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-      "title": "Pluto TV True Crime (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "PlutoTVTrueCrime.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
-      "title": "Pluto TV True Crime (United States)",
+      "title": "Pluto TV True Crime",
       "duration": -1,
       "tvg_id": "PlutoTVTrueCrime.us@US",
       "tvg_name": null,
@@ -89296,7 +88252,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
-      "title": "Pluto TV True Crime (United States) CA",
+      "title": "Pluto TV True Crime CA",
       "duration": -1,
       "tvg_id": "PlutoTVTrueCrime.us@CA",
       "tvg_name": null,
@@ -89511,20 +88467,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
-      "title": "Pluto TV Westerns (Germany)",
-      "duration": -1,
-      "tvg_id": "PlutoTVWesterns.de@GB",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8",
-      "title": "Pluto TV Westerns (United States)",
+      "title": "Pluto TV Westerns",
       "duration": -1,
       "tvg_id": "PlutoTVWesterns.us@US",
       "tvg_name": null,
@@ -89536,7 +88480,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8",
-      "title": "Pluto TV Westerns (United States) CA",
+      "title": "Pluto TV Westerns CA",
       "duration": -1,
       "tvg_id": "PlutoTVWesterns.us@CA",
       "tvg_name": null,
@@ -90999,36 +89943,24 @@
       "geo_blocked": false
     },
     {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3381201599",
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm",
+      "title": "Prima Sport 1 HD",
+      "duration": -1,
+      "tvg_id": "PrimaSport1.ro@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm",
       "title": "Prima Sport 2 HD",
       "duration": -1,
       "tvg_id": "PrimaSport2.ro@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/hROcepe.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2762629881",
-      "title": "Prima Sport 3 HD",
-      "duration": -1,
-      "tvg_id": "PrimaSport3.ro@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3194919143",
-      "title": "Prima Sport 4 HD",
-      "duration": -1,
-      "tvg_id": "PrimaSport4.ro@HD",
-      "tvg_name": null,
-      "tvg_logo": "https://i.imgur.com/lqaIIhc.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -96147,44 +95079,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8",
-      "title": "Rawhide (Sweden)",
-      "duration": -1,
-      "tvg_id": "Rawhide.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8",
-      "title": "Rawhide (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "Rawhide.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8",
-      "title": "Rawhide (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "Rawhide.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8",
-      "title": "Rawhide (United States)",
+      "title": "Rawhide",
       "duration": -1,
       "tvg_id": "Rawhide.us@SD",
       "tvg_name": null,
@@ -96196,7 +95092,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8",
-      "title": "Rawhide (United States) CA",
+      "title": "Rawhide CA",
       "duration": -1,
       "tvg_id": "Rawhide.us@CA",
       "tvg_name": null,
@@ -98307,20 +97203,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8",
-      "title": "Ridiculousness (Germany) (720p)",
-      "duration": -1,
-      "tvg_id": "Ridiculousness.de@FR",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8",
-      "title": "Ridiculousness (United States)",
+      "title": "Ridiculousness",
       "duration": -1,
       "tvg_id": "Ridiculousness.us@SD",
       "tvg_name": null,
@@ -101139,20 +100023,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8",
-      "title": "Rugrats (Germany)",
-      "duration": -1,
-      "tvg_id": "Rugrats.de@ES",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8",
-      "title": "Rugrats (United States)",
+      "title": "Rugrats",
       "duration": -1,
       "tvg_id": "Rugrats.us@LatAm",
       "tvg_name": null,
@@ -106600,9 +105472,21 @@
     },
     {
       "url": "http://94.130.48.67:8042/stream/51/index.m3u8",
-      "title": "Sky Sport F1",
+      "title": "Sky Sport F1 (Germany)",
       "duration": -1,
       "tvg_id": "SkySportF1.de@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d",
+      "title": "Sky Sport F1 (Italy)",
+      "duration": -1,
+      "tvg_id": "SkySportF1.it@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png",
       "group_title": "Live TV",
@@ -106983,32 +105867,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
-      "title": "Smithsonian Channel Selects (Sweden)",
-      "duration": -1,
-      "tvg_id": "SmithsonianChannelSelects.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
-      "title": "Smithsonian Channel Selects (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "SmithsonianChannelSelects.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8",
-      "title": "Smithsonian Channel Selects (United States)",
+      "title": "Smithsonian Channel Selects",
       "duration": -1,
       "tvg_id": "SmithsonianChannelSelects.us@SD",
       "tvg_name": null,
@@ -107859,12 +106719,72 @@
       "geo_blocked": false
     },
     {
+      "url": "http://116.90.120.149:8000/play/a128/index.m3u8",
+      "title": "Sony SAB HD (1080p)",
+      "duration": -1,
+      "tvg_id": "SonySAB.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a126/index.m3u8",
+      "title": "Sony Sports Ten 1 (576p)",
+      "duration": -1,
+      "tvg_id": "SonySportsTen1.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
+      "title": "Sony Sports Ten 1 HD (1080p)",
+      "duration": -1,
+      "tvg_id": "SonySportsTen1.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
+      "title": "Sony Sports Ten 2 HD (1080p)",
+      "duration": -1,
+      "tvg_id": "SonySportsTen2.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://r2.amml.in/sony-ten-3-hd/live.m3u8",
       "title": "Sony Sports Ten 3 Hindi (1080p)",
       "duration": -1,
       "tvg_id": "SonySportsTen3Hindi.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a117/index.m3u8",
+      "title": "Sony Sports Ten 5 (576p)",
+      "duration": -1,
+      "tvg_id": "SonySportsTen5.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -108063,80 +106983,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-628751bb7154a40007168843.m3u8",
-      "title": "South Park (Germany)",
-      "duration": -1,
-      "tvg_id": "SouthPark.de@ES",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8",
-      "title": "South Park (Germany) GB",
-      "duration": -1,
-      "tvg_id": "SouthPark.de@GB",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8",
-      "title": "South Park (Germany) IT",
-      "duration": -1,
-      "tvg_id": "SouthPark.de@IT",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8",
-      "title": "South Park (Sweden)",
-      "duration": -1,
-      "tvg_id": "SouthPark.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8",
-      "title": "South Park (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "SouthPark.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8",
-      "title": "South Park (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "SouthPark.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8",
-      "title": "South Park (United States)",
+      "title": "South Park",
       "duration": -1,
       "tvg_id": "SouthPark.us@CA",
       "tvg_name": null,
@@ -108291,56 +107139,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
-      "title": "South Park: Cartman Collection (Germany)",
-      "duration": -1,
-      "tvg_id": "SouthParkCartmanCollection.de@DACH",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8",
-      "title": "South Park: Cartman Collection (Sweden)",
-      "duration": -1,
-      "tvg_id": "SouthParkCartmanCollection.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d87a058145cb0008265c2e.m3u8",
-      "title": "South Park: Cartman Collection (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "SouthParkCartmanCollection.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d87fa0f7f0af0008b2358b.m3u8",
-      "title": "South Park: Cartman Collection (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "SouthParkCartmanCollection.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8",
-      "title": "South Park: Cartman Collection (United States)",
+      "title": "South Park: Cartman Collection",
       "duration": -1,
       "tvg_id": "SouthParkCartmanCollection.us@CA",
       "tvg_name": null,
@@ -108483,56 +107283,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8",
-      "title": "South Park: Kenny Collection (Germany)",
-      "duration": -1,
-      "tvg_id": "SouthParkKennyCollection.de@DACH",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8",
-      "title": "South Park: Kenny Collection (Sweden)",
-      "duration": -1,
-      "tvg_id": "SouthParkKennyCollection.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8",
-      "title": "South Park: Kenny Collection (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "SouthParkKennyCollection.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8",
-      "title": "South Park: Kenny Collection (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "SouthParkKennyCollection.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8",
-      "title": "South Park: Kenny Collection (United States)",
+      "title": "South Park: Kenny Collection",
       "duration": -1,
       "tvg_id": "SouthParkKennyCollection.us@CA",
       "tvg_name": null,
@@ -108543,56 +107295,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8",
-      "title": "South Park: Kyle Collection (Germany)",
-      "duration": -1,
-      "tvg_id": "SouthParkKyleCollection.de@DACH",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d882394e01740008a36768.m3u8",
-      "title": "South Park: Kyle Collection (Sweden)",
-      "duration": -1,
-      "tvg_id": "SouthParkKyleCollection.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8",
-      "title": "South Park: Kyle Collection (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "SouthParkKyleCollection.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8",
-      "title": "South Park: Kyle Collection (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "SouthParkKyleCollection.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8",
-      "title": "South Park: Kyle Collection (United States)",
+      "title": "South Park: Kyle Collection",
       "duration": -1,
       "tvg_id": "SouthParkKyleCollection.us@CA",
       "tvg_name": null,
@@ -108615,56 +107319,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8",
-      "title": "South Park: Stan Collection (Germany)",
-      "duration": -1,
-      "tvg_id": "SouthParkStanCollection.de@DACH",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d881914e01740008a36603.m3u8",
-      "title": "South Park: Stan Collection (Sweden)",
-      "duration": -1,
-      "tvg_id": "SouthParkStanCollection.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8",
-      "title": "South Park: Stan Collection (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "SouthParkStanCollection.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8",
-      "title": "South Park: Stan Collection (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "SouthParkStanCollection.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8",
-      "title": "South Park: Stan Collection (United States)",
+      "title": "South Park: Stan Collection",
       "duration": -1,
       "tvg_id": "SouthParkStanCollection.us@CA",
       "tvg_name": null,
@@ -109959,6 +108615,54 @@
       "geo_blocked": false
     },
     {
+      "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
+      "title": "Star Gold 2 (576p)",
+      "duration": -1,
+      "tvg_id": "StarGold2.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/G0ZfzZr.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
+      "title": "Star Gold HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarGold.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/xC460sj.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
+      "title": "Star Gold Romance (576p)",
+      "duration": -1,
+      "tvg_id": "StarGoldRomance.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/gSWv9U3.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
+      "title": "Star Gold Select HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarGoldSelect.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/U7eiuqv.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
       "title": "Star Jalsha (1080p) [Geo-blocked]",
       "duration": -1,
@@ -110055,6 +108759,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
+      "title": "Star Movies (India) HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarMovies.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8",
       "title": "Star Movies (Portugal)",
       "duration": -1,
@@ -110073,6 +108789,18 @@
       "tvg_id": "StarMovies.si@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/JcoAgDF.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
+      "title": "Star Movies Select HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarMoviesSelect.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -110109,6 +108837,42 @@
       "tvg_id": "StarPravah.in@HD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/ZT0u7AK.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+      "title": "Star Sports 1 HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarSports1.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.imgur.com/E5jjKHI.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
+      "title": "Star Sports 1 Hindi HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarSports1Hindi.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
+      "title": "Star Sports 2 HD (1080p)",
+      "duration": -1,
+      "tvg_id": "StarSports2.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -110211,20 +108975,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
-      "title": "Star Trek: The Next Generation (Germany)",
-      "duration": -1,
-      "tvg_id": "StarTrekTheNextGeneration.de@DACH",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8",
-      "title": "Star Trek: The Next Generation (United States)",
+      "title": "Star Trek: The Next Generation",
       "duration": -1,
       "tvg_id": "StarTrekTheNextGeneration.us@SD",
       "tvg_name": null,
@@ -110283,32 +109035,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
-      "title": "Star Trek: Voyager (Germany)",
-      "duration": -1,
-      "tvg_id": "StarTrekVoyager.de@ES",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
-      "title": "Star Trek: Voyager (Germany) IT",
-      "duration": -1,
-      "tvg_id": "StarTrekVoyager.de@IT",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
-      "title": "Star Trek: Voyager (United States)",
+      "title": "Star Trek: Voyager",
       "duration": -1,
       "tvg_id": "StarTrekVoyager.us@SD",
       "tvg_name": null,
@@ -113931,6 +112659,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8",
+      "title": "TBN Polska (1080p)",
+      "duration": -1,
+      "tvg_id": "TBNPolska.pl@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://ocdn.eu/ptv2-images-transforms/1/4fPkrxsb2dvLW1pZ3JhdGVkL3Ribi1wb2xza2EucG5nkpUCZADCw5UCACjCww",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8",
       "title": "TBN UK (1080p)",
       "duration": -1,
@@ -114315,44 +113055,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
-      "title": "Teen Mom (Germany)",
-      "duration": -1,
-      "tvg_id": "TeenMom.de@IT",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8",
-      "title": "Teen Mom (Germany) FR (720p)",
-      "duration": -1,
-      "tvg_id": "TeenMom.de@FR",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-62d550d81054990007db7798.m3u8",
-      "title": "Teen Mom (Germany) GB",
-      "duration": -1,
-      "tvg_id": "TeenMom.de@GB",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
-      "title": "Teen Mom (United States)",
+      "title": "Teen Mom",
       "duration": -1,
       "tvg_id": "TeenMom.us@SD",
       "tvg_name": null,
@@ -114579,8 +113283,8 @@
       "geo_blocked": false
     },
     {
-      "url": "http://45.171.108.253:8888/TELEANTILLAS/index.m3u8",
-      "title": "Tele Antillas (1080p)",
+      "url": "https://hls.tvabierta.net/hls/010.m3u8",
+      "title": "Tele Antillas (480p)",
       "duration": -1,
       "tvg_id": "TeleAntillas.do@SD",
       "tvg_name": null,
@@ -117351,6 +116055,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://str10.imperiummedia.pl/TVIMPERIUM/index.m3u8",
+      "title": "Telewizja Imperium (1080p)",
+      "duration": -1,
+      "tvg_id": "TelewizjaImperium.pl@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8",
       "title": "Telewizja iTTV (1080p)",
       "duration": -1,
@@ -118719,56 +117435,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8",
-      "title": "The New Detectives (Germany)",
-      "duration": -1,
-      "tvg_id": "TheNewDetectives.de@GB",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8",
-      "title": "The New Detectives (Sweden)",
-      "duration": -1,
-      "tvg_id": "TheNewDetectives.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-618147d2a814250007b42916.m3u8",
-      "title": "The New Detectives (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "TheNewDetectives.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8",
-      "title": "The New Detectives (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "TheNewDetectives.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8",
-      "title": "The New Detectives (United States)",
+      "title": "The New Detectives",
       "duration": -1,
       "tvg_id": "TheNewDetectives.us@US",
       "tvg_name": null,
@@ -118780,7 +117448,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8",
-      "title": "The New Detectives (United States) CA",
+      "title": "The New Detectives CA",
       "duration": -1,
       "tvg_id": "TheNewDetectives.us@CA",
       "tvg_name": null,
@@ -118792,7 +117460,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8",
-      "title": "The New Detectives (United States) LatAm",
+      "title": "The New Detectives LatAm",
       "duration": -1,
       "tvg_id": "TheNewDetectives.us@LatAm",
       "tvg_name": null,
@@ -119163,44 +117831,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8",
-      "title": "The Wild Wild West (Sweden)",
-      "duration": -1,
-      "tvg_id": "TheWildWildWest.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8",
-      "title": "The Wild Wild West (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "TheWildWildWest.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8",
-      "title": "The Wild Wild West (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "TheWildWildWest.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8",
-      "title": "The Wild Wild West (United States)",
+      "title": "The Wild Wild West",
       "duration": -1,
       "tvg_id": "TheWildWildWest.us@SD",
       "tvg_name": null,
@@ -119949,6 +118581,18 @@
       "tvg_id": "TLC.hu@SD",
       "tvg_name": null,
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a11g/index.m3u8",
+      "title": "TLC (India) HD (1080p)",
+      "duration": -1,
+      "tvg_id": "TLC.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -121167,20 +119811,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8",
-      "title": "Tortues Ninja TV (Germany) (720p)",
-      "duration": -1,
-      "tvg_id": "TortuesNinjaTV.de@FR",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8",
-      "title": "Tortues Ninja TV (United States) (720p)",
+      "title": "Tortues Ninja TV (720p)",
       "duration": -1,
       "tvg_id": "TortuesNinjaTV.us@CA",
       "tvg_name": null,
@@ -121191,44 +119823,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8",
-      "title": "Tosh.0 (Sweden)",
-      "duration": -1,
-      "tvg_id": "Tosh0.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65e977042873090008b48be9.m3u8",
-      "title": "Tosh.0 (Sweden) DK",
-      "duration": -1,
-      "tvg_id": "Tosh0.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8",
-      "title": "Tosh.0 (Sweden) NO",
-      "duration": -1,
-      "tvg_id": "Tosh0.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8",
-      "title": "Tosh.0 (United States)",
+      "title": "Tosh.0",
       "duration": -1,
       "tvg_id": "Tosh0.us@SD",
       "tvg_name": null,
@@ -121287,68 +119883,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8",
-      "title": "Totally Turtles (Germany) (720p)",
-      "duration": -1,
-      "tvg_id": "TotallyTurtles.de@DACH",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-656ef4af4261ca00083c8f37.m3u8",
-      "title": "Totally Turtles (Germany) GB",
-      "duration": -1,
-      "tvg_id": "TotallyTurtles.de@GB",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8",
-      "title": "Totally Turtles (Sweden) (720p)",
-      "duration": -1,
-      "tvg_id": "TotallyTurtles.se@SE",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8",
-      "title": "Totally Turtles (Sweden) DK (720p)",
-      "duration": -1,
-      "tvg_id": "TotallyTurtles.se@DK",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
-      "url": "https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8",
-      "title": "Totally Turtles (Sweden) NO (720p)",
-      "duration": -1,
-      "tvg_id": "TotallyTurtles.se@NO",
-      "tvg_name": null,
-      "tvg_logo": "https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png",
-      "group_title": "Live TV",
-      "quality": null,
-      "valid": true,
-      "geo_blocked": false
-    },
-    {
       "url": "https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8",
-      "title": "Totally Turtles (United States)",
+      "title": "Totally Turtles",
       "duration": -1,
       "tvg_id": "TotallyTurtles.us@US",
       "tvg_name": null,
@@ -121360,7 +119896,7 @@
     },
     {
       "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8",
-      "title": "Totally Turtles (United States) CA (720p)",
+      "title": "Totally Turtles CA (720p)",
       "duration": -1,
       "tvg_id": "TotallyTurtles.us@CA",
       "tvg_name": null,
@@ -121563,8 +120099,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
-      "title": "Trace Brazuca (1080p)",
+      "url": "https://channels.trace.plus/Traceprod/BRAZIL_sd/index.m3u8",
+      "title": "Trace Brazuca (1090p)",
       "duration": -1,
       "tvg_id": "TraceBrazuca.fr@SD",
       "tvg_name": null,
@@ -122475,8 +121011,8 @@
       "geo_blocked": false
     },
     {
-      "url": "https://tv-trt3.live.trt.com.tr/master.m3u8",
-      "title": "TRT 3 (720p)",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243",
+      "title": "TRT 3 (1080p)",
       "duration": -1,
       "tvg_id": "TRT3.tr@SD",
       "tvg_name": null,
@@ -128967,6 +127503,18 @@
       "geo_blocked": false
     },
     {
+      "url": "https://tvk.smnt.pl/memfs/cf3a66ef-133a-4579-86da-5995ab23ae2a.m3u8",
+      "title": "TVK SMNT (1080p)",
+      "duration": -1,
+      "tvg_id": "TVKSMNT.pl@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://i.ibb.co/XZ3m8kr1/logotvk.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://stream.tvkstella.pl/stella/stella.m3u8",
       "title": "TVK Stella (576p)",
       "duration": -1,
@@ -131889,6 +130437,42 @@
       "tvg_id": "UnisulTV.br@SD",
       "tvg_name": null,
       "tvg_logo": "https://i.imgur.com/N0TvAFz.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a11l/index.m3u8",
+      "title": "Unite8 Sports 1 (576p)",
+      "duration": -1,
+      "tvg_id": "Unite8Sports1.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
+      "title": "Unite8 Sports 1 HD (1080p)",
+      "duration": -1,
+      "tvg_id": "Unite8Sports1.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
+      "title": "Unite8 Sports 2 HD (1080p)",
+      "duration": -1,
+      "tvg_id": "Unite8Sports2.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -139335,6 +137919,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://116.90.120.149:8000/play/a121/index.m3u8",
+      "title": "Zee Classic (576p)",
+      "duration": -1,
+      "tvg_id": "ZeeClassic.in@SD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
       "title": "Zee Comedy Nation (1080p)",
       "duration": -1,
@@ -139491,6 +138087,18 @@
       "geo_blocked": false
     },
     {
+      "url": "http://116.90.120.149:8000/play/a11p/index.m3u8",
+      "title": "Zee Power HD (1080p)",
+      "duration": -1,
+      "tvg_id": "ZeePower.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG0028ZJ97.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
       "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8",
       "title": "Zee Punjab Haryana Himachal (720p)",
       "duration": -1,
@@ -139521,6 +138129,18 @@
       "tvg_id": "ZeeSouthFlix.in@HD",
       "tvg_name": null,
       "tvg_logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a116/index.m3u8",
+      "title": "Zee Talkies HD (1080p)",
+      "duration": -1,
+      "tvg_id": "ZeeTalkies.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
@@ -139581,6 +138201,18 @@
       "tvg_id": "ZeeTeluguNews.in@SD",
       "tvg_name": null,
       "tvg_logo": "https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540",
+      "group_title": "Live TV",
+      "quality": null,
+      "valid": true,
+      "geo_blocked": false
+    },
+    {
+      "url": "http://116.90.120.149:8000/play/a11q/index.m3u8",
+      "title": "Zee Thirai HD (1080p)",
+      "duration": -1,
+      "tvg_id": "ZeeThirai.in@HD",
+      "tvg_name": null,
+      "tvg_logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
       "group_title": "Live TV",
       "quality": null,
       "valid": true,
